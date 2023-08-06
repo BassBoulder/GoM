@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Levels/Main_Menu.umap",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Main_Menu/Main_Menu_Widget.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/AS_Protagonist.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/AnimSequences/Idle.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Idle_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Idle.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Protagonist_Idle_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Walk.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Walk_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Walk_Down.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Walk_Up.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Crouch.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Crouch_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Jump.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Jump_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Aim.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Aim_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Brace_Aim_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Shoot_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Brace_Shoot_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Walk_Up_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Protagonist/Walk_Down_Pistol.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Blueprints/NewPaperZDAnimBP.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Blueprints/Z_Player_BP.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Blueprints/Z_Player_Animation.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Blueprints/Z_Player_ABP.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Blueprints/ZBP_Player.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Blueprints/BP_Player.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/HUD/Status_Bar_Widget.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/HUD/IInteractInterface.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Inventory/Inventory_System.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Inventory/Item_Data_Component.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Inventory/My_Dresser.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Inventory/Items/TEST_Item.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Blueprints/GM_GoM.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Main_Menu.umap",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Levels/Level1.umap"
+			]
+		}
+	]
+}

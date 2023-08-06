@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\onedrive\\documents\\unreal projects\\gom\\source\\gom\\gomgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\onedrive\\documents\\unreal projects\\gom\\intermediate\\build\\win64\\gom\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\onedrive\\documents\\unreal projects\\gom\\intermediate\\build\\win64\\unrealgame\\shipping\\gom\\definitions.gom.h",
+            "d:\\onedrive\\documents\\unreal projects\\gom\\source\\gom\\gomgamemodebase.h",
+            "d:\\epic library\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic library\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic library\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic library\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\onedrive\\documents\\unreal projects\\gom\\intermediate\\build\\win64\\unrealgame\\inc\\gom\\uht\\gomgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

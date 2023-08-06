@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\onedrive\\documents\\unreal projects\\gom\\intermediate\\build\\win64\\unrealgame\\inc\\gom\\uht\\gom.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\onedrive\\documents\\unreal projects\\gom\\intermediate\\build\\win64\\gom\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\onedrive\\documents\\unreal projects\\gom\\intermediate\\build\\win64\\unrealgame\\shipping\\gom\\definitions.gom.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
