@@ -1,10 +1,6 @@
 {
 	"Files": [
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset",
-			"ChunkId": "90442f10ca8d9eb700000001"
-		},
-		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset",
 			"ChunkId": "7aba7a84b764bf1300000001"
 		},
@@ -27,6 +23,14 @@
 		{
 			"Path": "Engine/Content/EngineSounds/Master.uasset",
 			"ChunkId": "e670df8e769d382e00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset",
+			"ChunkId": "90442f10ca8d9eb700000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset",
+			"ChunkId": "f1ebd6418dba317a00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset",
@@ -83,6 +87,10 @@
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset",
 			"ChunkId": "c1ceadea19a929af00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset",
+			"ChunkId": "6ca66bbcba09d42900000001"
 		},
 		{
 			"Path": "Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset",
@@ -161,76 +169,12 @@
 			"ChunkId": "94d5e4cbc0f4380c00000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset",
-			"ChunkId": "6a3b7a697242e13400000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset",
-			"ChunkId": "6752d9e62e6e395700000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset",
-			"ChunkId": "474711309ee6ba8900000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uasset",
-			"ChunkId": "ff2780bcc9007c2000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uasset",
-			"ChunkId": "5e0c222e8a07572b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uasset",
-			"ChunkId": "ea285112b75564f500000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uasset",
-			"ChunkId": "ff6a2f06a2fd594000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uasset",
-			"ChunkId": "a50a1a2c0fbdbf2400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uasset",
-			"ChunkId": "c3ed2aec2e97f7b800000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uasset",
-			"ChunkId": "698b7b9412dd2d6b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uasset",
-			"ChunkId": "4e0570e57ebf3f7000000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
-			"ChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset",
-			"ChunkId": "1e8860c1da3e1ade00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
-			"ChunkId": "7a7173cfb4095b9f00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk",
-			"ChunkId": "7a7173cfb4095b9f00000002"
+			"Path": "Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset",
+			"ChunkId": "0125e0852ce3d3e700000001"
 		},
 		{
 			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
 			"ChunkId": "b85ee5fd59f4dd2000000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset",
-			"ChunkId": "a996adcfa357ed2d00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk",
-			"ChunkId": "a996adcfa357ed2d00000002"
 		},
 		{
 			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
@@ -249,24 +193,36 @@
 			"ChunkId": "27d3dbbd9cb5875a00000002"
 		},
 		{
-			"Path": "Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
-			"ChunkId": "d9ef76f15dcbda9d00000001"
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
+			"ChunkId": "2cc5808063f890db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
+			"ChunkId": "2cc5808063f890db00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset",
+			"ChunkId": "8500a33b2fedbab800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset",
+			"ChunkId": "b60efe12572543e800000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/DefaultBokeh.uasset",
 			"ChunkId": "65401b411493477b00000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset",
-			"ChunkId": "1c3a80931d7381bf00000001"
+			"Path": "Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset",
+			"ChunkId": "ea0f5dd142fa12ab00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset",
+			"ChunkId": "b61e99bc8320e42b00000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset",
 			"ChunkId": "9c7151fedab8d7e200000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset",
-			"ChunkId": "fd5c4b2d837478ae00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset",
@@ -293,16 +249,8 @@
 			"ChunkId": "9784ada5ce57b7cb00000001"
 		},
 		{
-			"Path": "Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset",
-			"ChunkId": "ea0f5dd142fa12ab00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset",
-			"ChunkId": "b61e99bc8320e42b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset",
-			"ChunkId": "f1ebd6418dba317a00000001"
+			"Path": "Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset",
+			"ChunkId": "fd5c4b2d837478ae00000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/S_Terrain.uasset",
@@ -333,8 +281,8 @@
 			"ChunkId": "58ac407f95ae164b00000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset",
-			"ChunkId": "b60efe12572543e800000001"
+			"Path": "Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset",
+			"ChunkId": "1c3a80931d7381bf00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset",
@@ -397,8 +345,8 @@
 			"ChunkId": "cdb6f2e8065df7c100000002"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset",
-			"ChunkId": "8500a33b2fedbab800000001"
+			"Path": "Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
+			"ChunkId": "d9ef76f15dcbda9d00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
@@ -411,18 +359,6 @@
 		{
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset",
 			"ChunkId": "efd3b99beb745ea100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset",
-			"ChunkId": "6ca66bbcba09d42900000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
-			"ChunkId": "2cc5808063f890db00000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
-			"ChunkId": "2cc5808063f890db00000002"
 		},
 		{
 			"Path": "Engine/Content/EngineDebugMaterials/VolumeToRender.uasset",
@@ -485,6 +421,14 @@
 			"ChunkId": "f87a01e7b138538a00000001"
 		},
 		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset",
+			"ChunkId": "a996adcfa357ed2d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk",
+			"ChunkId": "a996adcfa357ed2d00000002"
+		},
+		{
 			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset",
 			"ChunkId": "730711032edb546300000001"
 		},
@@ -529,24 +473,52 @@
 			"ChunkId": "9acae5549f0219b000000002"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset",
-			"ChunkId": "0125e0852ce3d3e700000001"
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset",
+			"ChunkId": "6a3b7a697242e13400000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
-			"ChunkId": "7539f12095a3f0d100000001"
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset",
+			"ChunkId": "6752d9e62e6e395700000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
-			"ChunkId": "7539f12095a3f0d100000002"
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset",
+			"ChunkId": "474711309ee6ba8900000001"
 		},
 		{
-			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture.uasset",
-			"ChunkId": "e6291a81a77661e900000001"
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uasset",
+			"ChunkId": "ff2780bcc9007c2000000001"
 		},
 		{
-			"Path": "Engine/Content/EngineResources/DefaultTextureCube.uasset",
-			"ChunkId": "3e6f2bc6739d380300000001"
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uasset",
+			"ChunkId": "5e0c222e8a07572b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uasset",
+			"ChunkId": "ea285112b75564f500000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uasset",
+			"ChunkId": "ff6a2f06a2fd594000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uasset",
+			"ChunkId": "a50a1a2c0fbdbf2400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uasset",
+			"ChunkId": "c3ed2aec2e97f7b800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uasset",
+			"ChunkId": "698b7b9412dd2d6b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uasset",
+			"ChunkId": "4e0570e57ebf3f7000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
 		},
 		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
@@ -601,10 +573,6 @@
 			"ChunkId": "7e41fff1f34c131b00000001"
 		},
 		{
-			"Path": "GoM/Content/Blueprints/AI/Behaviour_Trees/BB_Basic.uasset",
-			"ChunkId": "df71c64ac622bc3b00000001"
-		},
-		{
 			"Path": "GoM/Content/Blueprints/Base_DT.uasset",
 			"ChunkId": "04a406af81f7cf5000000001"
 		},
@@ -617,8 +585,20 @@
 			"ChunkId": "30d29edfc7e34b0000000001"
 		},
 		{
+			"Path": "GoM/Content/Blueprints/AI/Behaviour_Trees/BB_Basic.uasset",
+			"ChunkId": "df71c64ac622bc3b00000001"
+		},
+		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset",
 			"ChunkId": "629063fd362b2e3e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
+			"ChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
+			"ChunkId": "6ebbe4a6ced841cc00000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
@@ -631,6 +611,10 @@
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
 			"ChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+			"ChunkId": "12c2c1346a8453a600000001"
 		},
 		{
 			"Path": "Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset",
@@ -657,52 +641,36 @@
 			"ChunkId": "6e6a371ba7ffd6e900000002"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
-			"ChunkId": "c851afa144f311c000000001"
+			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
+			"ChunkId": "51f4a9204ba994c500000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset",
-			"ChunkId": "a365ccf446169e3a00000001"
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Scream_1.uasset",
+			"ChunkId": "12d97c79c999bc0300000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
-			"ChunkId": "27d7aeddb1b7c7fc00000001"
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Scream_1.ubulk",
+			"ChunkId": "12d97c79c999bc0300000002"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
-			"ChunkId": "6ebbe4a6ced841cc00000001"
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Injured_1.uasset",
+			"ChunkId": "2a6c5e2cb54d546d00000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_1.uasset",
-			"ChunkId": "3302ca00c50f77e800000001"
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Injured_1.ubulk",
+			"ChunkId": "2a6c5e2cb54d546d00000002"
 		},
 		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_1.ubulk",
-			"ChunkId": "3302ca00c50f77e800000002"
-		},
-		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_2.uasset",
-			"ChunkId": "3bc825e30b08eedf00000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_2.ubulk",
-			"ChunkId": "3bc825e30b08eedf00000002"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Sprites/Health/Health_Bar_Empty.uasset",
-			"ChunkId": "efac5f9dbc1cc38300000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Sprites/Health/Health_Bar_Full.uasset",
-			"ChunkId": "64163a8926606c4f00000001"
+			"Path": "GoM/Content/Assets/Protagonist/RAW/Protagonist_v2_Diffuse.uasset",
+			"ChunkId": "7efedf68df9e75d800000001"
 		},
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset",
 			"ChunkId": "94719bde6334f57200000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/THUMBNAILS/TN_Medkit.uasset",
-			"ChunkId": "44870c3d197c626500000001"
+			"Path": "Engine/Content/EngineMaterials/FlatNormal.uasset",
+			"ChunkId": "2b69d7985d15bf2200000001"
 		},
 		{
 			"Path": "Engine/Content/EditorSounds/GamePreview/PossessPlayer.uasset",
@@ -713,16 +681,32 @@
 			"ChunkId": "23a9a0b5f43de37f00000002"
 		},
 		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/AI_Danger.uasset",
-			"ChunkId": "c35c2d06f62d571900000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/AI_Danger.ubulk",
-			"ChunkId": "c35c2d06f62d571900000002"
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
 		},
 		{
 			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
 			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset",
+			"ChunkId": "1e8860c1da3e1ade00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
+			"ChunkId": "7539f12095a3f0d100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
+			"ChunkId": "7539f12095a3f0d100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
+			"ChunkId": "7a7173cfb4095b9f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk",
+			"ChunkId": "7a7173cfb4095b9f00000002"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset",
@@ -739,6 +723,14 @@
 		{
 			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset",
 			"ChunkId": "6c54e7f6d4ea912200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture.uasset",
+			"ChunkId": "e6291a81a77661e900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTextureCube.uasset",
+			"ChunkId": "3e6f2bc6739d380300000001"
 		},
 		{
 			"Path": "Engine/Content/EngineResources/DefaultTexture.uasset",
@@ -797,10 +789,6 @@
 			"ChunkId": "c8548e53bc64ae9400000001"
 		},
 		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
-			"ChunkId": "c472a8877b0ae2f900000001"
-		},
-		{
 			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
 			"ChunkId": "2d5d52b0905803e600000001"
 		},
@@ -821,8 +809,12 @@
 			"ChunkId": "b5188ac73a55976200000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/FlatNormal.uasset",
-			"ChunkId": "2b69d7985d15bf2200000001"
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/AI_Danger.uasset",
+			"ChunkId": "c35c2d06f62d571900000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/AI_Danger.ubulk",
+			"ChunkId": "c35c2d06f62d571900000002"
 		},
 		{
 			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Healed.uasset",
@@ -905,6 +897,42 @@
 			"ChunkId": "bba5f1967f66cf4000000002"
 		},
 		{
+			"Path": "GoM/Content/Assets/THUMBNAILS/TN_PDW_Texture.uasset",
+			"ChunkId": "67ce3d21f1f6394100000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/THUMBNAILS/TN_Service_Pistol_Texture.uasset",
+			"ChunkId": "eaf0d581c1495aa100000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/HUD/Item_AND_Weapon_Switcher/Item_Dark_Diffuse.uasset",
+			"ChunkId": "189e1edd72ef545f00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/HUD/Item_AND_Weapon_Switcher/Item_Darkest_Diffuse.uasset",
+			"ChunkId": "b96a98dd2f48e57f00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/HUD/Item_AND_Weapon_Switcher/Item_Medium_Diffuse.uasset",
+			"ChunkId": "b9c38bd330c8d64700000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/HUD/Item_AND_Weapon_Switcher/Weapon_Dark_Diffuse.uasset",
+			"ChunkId": "9e89e074ed0a655b00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/HUD/Item_AND_Weapon_Switcher/Weapon_Darkest_Diffuse.uasset",
+			"ChunkId": "efa1758f7c05aaea00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/HUD/Item_AND_Weapon_Switcher/Weapon_Medium_Diffuse.uasset",
+			"ChunkId": "519bc489689fb18000000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/THUMBNAILS/TN_Medkit.uasset",
+			"ChunkId": "44870c3d197c626500000001"
+		},
+		{
 			"Path": "GoM/Content/Assets/THUMBNAILS/TN_PDW_Bullet.uasset",
 			"ChunkId": "6f42e122e7c6477500000001"
 		},
@@ -915,10 +943,6 @@
 		{
 			"Path": "GoM/Content/Assets/THUMBNAILS/TN_PDW_Partial_Magazine.uasset",
 			"ChunkId": "4a4829d2273a715600000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/THUMBNAILS/TN_PDW_Texture.uasset",
-			"ChunkId": "67ce3d21f1f6394100000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/THUMBNAILS/TN_Service_Pistol_Bullet.uasset",
@@ -933,14 +957,6 @@
 			"ChunkId": "867fd8dcdfc44d9400000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/THUMBNAILS/TN_Service_Pistol_Texture.uasset",
-			"ChunkId": "eaf0d581c1495aa100000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Protagonist/RAW/Protagonist_v2_Diffuse.uasset",
-			"ChunkId": "7efedf68df9e75d800000001"
-		},
-		{
 			"Path": "GoM/Content/Assets/Protagonist/RAW/Protagonist_v2_Normal.uasset",
 			"ChunkId": "e37de866f1ab57f800000001"
 		},
@@ -951,6 +967,14 @@
 		{
 			"Path": "GoM/Content/Assets/Items/RAW/Item_Bullet_Diffuse.uasset",
 			"ChunkId": "33b2de5aea8251c500000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Sprites/Health/Health_Bar_Empty.uasset",
+			"ChunkId": "efac5f9dbc1cc38300000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Sprites/Health/Health_Bar_Full.uasset",
+			"ChunkId": "64163a8926606c4f00000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Items/Sprites/Infection/Infection_Bar_Empty.uasset",
@@ -965,40 +989,12 @@
 			"ChunkId": "74e820b44a2005a700000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Items/Sprites/Stamina/Stamina_Bar_Full.uasset",
-			"ChunkId": "7601bcad1fe9c8a400000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Sprites/Stress/Stress_Bar_Empty.uasset",
-			"ChunkId": "79aaf3768c1ce02900000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Sprites/Stress/Stress_Bar_Full.uasset",
-			"ChunkId": "f45af4badc92e31600000001"
-		},
-		{
 			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Walk_Shuffle_Step_2.uasset",
 			"ChunkId": "60216a30ca4a642c00000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Walk_Shuffle_Step_2.ubulk",
 			"ChunkId": "60216a30ca4a642c00000002"
-		},
-		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Scream_1.uasset",
-			"ChunkId": "12d97c79c999bc0300000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Scream_1.ubulk",
-			"ChunkId": "12d97c79c999bc0300000002"
-		},
-		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Injured_1.uasset",
-			"ChunkId": "2a6c5e2cb54d546d00000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Injured_1.ubulk",
-			"ChunkId": "2a6c5e2cb54d546d00000002"
 		},
 		{
 			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Moan_1.uasset",
@@ -1025,12 +1021,96 @@
 			"ChunkId": "08e82ffa8158c0c200000002"
 		},
 		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Split_Head_Moan_1.uasset",
-			"ChunkId": "7cdfa2ef56aa174600000001"
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_1.uasset",
+			"ChunkId": "3302ca00c50f77e800000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Split_Head_Moan_1.ubulk",
-			"ChunkId": "7cdfa2ef56aa174600000002"
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_1.ubulk",
+			"ChunkId": "3302ca00c50f77e800000002"
+		},
+		{
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_2.uasset",
+			"ChunkId": "3bc825e30b08eedf00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_2.ubulk",
+			"ChunkId": "3bc825e30b08eedf00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
+			"ChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
+			"ChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
+			"ChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
+			"ChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset",
+			"ChunkId": "a365ccf446169e3a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
+			"ChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
+			"ChunkId": "ef400c1f3fd91f2a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
+			"ChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+			"ChunkId": "eeb296b2a739309500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
+			"ChunkId": "e3ad05e4a2d7a17c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset",
+			"ChunkId": "2609b5dacefe803900000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
+			"ChunkId": "37cdeb5ce1d3ccd800000001"
+		},
+		{
+			"Path": "GoM/Content/Blueprints/Gamemodes/Main_Menu.uasset",
+			"ChunkId": "f3b6147a0af6d3d000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
+			"ChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
+			"ChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Medical/RAW/Enemy_Zombie_Medical_Normal.uasset",
+			"ChunkId": "3c03320c5ffdc88800000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Sprites/Stamina/Stamina_Bar_Full.uasset",
+			"ChunkId": "7601bcad1fe9c8a400000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Sprites/Stress/Stress_Bar_Empty.uasset",
+			"ChunkId": "79aaf3768c1ce02900000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Sprites/Stress/Stress_Bar_Full.uasset",
+			"ChunkId": "f45af4badc92e31600000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Items/RAW/Medkit_Diffuse.uasset",
@@ -1053,56 +1133,24 @@
 			"ChunkId": "cea1c884ea2236fb00000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
-			"ChunkId": "da9ef9387e6c513600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
-			"ChunkId": "f38cb73e67825d9600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
-			"ChunkId": "2acd952336aab07f00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
-			"ChunkId": "3c018da41573213600000001"
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Medical/RAW/Enemy_Zombie_Medical_Diffuse.uasset",
+			"ChunkId": "5d0b27f0b49ad0ea00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
 			"ChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
-			"ChunkId": "9a5a67fa3c2b2de900000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
-			"ChunkId": "12c2c1346a8453a600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
-			"ChunkId": "3bf2df25e14476d700000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
-			"ChunkId": "51f4a9204ba994c500000001"
-		},
-		{
 			"Path": "Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset",
 			"ChunkId": "6fab96d8842b418000000001"
 		},
 		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset",
-			"ChunkId": "2609b5dacefe803900000001"
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
+			"ChunkId": "27d7aeddb1b7c7fc00000001"
 		},
 		{
-			"Path": "Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
-			"ChunkId": "37cdeb5ce1d3ccd800000001"
-		},
-		{
-			"Path": "GoM/Content/Blueprints/Gamemodes/Main_Menu.uasset",
-			"ChunkId": "f3b6147a0af6d3d000000001"
+			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
+			"ChunkId": "6c3a98c4aa151a5300000001"
 		},
 		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uasset",
@@ -1201,10 +1249,6 @@
 			"ChunkId": "0352454520b50ab700000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Split_Head_Moan_1_Que.uasset",
-			"ChunkId": "8aca2b8bf91f0d7600000001"
-		},
-		{
 			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Throat_Que.uasset",
 			"ChunkId": "4b7d0850ca80052d00000001"
 		},
@@ -1225,64 +1269,12 @@
 			"ChunkId": "1eb36adebf3e8d6900000001"
 		},
 		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset",
+			"ChunkId": "b2e758c7adce0aa000000001"
+		},
+		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset",
 			"ChunkId": "603c62bd8092b35100000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset",
-			"ChunkId": "b4e99ebee8538a8000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uasset",
-			"ChunkId": "87099a79bdf858fb00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
-			"ChunkId": "497b4263fbd333c800000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
-			"ChunkId": "6c3a98c4aa151a5300000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Enemies/Zombie/Medical/RAW/Enemy_Zombie_Medical_Diffuse.uasset",
-			"ChunkId": "5d0b27f0b49ad0ea00000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Enemies/Zombie/Medical/RAW/Enemy_Zombie_Medical_Normal.uasset",
-			"ChunkId": "3c03320c5ffdc88800000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
-			"ChunkId": "ef400c1f3fd91f2a00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
-			"ChunkId": "b4d3126ba7954ec000000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
-			"ChunkId": "eeb296b2a739309500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
-			"ChunkId": "e3ad05e4a2d7a17c00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
-			"ChunkId": "14c0e68102482a4700000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset",
-			"ChunkId": "a4739b1d475b4a3e00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset",
-			"ChunkId": "fabb39727be145c100000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Materials/M_Custom_Lit_Sprite.uasset",
-			"ChunkId": "df0e7a8085b831e300000001"
 		},
 		{
 			"Path": "Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset",
@@ -1359,6 +1351,10 @@
 		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uasset",
 			"ChunkId": "8b957d3c17c70d9600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset",
+			"ChunkId": "85eb7ec9f6c8613a00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset",
@@ -1449,6 +1445,82 @@
 			"ChunkId": "8ff50e13d07b6e9600000002"
 		},
 		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset",
+			"ChunkId": "b0e6f22a1229f33400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk",
+			"ChunkId": "b0e6f22a1229f33400000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset",
+			"ChunkId": "2feae67d1f28277b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk",
+			"ChunkId": "2feae67d1f28277b00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset",
+			"ChunkId": "0d2d768a1192b97000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk",
+			"ChunkId": "0d2d768a1192b97000000002"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset",
+			"ChunkId": "7bb897d6d85abe5e00000001"
+		},
+		{
+			"Path": "GoM/Content/Inventory/Materials/MUI_Slots.uasset",
+			"ChunkId": "9c48a3183c938a8300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "14c0e68102482a4700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset",
+			"ChunkId": "a4739b1d475b4a3e00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset",
+			"ChunkId": "fabb39727be145c100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uasset",
+			"ChunkId": "87099a79bdf858fb00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Materials/M_Custom_Lit_Sprite.uasset",
+			"ChunkId": "df0e7a8085b831e300000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset",
+			"ChunkId": "b4e99ebee8538a8000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset",
+			"ChunkId": "0ec7598e2050155600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset",
+			"ChunkId": "dd353fe85598727e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset",
+			"ChunkId": "34868b7f9c10838900000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset",
+			"ChunkId": "1595b610bf425b8d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk",
+			"ChunkId": "1595b610bf425b8d00000002"
+		},
+		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset",
 			"ChunkId": "282dd182b8a2782f00000001"
 		},
@@ -1471,170 +1543,6 @@
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk",
 			"ChunkId": "d77ff1320cafb8eb00000002"
-		},
-		{
-			"Path": "Engine/Content/BasicShapes/Plane.uasset",
-			"ChunkId": "a44601bc68ca3f2400000001"
-		},
-		{
-			"Path": "Engine/Content/BasicShapes/Plane.ubulk",
-			"ChunkId": "a44601bc68ca3f2400000002"
-		},
-		{
-			"Path": "Engine/Content/BasicShapes/Cube.uasset",
-			"ChunkId": "71fe0432abe4de2400000001"
-		},
-		{
-			"Path": "Engine/Content/BasicShapes/Cube.ubulk",
-			"ChunkId": "71fe0432abe4de2400000002"
-		},
-		{
-			"Path": "Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uasset",
-			"ChunkId": "306a2f803628deec00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.ubulk",
-			"ChunkId": "306a2f803628deec00000002"
-		},
-		{
-			"Path": "Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset",
-			"ChunkId": "7b9c08e592b6f57800000001"
-		},
-		{
-			"Path": "Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk",
-			"ChunkId": "7b9c08e592b6f57800000002"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uasset",
-			"ChunkId": "417bca15604f351b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uasset",
-			"ChunkId": "3acd9f2792ca582a00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uasset",
-			"ChunkId": "ebf69106ee2ff7c800000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uasset",
-			"ChunkId": "f3761c2393b4e45200000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uasset",
-			"ChunkId": "45c9d31f58b5a28600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uasset",
-			"ChunkId": "6911205ccba957ea00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uasset",
-			"ChunkId": "7b70260bca9492dd00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uasset",
-			"ChunkId": "03fb604773241cc800000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uasset",
-			"ChunkId": "156f367632f51d2d00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uasset",
-			"ChunkId": "481af9927a0fd4e500000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uasset",
-			"ChunkId": "ed44d1f3d85565ec00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uasset",
-			"ChunkId": "7646f65b7f1cec4600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uasset",
-			"ChunkId": "d98087cdcb744e1000000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Sprites/Item_Bullet_Casing_Diffuse_Sprite_0.uasset",
-			"ChunkId": "2b0f282d36d6f0f200000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Sprites/Item_Bullet_Diffuse_Sprite_0.uasset",
-			"ChunkId": "5af6d107ab40ac3b00000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Sprites/Medkit_Diffuse_Sprite_0.uasset",
-			"ChunkId": "d51996ab46e5883a00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset",
-			"ChunkId": "1b32f3f341cb246000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk",
-			"ChunkId": "1b32f3f341cb246000000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset",
-			"ChunkId": "0bd00fa41afbdaed00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk",
-			"ChunkId": "0bd00fa41afbdaed00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset",
-			"ChunkId": "db28b8396928adf000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk",
-			"ChunkId": "db28b8396928adf000000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset",
-			"ChunkId": "0d2d768a1192b97000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk",
-			"ChunkId": "0d2d768a1192b97000000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset",
-			"ChunkId": "85eb7ec9f6c8613a00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset",
-			"ChunkId": "dd353fe85598727e00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset",
-			"ChunkId": "34868b7f9c10838900000001"
-		},
-		{
-			"Path": "GoM/Content/Inventory/Materials/MUI_Slots.uasset",
-			"ChunkId": "9c48a3183c938a8300000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset",
-			"ChunkId": "b2e758c7adce0aa000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset",
-			"ChunkId": "0ec7598e2050155600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset",
-			"ChunkId": "7bb897d6d85abe5e00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset",
-			"ChunkId": "1595b610bf425b8d00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk",
-			"ChunkId": "1595b610bf425b8d00000002"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset",
@@ -1733,14 +1641,6 @@
 			"ChunkId": "ccfbf6fb8c94d52600000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset",
-			"ChunkId": "2feae67d1f28277b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk",
-			"ChunkId": "2feae67d1f28277b00000002"
-		},
-		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset",
 			"ChunkId": "e28775e15c9fefaa00000001"
 		},
@@ -1755,6 +1655,14 @@
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk",
 			"ChunkId": "c42798d4b7d7893a00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset",
+			"ChunkId": "db28b8396928adf000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk",
+			"ChunkId": "db28b8396928adf000000002"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset",
@@ -1853,14 +1761,6 @@
 			"ChunkId": "26708189dce06d9c00000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset",
-			"ChunkId": "b0e6f22a1229f33400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk",
-			"ChunkId": "b0e6f22a1229f33400000002"
-		},
-		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset",
 			"ChunkId": "b6ecf8eaf9e325c400000001"
 		},
@@ -1875,6 +1775,14 @@
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk",
 			"ChunkId": "1d2105a53b99f8b400000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset",
+			"ChunkId": "0bd00fa41afbdaed00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk",
+			"ChunkId": "0bd00fa41afbdaed00000002"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset",
@@ -1949,6 +1857,106 @@
 			"ChunkId": "a9e8edb09171185f00000002"
 		},
 		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset",
+			"ChunkId": "1b32f3f341cb246000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk",
+			"ChunkId": "1b32f3f341cb246000000002"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Plane.uasset",
+			"ChunkId": "a44601bc68ca3f2400000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Plane.ubulk",
+			"ChunkId": "a44601bc68ca3f2400000002"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cube.uasset",
+			"ChunkId": "71fe0432abe4de2400000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cube.ubulk",
+			"ChunkId": "71fe0432abe4de2400000002"
+		},
+		{
+			"Path": "Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uasset",
+			"ChunkId": "306a2f803628deec00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.ubulk",
+			"ChunkId": "306a2f803628deec00000002"
+		},
+		{
+			"Path": "Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset",
+			"ChunkId": "7b9c08e592b6f57800000001"
+		},
+		{
+			"Path": "Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk",
+			"ChunkId": "7b9c08e592b6f57800000002"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uasset",
+			"ChunkId": "417bca15604f351b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uasset",
+			"ChunkId": "3acd9f2792ca582a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uasset",
+			"ChunkId": "ebf69106ee2ff7c800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uasset",
+			"ChunkId": "f3761c2393b4e45200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uasset",
+			"ChunkId": "45c9d31f58b5a28600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uasset",
+			"ChunkId": "6911205ccba957ea00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uasset",
+			"ChunkId": "7b70260bca9492dd00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uasset",
+			"ChunkId": "03fb604773241cc800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uasset",
+			"ChunkId": "156f367632f51d2d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uasset",
+			"ChunkId": "ed44d1f3d85565ec00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uasset",
+			"ChunkId": "7646f65b7f1cec4600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uasset",
+			"ChunkId": "d98087cdcb744e1000000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Sprites/Item_Bullet_Casing_Diffuse_Sprite_0.uasset",
+			"ChunkId": "2b0f282d36d6f0f200000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Sprites/Item_Bullet_Diffuse_Sprite_0.uasset",
+			"ChunkId": "5af6d107ab40ac3b00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Sprites/Medkit_Diffuse_Sprite_0.uasset",
+			"ChunkId": "d51996ab46e5883a00000001"
+		},
+		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset",
 			"ChunkId": "c17e2b8f4ee5c13800000001"
 		},
@@ -1961,8 +1969,56 @@
 			"ChunkId": "242cab5f67ee300e00000001"
 		},
 		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset",
+			"ChunkId": "3a0245e4904b10b500000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uasset",
+			"ChunkId": "976e29a8f9ef0e4700000001"
+		},
+		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uasset",
 			"ChunkId": "9f17ab2167ce1be600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uasset",
+			"ChunkId": "00b0acb8356d298100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uasset",
+			"ChunkId": "481af9927a0fd4e500000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uasset",
+			"ChunkId": "6ef7819258ad309900000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset",
+			"ChunkId": "b955968f2ebd88f600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
+			"ChunkId": "0e6a0028be3a2a6c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+			"ChunkId": "2925796cddcc148c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset",
+			"ChunkId": "d918e06ff9ea46e100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uasset",
+			"ChunkId": "f487fba2cf9e3ed800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uasset",
+			"ChunkId": "898199688adbdfb100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uasset",
+			"ChunkId": "6e11d15e7c810c8200000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Protagonist/RAW/Protagonist_v2_Diffuse_Sprite_8.uasset",
@@ -2167,50 +2223,6 @@
 		{
 			"Path": "GoM/Content/Assets/Protagonist/RAW/Protagonist_v2_Diffuse_Sprite_44.uasset",
 			"ChunkId": "3da1373d1908be2100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uasset",
-			"ChunkId": "898199688adbdfb100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uasset",
-			"ChunkId": "6e11d15e7c810c8200000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uasset",
-			"ChunkId": "00b0acb8356d298100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uasset",
-			"ChunkId": "6ef7819258ad309900000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset",
-			"ChunkId": "b955968f2ebd88f600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset",
-			"ChunkId": "3a0245e4904b10b500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
-			"ChunkId": "0e6a0028be3a2a6c00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
-			"ChunkId": "2925796cddcc148c00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset",
-			"ChunkId": "d918e06ff9ea46e100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uasset",
-			"ChunkId": "976e29a8f9ef0e4700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uasset",
-			"ChunkId": "f487fba2cf9e3ed800000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Protagonist/RAW/Protagonist_v2_Diffuse_Sprite_30.uasset",
@@ -2663,6 +2675,10 @@
 		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uasset",
 			"ChunkId": "5d3da2acdd9b77ab00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uasset",
+			"ChunkId": "15ed90c4c41816c900000001"
 		},
 		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uasset",
@@ -3205,6 +3221,98 @@
 			"ChunkId": "3e91c9102643cdc100000001"
 		},
 		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uasset",
+			"ChunkId": "a3739079b5cbf53d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uasset",
+			"ChunkId": "9976270f2cfbf30600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uasset",
+			"ChunkId": "7d054fc33a3fce1b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uasset",
+			"ChunkId": "3af1a6ee62b1c44f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uasset",
+			"ChunkId": "f649501136fe389200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uasset",
+			"ChunkId": "88ff872ce265b5b800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Translucent.uasset",
+			"ChunkId": "40a47ef29721ae1400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Opaque.uasset",
+			"ChunkId": "c256801c9362234700000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS.uasset",
+			"ChunkId": "61d8faa6578ca89b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission_TS.uasset",
+			"ChunkId": "0d2603f17a607ce600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission.uasset",
+			"ChunkId": "0ca9e8893c530c0900000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission_TS.uasset",
+			"ChunkId": "a2887f69bec4c1f100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uasset",
+			"ChunkId": "b320bc84dd8973e000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uasset",
+			"ChunkId": "7b77ddbf8026972c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_TS.uasset",
+			"ChunkId": "e5924f236675b02c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS.uasset",
+			"ChunkId": "a9214a0b5395af3100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat.uasset",
+			"ChunkId": "8929f50cd75d489500000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent.uasset",
+			"ChunkId": "41ec5cd7a203eab500000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_TS.uasset",
+			"ChunkId": "314ced0d8a0c7f8400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS.uasset",
+			"ChunkId": "8f8687ee195af63200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat.uasset",
+			"ChunkId": "f7c2122dfe578d1b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_TS.uasset",
+			"ChunkId": "f6e893cc0fbfa11700000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS.uasset",
+			"ChunkId": "1c5d8f98c639f24000000001"
+		},
+		{
 			"Path": "GoM/Content/Assets/Enemies/Zombie/Medical/Scarred_Death.uasset",
 			"ChunkId": "3c5154f304dcfcd000000001"
 		},
@@ -3249,102 +3357,6 @@
 			"ChunkId": "b059d54260cfd24100000001"
 		},
 		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_TS.uasset",
-			"ChunkId": "f6e893cc0fbfa11700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uasset",
-			"ChunkId": "9976270f2cfbf30600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uasset",
-			"ChunkId": "7d054fc33a3fce1b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uasset",
-			"ChunkId": "3af1a6ee62b1c44f00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uasset",
-			"ChunkId": "f649501136fe389200000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS.uasset",
-			"ChunkId": "1c5d8f98c639f24000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uasset",
-			"ChunkId": "a3739079b5cbf53d00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission_TS.uasset",
-			"ChunkId": "0d2603f17a607ce600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission.uasset",
-			"ChunkId": "0ca9e8893c530c0900000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission_TS.uasset",
-			"ChunkId": "a2887f69bec4c1f100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uasset",
-			"ChunkId": "15ed90c4c41816c900000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Translucent.uasset",
-			"ChunkId": "40a47ef29721ae1400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Opaque.uasset",
-			"ChunkId": "c256801c9362234700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS.uasset",
-			"ChunkId": "61d8faa6578ca89b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uasset",
-			"ChunkId": "b320bc84dd8973e000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uasset",
-			"ChunkId": "7b77ddbf8026972c00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uasset",
-			"ChunkId": "88ff872ce265b5b800000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_TS.uasset",
-			"ChunkId": "e5924f236675b02c00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS.uasset",
-			"ChunkId": "a9214a0b5395af3100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat.uasset",
-			"ChunkId": "8929f50cd75d489500000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent.uasset",
-			"ChunkId": "41ec5cd7a203eab500000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_TS.uasset",
-			"ChunkId": "314ced0d8a0c7f8400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS.uasset",
-			"ChunkId": "8f8687ee195af63200000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat.uasset",
-			"ChunkId": "f7c2122dfe578d1b00000001"
-		},
-		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uasset",
 			"ChunkId": "cda0bce26734770500000001"
 		},
@@ -3355,6 +3367,10 @@
 		{
 			"Path": "GoM/Content/Assets/Menus/Credits_Menu/Credits_Menu_Widget.uasset",
 			"ChunkId": "ed51eb834bdfb4b500000001"
+		},
+		{
+			"Path": "GoM/Content/Levels/Main_Menu.umap",
+			"ChunkId": "c360e2ee4d6cdda400000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Menus/Pause_Menu/Pause_Menu_Widget.uasset",
@@ -3399,6 +3415,14 @@
 		{
 			"Path": "GoM/Content/Inventory/Status_Bar_Widget.uasset",
 			"ChunkId": "f49a1c8f19bb445400000001"
+		},
+		{
+			"Path": "GoM/Content/Inventory/Switcher_Item_Widget.uasset",
+			"ChunkId": "0e0417a2a2ed333900000001"
+		},
+		{
+			"Path": "GoM/Content/Inventory/Switcher_Weapon_Widget.uasset",
+			"ChunkId": "404acce6ebb4ee0b00000001"
 		},
 		{
 			"Path": "GoM/Content/Inventory/IInteractInterface.uasset",
@@ -3533,10 +3557,6 @@
 			"ChunkId": "f8484085c73473f500000001"
 		},
 		{
-			"Path": "GoM/Content/Levels/Main_Menu.umap",
-			"ChunkId": "c360e2ee4d6cdda400000001"
-		},
-		{
 			"Path": "GoM/Content/Levels/Test_Level/_Generated_/MainGrid_L0_X-1_Y0_DL0.umap",
 			"ChunkId": "3b204496cf5034c100000001"
 		},
@@ -3589,6 +3609,10 @@
 			"ChunkId": "71418a99bf583bad00000001"
 		},
 		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset",
+			"ChunkId": "ed80e6fdcb7b904c00000001"
+		},
+		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset",
 			"ChunkId": "dab3ede8bda8d8ca00000001"
 		},
@@ -3605,24 +3629,120 @@
 			"ChunkId": "c2e94cfd89537cda00000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Idle.uasset",
-			"ChunkId": "bc88a325de8bbff900000001"
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Idle_Final_Form.uasset",
+			"ChunkId": "923020d2c07af34900000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Walk.uasset",
-			"ChunkId": "09fe1c1bbf03821900000001"
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Walk_Final_Form.uasset",
+			"ChunkId": "0a5889f7e0c5bc3000000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Bite_Final_Form.uasset",
+			"ChunkId": "2e0b405089a8d98300000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Bite_Injured.uasset",
+			"ChunkId": "6dd8cb9aeec816c700000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Bite_Uninjured.uasset",
+			"ChunkId": "668a296d65ee9ddb00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Death.uasset",
+			"ChunkId": "e540a192eff590f800000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Idle_Injured.uasset",
+			"ChunkId": "a556c18a1a21b7f000000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Walk_Injured.uasset",
+			"ChunkId": "34f1d0cbb021124a00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Idle_Uninjured.uasset",
+			"ChunkId": "e3126369b468d91500000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Walk_Uninjured.uasset",
+			"ChunkId": "e1ccb87517c685e700000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Uninjured_To_Injured.uasset",
+			"ChunkId": "03ce45ea99b407e900000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Walk_Up_Final_Form.uasset",
+			"ChunkId": "78f15904434f280500000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Walk_Up_Injured.uasset",
+			"ChunkId": "3430325e1141300500000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Walk_Up_Uninjured.uasset",
+			"ChunkId": "93a99a25e83d3caa00000001"
 		},
 		{
 			"Path": "GoM/Content/Inventory/Dresser_Large.uasset",
 			"ChunkId": "ab7bb9f7adf618c600000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Idle.uasset",
-			"ChunkId": "232e9a982f2f2b6500000001"
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Idle_Final_Form.uasset",
+			"ChunkId": "799828dddb7d8d3400000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk.uasset",
-			"ChunkId": "6b252f551bcfcad900000001"
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Final_Form.uasset",
+			"ChunkId": "85c5ccb8a445baa300000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Bite_Final_Form.uasset",
+			"ChunkId": "5e47a1bed0bd19c900000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Bite_Injured.uasset",
+			"ChunkId": "ef817bffa6ab21bd00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Bite_Uninjured.uasset",
+			"ChunkId": "756ce55dea0a171d00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Death.uasset",
+			"ChunkId": "a0324e602a3335c600000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Idle_Injured.uasset",
+			"ChunkId": "43986c034a032b2a00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Injured.uasset",
+			"ChunkId": "4f538ea23acb7bdf00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Idle_Uninjured.uasset",
+			"ChunkId": "c24eca83559bad5900000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Uninjured.uasset",
+			"ChunkId": "476bb9673f8d2ff200000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Injury.uasset",
+			"ChunkId": "d51ff839b10126fd00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Up_Final_Form.uasset",
+			"ChunkId": "816614ae16391cb000000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Up_Injured.uasset",
+			"ChunkId": "b7a214e1c02999a500000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Up_Uninjured.uasset",
+			"ChunkId": "2d878d2a231f8f1000000001"
 		},
 		{
 			"Path": "GoM/Content/Inventory/Dresser_Small.uasset",
@@ -3685,6 +3805,134 @@
 			"ChunkId": "1150b99082074b0300000001"
 		},
 		{
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Split_Head_Moan_1_Que.uasset",
+			"ChunkId": "8aca2b8bf91f0d7600000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_0.uasset",
+			"ChunkId": "03bbcc6d4c5f6efc00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_2.uasset",
+			"ChunkId": "f28add1b634209a500000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_3.uasset",
+			"ChunkId": "acc7ab635a2bfe0400000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_19.uasset",
+			"ChunkId": "1461f85dfba86db100000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_20.uasset",
+			"ChunkId": "e90f72de6075edb100000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_23.uasset",
+			"ChunkId": "3ac56c77ce74b46a00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_24.uasset",
+			"ChunkId": "2cc6c843f122a0cb00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_5.uasset",
+			"ChunkId": "faba5339f12d871500000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_6.uasset",
+			"ChunkId": "4ed947023d1b2f2a00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_7.uasset",
+			"ChunkId": "da92ae2d557a011400000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_8.uasset",
+			"ChunkId": "7c75a2aebf615b7700000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_9.uasset",
+			"ChunkId": "42cf5b9d8c6a2fc000000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_13.uasset",
+			"ChunkId": "778ef4a1260715fe00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_16.uasset",
+			"ChunkId": "f914b15bd3bb5f2d00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_10.uasset",
+			"ChunkId": "92c4aea6b1723ded00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_11.uasset",
+			"ChunkId": "f420bd29d4809e2000000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_12.uasset",
+			"ChunkId": "62a9f34722b7110900000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_1.uasset",
+			"ChunkId": "aed0ca2caacf865700000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_14.uasset",
+			"ChunkId": "f5eadea747d840be00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_15.uasset",
+			"ChunkId": "9b8976629c7c52a700000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_17.uasset",
+			"ChunkId": "7829bbdf7bf3a14900000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_18.uasset",
+			"ChunkId": "81418353c2e1d34200000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_31.uasset",
+			"ChunkId": "e5ce85a490d6cd4b00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_32.uasset",
+			"ChunkId": "9e8f4c727b20021400000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_33.uasset",
+			"ChunkId": "95249a5df48befdc00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_25.uasset",
+			"ChunkId": "228e5c541926ecda00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_26.uasset",
+			"ChunkId": "d12d4a430933d15700000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_27.uasset",
+			"ChunkId": "0b16d5d558acfebd00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_28.uasset",
+			"ChunkId": "a8bdddd8442c1e9000000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_29.uasset",
+			"ChunkId": "55d993a6fca6bc7d00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_30.uasset",
+			"ChunkId": "d15e5fc325bab4fb00000001"
+		},
+		{
 			"Path": "GoM/Content/Assets/Items/Sprites/Cafeteria_Items_Diffuse_Sprite_2.uasset",
 			"ChunkId": "0477d592276b64be00000001"
 		},
@@ -3699,18 +3947,6 @@
 		{
 			"Path": "GoM/Content/Assets/Items/Sprites/Cafeteria_Items_Diffuse_Sprite_1.uasset",
 			"ChunkId": "3dcfd750fc3dcd9200000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_0.uasset",
-			"ChunkId": "03bbcc6d4c5f6efc00000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_1.uasset",
-			"ChunkId": "aed0ca2caacf865700000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_2.uasset",
-			"ChunkId": "f28add1b634209a500000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Items/Sprites/Door_Metal_Diffuse_Sprite_0.uasset",
@@ -3749,20 +3985,8 @@
 			"ChunkId": "4a07fe844d19d3da00000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Items/RAW/Chair_Normal.uasset",
-			"ChunkId": "fa10c1c355f9670600000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/RAW/Item_Desk.uasset",
-			"ChunkId": "73f38d091e199c2000000001"
-		},
-		{
 			"Path": "GoM/Content/Assets/Items/Stairs/Stairs_Upper_Lower_Dorms_Diffuse.uasset",
 			"ChunkId": "6c254a045f1d925100000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/RAW/Cafeteria_Items_Diffuse.uasset",
-			"ChunkId": "ad67d0add1bdb87500000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse.uasset",
@@ -3771,6 +3995,10 @@
 		{
 			"Path": "GoM/Content/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Normal.uasset",
 			"ChunkId": "f3a3afd2c597c8f200000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/RAW/Cafeteria_Items_Diffuse.uasset",
+			"ChunkId": "ad67d0add1bdb87500000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Items/RAW/Door_Metal_Diffuse.uasset",
@@ -3789,60 +4017,12 @@
 			"ChunkId": "a181c03d8569cc2800000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Items/RAW/Item_Door.uasset",
-			"ChunkId": "2d453079347b9a8f00000001"
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Split_Head_Moan_1.uasset",
+			"ChunkId": "7cdfa2ef56aa174600000001"
 		},
 		{
-			"Path": "GoM/Content/Assets/Items/RAW/Item_Dresser.uasset",
-			"ChunkId": "84e6a21a4de06a0900000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
-			"ChunkId": "cb90c94586b3228900000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
-			"ChunkId": "6ed73496191bba2800000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Background/Hallway_Upper_Lower_Dorms_Side_Wall_Diffuse.uasset",
-			"ChunkId": "92877bf190664f3000000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Floor/Floor_Grey_Diffuse.uasset",
-			"ChunkId": "391dee5499102e2600000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset",
-			"ChunkId": "ed80e6fdcb7b904c00000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Background/Cafeteria_Wall_Diffuse.uasset",
-			"ChunkId": "ead254d8c17139df00000001"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/RAW/Item_Box_Diffuse.uasset",
-			"ChunkId": "f0eb347755ce541c00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
-			"ChunkId": "34b40296d0d3844e00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset",
-			"ChunkId": "b1dd9666d4d25cf600000001"
-		},
-		{
-			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset",
-			"ChunkId": "eb26c788a1a10ea100000001"
-		},
-		{
-			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk",
-			"ChunkId": "eb26c788a1a10ea100000002"
-		},
-		{
-			"Path": "GoM/Content/Assets/Items/Background/Hallways/Space_A_Diffuse.uasset",
-			"ChunkId": "a442011029ac90ae00000001"
+			"Path": "GoM/Content/Assets/Audio/Sound_Effects/Zombie_Split_Head_Moan_1.ubulk",
+			"ChunkId": "7cdfa2ef56aa174600000002"
 		},
 		{
 			"Path": "Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset",
@@ -3869,12 +4049,64 @@
 			"ChunkId": "8f791b09485774a100000001"
 		},
 		{
+			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
+			"ChunkId": "cb90c94586b3228900000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
+			"ChunkId": "6ed73496191bba2800000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Background/Cafeteria_Wall_Diffuse.uasset",
+			"ChunkId": "ead254d8c17139df00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/RAW/Item_Box_Diffuse.uasset",
+			"ChunkId": "f0eb347755ce541c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
+			"ChunkId": "34b40296d0d3844e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset",
+			"ChunkId": "b1dd9666d4d25cf600000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Background/Hallway_Upper_Lower_Dorms_Side_Wall_Diffuse.uasset",
+			"ChunkId": "92877bf190664f3000000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Floor/Floor_Grey_Diffuse.uasset",
+			"ChunkId": "391dee5499102e2600000001"
+		},
+		{
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset",
+			"ChunkId": "eb26c788a1a10ea100000001"
+		},
+		{
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk",
+			"ChunkId": "eb26c788a1a10ea100000002"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/Background/Hallways/Space_A_Diffuse.uasset",
+			"ChunkId": "a442011029ac90ae00000001"
+		},
+		{
 			"Path": "GoM/Content/Assets/Items/RAW/Item_Bed.uasset",
 			"ChunkId": "b1f718440f8fc0be00000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Items/Background/Bedroom_Protagonist/Protagonist_Bedroom.uasset",
 			"ChunkId": "246cfe123f2613a100000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/RAW/Item_Door.uasset",
+			"ChunkId": "2d453079347b9a8f00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/RAW/Item_Dresser.uasset",
+			"ChunkId": "84e6a21a4de06a0900000001"
 		},
 		{
 			"Path": "GoM/Content/Assets/Items/RAW/Item_-_Keyboard_Mouse.uasset",
@@ -3891,15 +4123,17 @@
 		{
 			"Path": "GoM/Content/Assets/Items/RAW/Chair_Diffuse.uasset",
 			"ChunkId": "4573c399b0c233aa00000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/RAW/Chair_Normal.uasset",
+			"ChunkId": "fa10c1c355f9670600000001"
+		},
+		{
+			"Path": "GoM/Content/Assets/Items/RAW/Item_Desk.uasset",
+			"ChunkId": "73f38d091e199c2000000001"
 		}
 	],
 	"Packages": [
-		{
-			"Name": "/ControlRig/Controls/ControlRigGizmoMaterial",
-			"ExportBundleChunkIds": [
-				"90442f10ca8d9eb700000001"
-			]
-		},
 		{
 			"Name": "/Interchange/Pipelines/DefaultSceneLevelPipeline",
 			"ExportBundleChunkIds": [
@@ -3937,6 +4171,12 @@
 			]
 		},
 		{
+			"Name": "/ControlRig/Controls/ControlRigGizmoMaterial",
+			"ExportBundleChunkIds": [
+				"90442f10ca8d9eb700000001"
+			]
+		},
+		{
 			"Name": "/Niagara/ParameterDefinitions/CoreParameters"
 		},
 		{
@@ -3950,6 +4190,12 @@
 		},
 		{
 			"Name": "/Niagara/ParameterDefinitions/SpriteRenderer"
+		},
+		{
+			"Name": "/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor",
+			"ExportBundleChunkIds": [
+				"f1ebd6418dba317a00000001"
+			]
 		},
 		{
 			"Name": "/Engine/EngineMaterials/DefaultDestructiblePhysicalMaterial",
@@ -4033,6 +4279,12 @@
 			"Name": "/ControlRig/Controls/DefaultGizmoLibraryNormalized",
 			"ExportBundleChunkIds": [
 				"c1ceadea19a929af00000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRigXRayMaterial",
+			"ExportBundleChunkIds": [
+				"6ca66bbcba09d42900000001"
 			]
 		},
 		{
@@ -4147,108 +4399,15 @@
 			]
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
+			"Name": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
 			"ExportBundleChunkIds": [
-				"6a3b7a697242e13400000001"
-			]
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec",
-			"ExportBundleChunkIds": [
-				"6752d9e62e6e395700000001"
-			]
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
-			"ExportBundleChunkIds": [
-				"474711309ee6ba8900000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Pipelines/DefaultGraphInspectorPipeline"
-		},
-		{
-			"Name": "/Interchange/Materials/MapOrScalarFunction",
-			"ExportBundleChunkIds": [
-				"ff2780bcc9007c2000000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/MapOrLinearColorFunction",
-			"ExportBundleChunkIds": [
-				"5e0c222e8a07572b00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/MapOrColorFunction",
-			"ExportBundleChunkIds": [
-				"ea285112b75564f500000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_RotateV2",
-			"ExportBundleChunkIds": [
-				"ff6a2f06a2fd594000000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_IOR",
-			"ExportBundleChunkIds": [
-				"a50a1a2c0fbdbf2400000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_Fresnel_DS",
-			"ExportBundleChunkIds": [
-				"c3ed2aec2e97f7b800000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Functions/MF_SchlickApprox",
-			"ExportBundleChunkIds": [
-				"698b7b9412dd2d6b00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Functions/MF_OrenNayerView",
-			"ExportBundleChunkIds": [
-				"4e0570e57ebf3f7000000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
-			"ExportBundleChunkIds": [
-				"7819480612024b3600000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/UnlitMaterial",
-			"ExportBundleChunkIds": [
-				"1e8860c1da3e1ade00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
-			"ExportBundleChunkIds": [
-				"7a7173cfb4095b9f00000001"
-			],
-			"BulkDataChunkIds": [
-				"7a7173cfb4095b9f00000002"
+				"0125e0852ce3d3e700000001"
 			]
 		},
 		{
 			"Name": "/Engine/EngineResources/WhiteSquareTexture",
 			"ExportBundleChunkIds": [
 				"b85ee5fd59f4dd2000000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseShape64",
-			"ExportBundleChunkIds": [
-				"a996adcfa357ed2d00000001"
-			],
-			"BulkDataChunkIds": [
-				"a996adcfa357ed2d00000002"
 			]
 		},
 		{
@@ -4270,9 +4429,24 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
+			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
 			"ExportBundleChunkIds": [
-				"d9ef76f15dcbda9d00000001"
+				"2cc5808063f890db00000001"
+			],
+			"BulkDataChunkIds": [
+				"2cc5808063f890db00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid_Low",
+			"ExportBundleChunkIds": [
+				"8500a33b2fedbab800000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
+			"ExportBundleChunkIds": [
+				"b60efe12572543e800000001"
 			]
 		},
 		{
@@ -4282,21 +4456,21 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
+			"Name": "/Engine/EditorMaterials/PhAT_NoCollisionMaterial",
 			"ExportBundleChunkIds": [
-				"1c3a80931d7381bf00000001"
+				"ea0f5dd142fa12ab00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PhAT_UnselectedMaterial",
+			"ExportBundleChunkIds": [
+				"b61e99bc8320e42b00000001"
 			]
 		},
 		{
 			"Name": "/Engine/EditorResources/SequenceRecorder/RecordingIndicator",
 			"ExportBundleChunkIds": [
 				"9c7151fedab8d7e200000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/SequenceRecorder/Countdown",
-			"ExportBundleChunkIds": [
-				"fd5c4b2d837478ae00000001"
 			]
 		},
 		{
@@ -4336,21 +4510,9 @@
 			]
 		},
 		{
-			"Name": "/Engine/EditorMaterials/PhAT_NoCollisionMaterial",
+			"Name": "/Engine/EditorResources/SequenceRecorder/Countdown",
 			"ExportBundleChunkIds": [
-				"ea0f5dd142fa12ab00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PhAT_UnselectedMaterial",
-			"ExportBundleChunkIds": [
-				"b61e99bc8320e42b00000001"
-			]
-		},
-		{
-			"Name": "/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor",
-			"ExportBundleChunkIds": [
-				"f1ebd6418dba317a00000001"
+				"fd5c4b2d837478ae00000001"
 			]
 		},
 		{
@@ -4390,9 +4552,9 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
+			"Name": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
 			"ExportBundleChunkIds": [
-				"b60efe12572543e800000001"
+				"1c3a80931d7381bf00000001"
 			]
 		},
 		{
@@ -4483,9 +4645,9 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid_Low",
+			"Name": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
 			"ExportBundleChunkIds": [
-				"8500a33b2fedbab800000001"
+				"d9ef76f15dcbda9d00000001"
 			]
 		},
 		{
@@ -4504,21 +4666,6 @@
 			"Name": "/SpeedTreeImporter/SpeedTree9/Empty",
 			"ExportBundleChunkIds": [
 				"efd3b99beb745ea100000001"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRigXRayMaterial",
-			"ExportBundleChunkIds": [
-				"6ca66bbcba09d42900000001"
-			]
-		},
-		{
-			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
-			"ExportBundleChunkIds": [
-				"2cc5808063f890db00000001"
-			],
-			"BulkDataChunkIds": [
-				"2cc5808063f890db00000002"
 			]
 		},
 		{
@@ -4603,6 +4750,15 @@
 			]
 		},
 		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseShape64",
+			"ExportBundleChunkIds": [
+				"a996adcfa357ed2d00000001"
+			],
+			"BulkDataChunkIds": [
+				"a996adcfa357ed2d00000002"
+			]
+		},
+		{
 			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64",
 			"ExportBundleChunkIds": [
 				"730711032edb546300000001"
@@ -4663,30 +4819,78 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
 			"ExportBundleChunkIds": [
-				"0125e0852ce3d3e700000001"
+				"6a3b7a697242e13400000001"
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec",
 			"ExportBundleChunkIds": [
-				"7539f12095a3f0d100000001"
-			],
-			"BulkDataChunkIds": [
-				"7539f12095a3f0d100000002"
+				"6752d9e62e6e395700000001"
 			]
 		},
 		{
-			"Name": "/Engine/EngineResources/DefaultVolumeTexture",
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
 			"ExportBundleChunkIds": [
-				"e6291a81a77661e900000001"
+				"474711309ee6ba8900000001"
 			]
 		},
 		{
-			"Name": "/Engine/EngineResources/DefaultTextureCube",
+			"Name": "/Interchange/Pipelines/DefaultGraphInspectorPipeline"
+		},
+		{
+			"Name": "/Interchange/Materials/MapOrScalarFunction",
 			"ExportBundleChunkIds": [
-				"3e6f2bc6739d380300000001"
+				"ff2780bcc9007c2000000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/MapOrLinearColorFunction",
+			"ExportBundleChunkIds": [
+				"5e0c222e8a07572b00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/MapOrColorFunction",
+			"ExportBundleChunkIds": [
+				"ea285112b75564f500000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_RotateV2",
+			"ExportBundleChunkIds": [
+				"ff6a2f06a2fd594000000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_IOR",
+			"ExportBundleChunkIds": [
+				"a50a1a2c0fbdbf2400000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_Fresnel_DS",
+			"ExportBundleChunkIds": [
+				"c3ed2aec2e97f7b800000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Functions/MF_SchlickApprox",
+			"ExportBundleChunkIds": [
+				"698b7b9412dd2d6b00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Functions/MF_OrenNayerView",
+			"ExportBundleChunkIds": [
+				"4e0570e57ebf3f7000000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"ExportBundleChunkIds": [
+				"7819480612024b3600000001"
 			]
 		},
 		{
@@ -4768,12 +4972,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Blueprints/AI/Behaviour_Trees/BB_Basic",
-			"ExportBundleChunkIds": [
-				"df71c64ac622bc3b00000001"
-			]
-		},
-		{
 			"Name": "/Game/Blueprints/Base_DT",
 			"ExportBundleChunkIds": [
 				"04a406af81f7cf5000000001"
@@ -4792,9 +4990,27 @@
 			]
 		},
 		{
+			"Name": "/Game/Blueprints/AI/Behaviour_Trees/BB_Basic",
+			"ExportBundleChunkIds": [
+				"df71c64ac622bc3b00000001"
+			]
+		},
+		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient",
 			"ExportBundleChunkIds": [
 				"629063fd362b2e3e00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
+			"ExportBundleChunkIds": [
+				"da9ef9387e6c513600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
+			"ExportBundleChunkIds": [
+				"6ebbe4a6ced841cc00000001"
 			]
 		},
 		{
@@ -4813,6 +5029,12 @@
 			"Name": "/Paper2D/DummySprite",
 			"ExportBundleChunkIds": [
 				"7936cc24a0df034100000001"
+			]
+		},
+		{
+			"Name": "/Paper2D/DefaultSpriteMaterial",
+			"ExportBundleChunkIds": [
+				"12c2c1346a8453a600000001"
 			]
 		},
 		{
@@ -4846,57 +5068,33 @@
 			]
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
+			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
 			"ExportBundleChunkIds": [
-				"c851afa144f311c000000001"
+				"51f4a9204ba994c500000001"
 			]
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix",
+			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Throat_Scream_1",
 			"ExportBundleChunkIds": [
-				"a365ccf446169e3a00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
-			"ExportBundleChunkIds": [
-				"27d7aeddb1b7c7fc00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
-			"ExportBundleChunkIds": [
-				"6ebbe4a6ced841cc00000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_1",
-			"ExportBundleChunkIds": [
-				"3302ca00c50f77e800000001"
+				"12d97c79c999bc0300000001"
 			],
 			"BulkDataChunkIds": [
-				"3302ca00c50f77e800000002"
+				"12d97c79c999bc0300000002"
 			]
 		},
 		{
-			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_2",
+			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Injured_1",
 			"ExportBundleChunkIds": [
-				"3bc825e30b08eedf00000001"
+				"2a6c5e2cb54d546d00000001"
 			],
 			"BulkDataChunkIds": [
-				"3bc825e30b08eedf00000002"
+				"2a6c5e2cb54d546d00000002"
 			]
 		},
 		{
-			"Name": "/Game/Assets/Items/Sprites/Health/Health_Bar_Empty",
+			"Name": "/Game/Assets/Protagonist/RAW/Protagonist_v2_Diffuse",
 			"ExportBundleChunkIds": [
-				"efac5f9dbc1cc38300000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Sprites/Health/Health_Bar_Full",
-			"ExportBundleChunkIds": [
-				"64163a8926606c4f00000001"
+				"7efedf68df9e75d800000001"
 			]
 		},
 		{
@@ -4906,9 +5104,9 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/THUMBNAILS/TN_Medkit",
+			"Name": "/Engine/EngineMaterials/FlatNormal",
 			"ExportBundleChunkIds": [
-				"44870c3d197c626500000001"
+				"2b69d7985d15bf2200000001"
 			]
 		},
 		{
@@ -4921,18 +5119,39 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Audio/Sound_Effects/AI_Danger",
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
 			"ExportBundleChunkIds": [
-				"c35c2d06f62d571900000001"
-			],
-			"BulkDataChunkIds": [
-				"c35c2d06f62d571900000002"
+				"c472a8877b0ae2f900000001"
 			]
 		},
 		{
 			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
 			"ExportBundleChunkIds": [
 				"2a8ace463a029fae00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/UnlitMaterial",
+			"ExportBundleChunkIds": [
+				"1e8860c1da3e1ade00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
+			"ExportBundleChunkIds": [
+				"7539f12095a3f0d100000001"
+			],
+			"BulkDataChunkIds": [
+				"7539f12095a3f0d100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
+			"ExportBundleChunkIds": [
+				"7a7173cfb4095b9f00000001"
+			],
+			"BulkDataChunkIds": [
+				"7a7173cfb4095b9f00000002"
 			]
 		},
 		{
@@ -4954,6 +5173,18 @@
 			"Name": "/Engine/EngineResources/DefaultVolumeTexture2D",
 			"ExportBundleChunkIds": [
 				"6c54e7f6d4ea912200000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultVolumeTexture",
+			"ExportBundleChunkIds": [
+				"e6291a81a77661e900000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTextureCube",
+			"ExportBundleChunkIds": [
+				"3e6f2bc6739d380300000001"
 			]
 		},
 		{
@@ -5035,12 +5266,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
-			"ExportBundleChunkIds": [
-				"c472a8877b0ae2f900000001"
-			]
-		},
-		{
 			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
 			"ExportBundleChunkIds": [
 				"2d5d52b0905803e600000001"
@@ -5065,9 +5290,12 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/FlatNormal",
+			"Name": "/Game/Assets/Audio/Sound_Effects/AI_Danger",
 			"ExportBundleChunkIds": [
-				"2b69d7985d15bf2200000001"
+				"c35c2d06f62d571900000001"
+			],
+			"BulkDataChunkIds": [
+				"c35c2d06f62d571900000002"
 			]
 		},
 		{
@@ -5164,6 +5392,60 @@
 			]
 		},
 		{
+			"Name": "/Game/Assets/THUMBNAILS/TN_PDW_Texture",
+			"ExportBundleChunkIds": [
+				"67ce3d21f1f6394100000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/THUMBNAILS/TN_Service_Pistol_Texture",
+			"ExportBundleChunkIds": [
+				"eaf0d581c1495aa100000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/HUD/Item_AND_Weapon_Switcher/Item_Dark_Diffuse",
+			"ExportBundleChunkIds": [
+				"189e1edd72ef545f00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/HUD/Item_AND_Weapon_Switcher/Item_Darkest_Diffuse",
+			"ExportBundleChunkIds": [
+				"b96a98dd2f48e57f00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/HUD/Item_AND_Weapon_Switcher/Item_Medium_Diffuse",
+			"ExportBundleChunkIds": [
+				"b9c38bd330c8d64700000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/HUD/Item_AND_Weapon_Switcher/Weapon_Dark_Diffuse",
+			"ExportBundleChunkIds": [
+				"9e89e074ed0a655b00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/HUD/Item_AND_Weapon_Switcher/Weapon_Darkest_Diffuse",
+			"ExportBundleChunkIds": [
+				"efa1758f7c05aaea00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/HUD/Item_AND_Weapon_Switcher/Weapon_Medium_Diffuse",
+			"ExportBundleChunkIds": [
+				"519bc489689fb18000000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/THUMBNAILS/TN_Medkit",
+			"ExportBundleChunkIds": [
+				"44870c3d197c626500000001"
+			]
+		},
+		{
 			"Name": "/Game/Assets/THUMBNAILS/TN_PDW_Bullet",
 			"ExportBundleChunkIds": [
 				"6f42e122e7c6477500000001"
@@ -5179,12 +5461,6 @@
 			"Name": "/Game/Assets/THUMBNAILS/TN_PDW_Partial_Magazine",
 			"ExportBundleChunkIds": [
 				"4a4829d2273a715600000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/THUMBNAILS/TN_PDW_Texture",
-			"ExportBundleChunkIds": [
-				"67ce3d21f1f6394100000001"
 			]
 		},
 		{
@@ -5206,18 +5482,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/THUMBNAILS/TN_Service_Pistol_Texture",
-			"ExportBundleChunkIds": [
-				"eaf0d581c1495aa100000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Protagonist/RAW/Protagonist_v2_Diffuse",
-			"ExportBundleChunkIds": [
-				"7efedf68df9e75d800000001"
-			]
-		},
-		{
 			"Name": "/Game/Assets/Protagonist/RAW/Protagonist_v2_Normal",
 			"ExportBundleChunkIds": [
 				"e37de866f1ab57f800000001"
@@ -5233,6 +5497,18 @@
 			"Name": "/Game/Assets/Items/RAW/Item_Bullet_Diffuse",
 			"ExportBundleChunkIds": [
 				"33b2de5aea8251c500000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Sprites/Health/Health_Bar_Empty",
+			"ExportBundleChunkIds": [
+				"efac5f9dbc1cc38300000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Sprites/Health/Health_Bar_Full",
+			"ExportBundleChunkIds": [
+				"64163a8926606c4f00000001"
 			]
 		},
 		{
@@ -5254,48 +5530,12 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Items/Sprites/Stamina/Stamina_Bar_Full",
-			"ExportBundleChunkIds": [
-				"7601bcad1fe9c8a400000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Sprites/Stress/Stress_Bar_Empty",
-			"ExportBundleChunkIds": [
-				"79aaf3768c1ce02900000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Sprites/Stress/Stress_Bar_Full",
-			"ExportBundleChunkIds": [
-				"f45af4badc92e31600000001"
-			]
-		},
-		{
 			"Name": "/Game/Assets/Audio/Sound_Effects/Walk_Shuffle_Step_2",
 			"ExportBundleChunkIds": [
 				"60216a30ca4a642c00000001"
 			],
 			"BulkDataChunkIds": [
 				"60216a30ca4a642c00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Throat_Scream_1",
-			"ExportBundleChunkIds": [
-				"12d97c79c999bc0300000001"
-			],
-			"BulkDataChunkIds": [
-				"12d97c79c999bc0300000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Injured_1",
-			"ExportBundleChunkIds": [
-				"2a6c5e2cb54d546d00000001"
-			],
-			"BulkDataChunkIds": [
-				"2a6c5e2cb54d546d00000002"
 			]
 		},
 		{
@@ -5326,12 +5566,135 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Split_Head_Moan_1",
+			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_1",
 			"ExportBundleChunkIds": [
-				"7cdfa2ef56aa174600000001"
+				"3302ca00c50f77e800000001"
 			],
 			"BulkDataChunkIds": [
-				"7cdfa2ef56aa174600000002"
+				"3302ca00c50f77e800000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Throat_Roar_2",
+			"ExportBundleChunkIds": [
+				"3bc825e30b08eedf00000001"
+			],
+			"BulkDataChunkIds": [
+				"3bc825e30b08eedf00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
+			"ExportBundleChunkIds": [
+				"f38cb73e67825d9600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial",
+			"ExportBundleChunkIds": [
+				"2acd952336aab07f00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
+			"ExportBundleChunkIds": [
+				"3c018da41573213600000001"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
+			"ExportBundleChunkIds": [
+				"c851afa144f311c000000001"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix",
+			"ExportBundleChunkIds": [
+				"a365ccf446169e3a00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
+			"ExportBundleChunkIds": [
+				"497b4263fbd333c800000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
+			"ExportBundleChunkIds": [
+				"ef400c1f3fd91f2a00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultMaterial",
+			"ExportBundleChunkIds": [
+				"b4d3126ba7954ec000000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/WorldGridMaterial",
+			"ExportBundleChunkIds": [
+				"eeb296b2a739309500000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+			"ExportBundleChunkIds": [
+				"e3ad05e4a2d7a17c00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_TransformUVs",
+			"ExportBundleChunkIds": [
+				"2609b5dacefe803900000001"
+			]
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
+			"ExportBundleChunkIds": [
+				"37cdeb5ce1d3ccd800000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Gamemodes/Main_Menu",
+			"ExportBundleChunkIds": [
+				"f3b6147a0af6d3d000000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/M_Manip",
+			"ExportBundleChunkIds": [
+				"9a5a67fa3c2b2de900000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
+			"ExportBundleChunkIds": [
+				"3bf2df25e14476d700000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Medical/RAW/Enemy_Zombie_Medical_Normal",
+			"ExportBundleChunkIds": [
+				"3c03320c5ffdc88800000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Sprites/Stamina/Stamina_Bar_Full",
+			"ExportBundleChunkIds": [
+				"7601bcad1fe9c8a400000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Sprites/Stress/Stress_Bar_Empty",
+			"ExportBundleChunkIds": [
+				"79aaf3768c1ce02900000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Sprites/Stress/Stress_Bar_Full",
+			"ExportBundleChunkIds": [
+				"f45af4badc92e31600000001"
 			]
 		},
 		{
@@ -5365,27 +5728,9 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
+			"Name": "/Game/Assets/Enemies/Zombie/Medical/RAW/Enemy_Zombie_Medical_Diffuse",
 			"ExportBundleChunkIds": [
-				"da9ef9387e6c513600000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
-			"ExportBundleChunkIds": [
-				"f38cb73e67825d9600000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial",
-			"ExportBundleChunkIds": [
-				"2acd952336aab07f00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
-			"ExportBundleChunkIds": [
-				"3c018da41573213600000001"
+				"5d0b27f0b49ad0ea00000001"
 			]
 		},
 		{
@@ -5395,51 +5740,21 @@
 			]
 		},
 		{
-			"Name": "/ControlRig/M_Manip",
-			"ExportBundleChunkIds": [
-				"9a5a67fa3c2b2de900000001"
-			]
-		},
-		{
-			"Name": "/Paper2D/DefaultSpriteMaterial",
-			"ExportBundleChunkIds": [
-				"12c2c1346a8453a600000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
-			"ExportBundleChunkIds": [
-				"3bf2df25e14476d700000001"
-			]
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
-			"ExportBundleChunkIds": [
-				"51f4a9204ba994c500000001"
-			]
-		},
-		{
 			"Name": "/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial",
 			"ExportBundleChunkIds": [
 				"6fab96d8842b418000000001"
 			]
 		},
 		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_TransformUVs",
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
 			"ExportBundleChunkIds": [
-				"2609b5dacefe803900000001"
+				"27d7aeddb1b7c7fc00000001"
 			]
 		},
 		{
-			"Name": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
+			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
 			"ExportBundleChunkIds": [
-				"37cdeb5ce1d3ccd800000001"
-			]
-		},
-		{
-			"Name": "/Game/Blueprints/Gamemodes/Main_Menu",
-			"ExportBundleChunkIds": [
-				"f3b6147a0af6d3d000000001"
+				"6c3a98c4aa151a5300000001"
 			]
 		},
 		{
@@ -5477,12 +5792,6 @@
 			"ExportBundleChunkIds": [
 				"4cb04f8c4feeb0d700000001"
 			]
-		},
-		{
-			"Name": "/Game/Assets/THUMBNAILS/TN_SMG"
-		},
-		{
-			"Name": "/Game/Assets/THUMBNAILS/TN_Service_Pistol"
 		},
 		{
 			"Name": "/Game/Blueprints/PDW_AP_DT",
@@ -5593,12 +5902,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Split_Head_Moan_1_Que",
-			"ExportBundleChunkIds": [
-				"8aca2b8bf91f0d7600000001"
-			]
-		},
-		{
 			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Throat_Que",
 			"ExportBundleChunkIds": [
 				"4b7d0850ca80052d00000001"
@@ -5629,93 +5932,15 @@
 			]
 		},
 		{
+			"Name": "/Paper2D/OpaqueUnlitSpriteMaterial",
+			"ExportBundleChunkIds": [
+				"b2e758c7adce0aa000000001"
+			]
+		},
+		{
 			"Name": "/Paper2D/MaskedUnlitSpriteMaterial",
 			"ExportBundleChunkIds": [
 				"603c62bd8092b35100000001"
-			]
-		},
-		{
-			"Name": "/Paper2D/DefaultLitSpriteMaterial",
-			"ExportBundleChunkIds": [
-				"b4e99ebee8538a8000000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/PhongSurfaceMaterial",
-			"ExportBundleChunkIds": [
-				"87099a79bdf858fb00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
-			"ExportBundleChunkIds": [
-				"497b4263fbd333c800000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
-			"ExportBundleChunkIds": [
-				"6c3a98c4aa151a5300000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Enemies/Zombie/Medical/RAW/Enemy_Zombie_Medical_Diffuse",
-			"ExportBundleChunkIds": [
-				"5d0b27f0b49ad0ea00000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Enemies/Zombie/Medical/RAW/Enemy_Zombie_Medical_Normal",
-			"ExportBundleChunkIds": [
-				"3c03320c5ffdc88800000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
-			"ExportBundleChunkIds": [
-				"ef400c1f3fd91f2a00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultMaterial",
-			"ExportBundleChunkIds": [
-				"b4d3126ba7954ec000000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/WorldGridMaterial",
-			"ExportBundleChunkIds": [
-				"eeb296b2a739309500000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
-			"ExportBundleChunkIds": [
-				"e3ad05e4a2d7a17c00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale",
-			"ExportBundleChunkIds": [
-				"14c0e68102482a4700000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationColor",
-			"ExportBundleChunkIds": [
-				"a4739b1d475b4a3e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
-			"ExportBundleChunkIds": [
-				"fabb39727be145c100000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Materials/M_Custom_Lit_Sprite",
-			"ExportBundleChunkIds": [
-				"df0e7a8085b831e300000001"
 			]
 		},
 		{
@@ -5803,6 +6028,12 @@
 			"Name": "/Interchange/gltf/MaterialFunctions/MF_RotateNormals_TS",
 			"ExportBundleChunkIds": [
 				"8b957d3c17c70d9600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked",
+			"ExportBundleChunkIds": [
+				"85eb7ec9f6c8613a00000001"
 			]
 		},
 		{
@@ -5908,6 +6139,108 @@
 			]
 		},
 		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_1mm",
+			"ExportBundleChunkIds": [
+				"b0e6f22a1229f33400000001"
+			],
+			"BulkDataChunkIds": [
+				"b0e6f22a1229f33400000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_3mm",
+			"ExportBundleChunkIds": [
+				"2feae67d1f28277b00000001"
+			],
+			"BulkDataChunkIds": [
+				"2feae67d1f28277b00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_3mm",
+			"ExportBundleChunkIds": [
+				"0d2d768a1192b97000000001"
+			],
+			"BulkDataChunkIds": [
+				"0d2d768a1192b97000000002"
+			]
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster",
+			"ExportBundleChunkIds": [
+				"7bb897d6d85abe5e00000001"
+			]
+		},
+		{
+			"Name": "/Game/Inventory/Materials/MUI_Slots",
+			"ExportBundleChunkIds": [
+				"9c48a3183c938a8300000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale",
+			"ExportBundleChunkIds": [
+				"14c0e68102482a4700000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationColor",
+			"ExportBundleChunkIds": [
+				"a4739b1d475b4a3e00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
+			"ExportBundleChunkIds": [
+				"fabb39727be145c100000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/PhongSurfaceMaterial",
+			"ExportBundleChunkIds": [
+				"87099a79bdf858fb00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Materials/M_Custom_Lit_Sprite",
+			"ExportBundleChunkIds": [
+				"df0e7a8085b831e300000001"
+			]
+		},
+		{
+			"Name": "/Paper2D/DefaultLitSpriteMaterial",
+			"ExportBundleChunkIds": [
+				"b4e99ebee8538a8000000001"
+			]
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster",
+			"ExportBundleChunkIds": [
+				"0ec7598e2050155600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
+			"ExportBundleChunkIds": [
+				"dd353fe85598727e00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
+			"ExportBundleChunkIds": [
+				"34868b7f9c10838900000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_solid",
+			"ExportBundleChunkIds": [
+				"1595b610bf425b8d00000001"
+			],
+			"BulkDataChunkIds": [
+				"1595b610bf425b8d00000002"
+			]
+		},
+		{
 			"Name": "/ControlRig/Controls/ControlRig_Square_solid",
 			"ExportBundleChunkIds": [
 				"282dd182b8a2782f00000001"
@@ -5932,225 +6265,6 @@
 			],
 			"BulkDataChunkIds": [
 				"d77ff1320cafb8eb00000002"
-			]
-		},
-		{
-			"Name": "/Engine/BasicShapes/Plane",
-			"ExportBundleChunkIds": [
-				"a44601bc68ca3f2400000001"
-			],
-			"BulkDataChunkIds": [
-				"a44601bc68ca3f2400000002"
-			]
-		},
-		{
-			"Name": "/Engine/BasicShapes/Cube",
-			"ExportBundleChunkIds": [
-				"71fe0432abe4de2400000001"
-			],
-			"BulkDataChunkIds": [
-				"71fe0432abe4de2400000002"
-			]
-		},
-		{
-			"Name": "/MediaPlate/SM_MediaPlateScreen",
-			"ExportBundleChunkIds": [
-				"306a2f803628deec00000001"
-			],
-			"BulkDataChunkIds": [
-				"306a2f803628deec00000002"
-			]
-		},
-		{
-			"Name": "/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane",
-			"ExportBundleChunkIds": [
-				"7b9c08e592b6f57800000001"
-			],
-			"BulkDataChunkIds": [
-				"7b9c08e592b6f57800000002"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_Transmission",
-			"ExportBundleChunkIds": [
-				"417bca15604f351b00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_Specular",
-			"ExportBundleChunkIds": [
-				"3acd9f2792ca582a00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_Sheen",
-			"ExportBundleChunkIds": [
-				"ebf69106ee2ff7c800000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_Occlusion",
-			"ExportBundleChunkIds": [
-				"f3761c2393b4e45200000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_MetallicRoughness",
-			"ExportBundleChunkIds": [
-				"45c9d31f58b5a28600000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_Emissive",
-			"ExportBundleChunkIds": [
-				"6911205ccba957ea00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_DiffuseSpecGloss",
-			"ExportBundleChunkIds": [
-				"7b70260bca9492dd00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_BaseColor",
-			"ExportBundleChunkIds": [
-				"03fb604773241cc800000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/PBRSurfaceFunction",
-			"ExportBundleChunkIds": [
-				"156f367632f51d2d00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/LambertSurfaceMaterial",
-			"ExportBundleChunkIds": [
-				"481af9927a0fd4e500000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness",
-			"ExportBundleChunkIds": [
-				"ed44d1f3d85565ec00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Functions/MX_Transmission",
-			"ExportBundleChunkIds": [
-				"7646f65b7f1cec4600000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Functions/MX_StandardSurface",
-			"ExportBundleChunkIds": [
-				"d98087cdcb744e1000000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Sprites/Item_Bullet_Casing_Diffuse_Sprite_0",
-			"ExportBundleChunkIds": [
-				"2b0f282d36d6f0f200000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Sprites/Item_Bullet_Diffuse_Sprite_0",
-			"ExportBundleChunkIds": [
-				"5af6d107ab40ac3b00000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Sprites/Medkit_Diffuse_Sprite_0",
-			"ExportBundleChunkIds": [
-				"d51996ab46e5883a00000001"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Sphere_solid",
-			"ExportBundleChunkIds": [
-				"1b32f3f341cb246000000001"
-			],
-			"BulkDataChunkIds": [
-				"1b32f3f341cb246000000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Box_1mm",
-			"ExportBundleChunkIds": [
-				"0bd00fa41afbdaed00000001"
-			],
-			"BulkDataChunkIds": [
-				"0bd00fa41afbdaed00000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Octagon_3mm",
-			"ExportBundleChunkIds": [
-				"db28b8396928adf000000001"
-			],
-			"BulkDataChunkIds": [
-				"db28b8396928adf000000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Wedge_3mm",
-			"ExportBundleChunkIds": [
-				"0d2d768a1192b97000000001"
-			],
-			"BulkDataChunkIds": [
-				"0d2d768a1192b97000000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked",
-			"ExportBundleChunkIds": [
-				"85eb7ec9f6c8613a00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
-			"ExportBundleChunkIds": [
-				"dd353fe85598727e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
-			"ExportBundleChunkIds": [
-				"34868b7f9c10838900000001"
-			]
-		},
-		{
-			"Name": "/Game/Inventory/Materials/MUI_Slots",
-			"ExportBundleChunkIds": [
-				"9c48a3183c938a8300000001"
-			]
-		},
-		{
-			"Name": "/Paper2D/OpaqueUnlitSpriteMaterial",
-			"ExportBundleChunkIds": [
-				"b2e758c7adce0aa000000001"
-			]
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster",
-			"ExportBundleChunkIds": [
-				"0ec7598e2050155600000001"
-			]
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster",
-			"ExportBundleChunkIds": [
-				"7bb897d6d85abe5e00000001"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Wedge_solid",
-			"ExportBundleChunkIds": [
-				"1595b610bf425b8d00000001"
-			],
-			"BulkDataChunkIds": [
-				"1595b610bf425b8d00000002"
 			]
 		},
 		{
@@ -6262,15 +6376,6 @@
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Pyramid_3mm",
-			"ExportBundleChunkIds": [
-				"2feae67d1f28277b00000001"
-			],
-			"BulkDataChunkIds": [
-				"2feae67d1f28277b00000002"
-			]
-		},
-		{
 			"Name": "/ControlRig/Controls/ControlRig_Pyramid_1mm",
 			"ExportBundleChunkIds": [
 				"e28775e15c9fefaa00000001"
@@ -6286,6 +6391,15 @@
 			],
 			"BulkDataChunkIds": [
 				"c42798d4b7d7893a00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_3mm",
+			"ExportBundleChunkIds": [
+				"db28b8396928adf000000001"
+			],
+			"BulkDataChunkIds": [
+				"db28b8396928adf000000002"
 			]
 		},
 		{
@@ -6397,15 +6511,6 @@
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Circle_1mm",
-			"ExportBundleChunkIds": [
-				"b0e6f22a1229f33400000001"
-			],
-			"BulkDataChunkIds": [
-				"b0e6f22a1229f33400000002"
-			]
-		},
-		{
 			"Name": "/ControlRig/Controls/ControlRig_Box_solid",
 			"ExportBundleChunkIds": [
 				"b6ecf8eaf9e325c400000001"
@@ -6421,6 +6526,15 @@
 			],
 			"BulkDataChunkIds": [
 				"1d2105a53b99f8b400000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_1mm",
+			"ExportBundleChunkIds": [
+				"0bd00fa41afbdaed00000001"
+			],
+			"BulkDataChunkIds": [
+				"0bd00fa41afbdaed00000002"
 			]
 		},
 		{
@@ -6505,6 +6619,141 @@
 			]
 		},
 		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_solid",
+			"ExportBundleChunkIds": [
+				"1b32f3f341cb246000000001"
+			],
+			"BulkDataChunkIds": [
+				"1b32f3f341cb246000000002"
+			]
+		},
+		{
+			"Name": "/Engine/BasicShapes/Plane",
+			"ExportBundleChunkIds": [
+				"a44601bc68ca3f2400000001"
+			],
+			"BulkDataChunkIds": [
+				"a44601bc68ca3f2400000002"
+			]
+		},
+		{
+			"Name": "/Engine/BasicShapes/Cube",
+			"ExportBundleChunkIds": [
+				"71fe0432abe4de2400000001"
+			],
+			"BulkDataChunkIds": [
+				"71fe0432abe4de2400000002"
+			]
+		},
+		{
+			"Name": "/MediaPlate/SM_MediaPlateScreen",
+			"ExportBundleChunkIds": [
+				"306a2f803628deec00000001"
+			],
+			"BulkDataChunkIds": [
+				"306a2f803628deec00000002"
+			]
+		},
+		{
+			"Name": "/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane",
+			"ExportBundleChunkIds": [
+				"7b9c08e592b6f57800000001"
+			],
+			"BulkDataChunkIds": [
+				"7b9c08e592b6f57800000002"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_Transmission",
+			"ExportBundleChunkIds": [
+				"417bca15604f351b00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_Specular",
+			"ExportBundleChunkIds": [
+				"3acd9f2792ca582a00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_Sheen",
+			"ExportBundleChunkIds": [
+				"ebf69106ee2ff7c800000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_Occlusion",
+			"ExportBundleChunkIds": [
+				"f3761c2393b4e45200000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_MetallicRoughness",
+			"ExportBundleChunkIds": [
+				"45c9d31f58b5a28600000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_Emissive",
+			"ExportBundleChunkIds": [
+				"6911205ccba957ea00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_DiffuseSpecGloss",
+			"ExportBundleChunkIds": [
+				"7b70260bca9492dd00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_BaseColor",
+			"ExportBundleChunkIds": [
+				"03fb604773241cc800000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/PBRSurfaceFunction",
+			"ExportBundleChunkIds": [
+				"156f367632f51d2d00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness",
+			"ExportBundleChunkIds": [
+				"ed44d1f3d85565ec00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Functions/MX_Transmission",
+			"ExportBundleChunkIds": [
+				"7646f65b7f1cec4600000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Functions/MX_StandardSurface",
+			"ExportBundleChunkIds": [
+				"d98087cdcb744e1000000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Sprites/Item_Bullet_Casing_Diffuse_Sprite_0",
+			"ExportBundleChunkIds": [
+				"2b0f282d36d6f0f200000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Sprites/Item_Bullet_Diffuse_Sprite_0",
+			"ExportBundleChunkIds": [
+				"5af6d107ab40ac3b00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Sprites/Medkit_Diffuse_Sprite_0",
+			"ExportBundleChunkIds": [
+				"d51996ab46e5883a00000001"
+			]
+		},
+		{
 			"Name": "/Paper2D/MaskedLitSpriteMaterial",
 			"ExportBundleChunkIds": [
 				"c17e2b8f4ee5c13800000001"
@@ -6523,9 +6772,81 @@
 			]
 		},
 		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided",
+			"ExportBundleChunkIds": [
+				"3a0245e4904b10b500000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/ThinTranslucentMaterial",
+			"ExportBundleChunkIds": [
+				"976e29a8f9ef0e4700000001"
+			]
+		},
+		{
 			"Name": "/Interchange/Functions/MX_TransmissionSurface",
 			"ExportBundleChunkIds": [
 				"9f17ab2167ce1be600000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/ClearCoatMaterial",
+			"ExportBundleChunkIds": [
+				"00b0acb8356d298100000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/LambertSurfaceMaterial",
+			"ExportBundleChunkIds": [
+				"481af9927a0fd4e500000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/OrenNayerMaterial",
+			"ExportBundleChunkIds": [
+				"6ef7819258ad309900000001"
+			]
+		},
+		{
+			"Name": "/Paper2D/OpaqueLitSpriteMaterial",
+			"ExportBundleChunkIds": [
+				"b955968f2ebd88f600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
+			"ExportBundleChunkIds": [
+				"0e6a0028be3a2a6c00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+			"ExportBundleChunkIds": [
+				"2925796cddcc148c00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/M_Unlit",
+			"ExportBundleChunkIds": [
+				"d918e06ff9ea46e100000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/SubsurfaceMaterial",
+			"ExportBundleChunkIds": [
+				"f487fba2cf9e3ed800000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/SheenMaterial",
+			"ExportBundleChunkIds": [
+				"898199688adbdfb100000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/PBRSurfaceMaterial",
+			"ExportBundleChunkIds": [
+				"6e11d15e7c810c8200000001"
 			]
 		},
 		{
@@ -6832,72 +7153,6 @@
 			"Name": "/Game/Assets/Protagonist/RAW/Protagonist_v2_Diffuse_Sprite_44",
 			"ExportBundleChunkIds": [
 				"3da1373d1908be2100000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/SheenMaterial",
-			"ExportBundleChunkIds": [
-				"898199688adbdfb100000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/PBRSurfaceMaterial",
-			"ExportBundleChunkIds": [
-				"6e11d15e7c810c8200000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/ClearCoatMaterial",
-			"ExportBundleChunkIds": [
-				"00b0acb8356d298100000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/OrenNayerMaterial",
-			"ExportBundleChunkIds": [
-				"6ef7819258ad309900000001"
-			]
-		},
-		{
-			"Name": "/Paper2D/OpaqueLitSpriteMaterial",
-			"ExportBundleChunkIds": [
-				"b955968f2ebd88f600000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided",
-			"ExportBundleChunkIds": [
-				"3a0245e4904b10b500000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
-			"ExportBundleChunkIds": [
-				"0e6a0028be3a2a6c00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
-			"ExportBundleChunkIds": [
-				"2925796cddcc148c00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/M_Unlit",
-			"ExportBundleChunkIds": [
-				"d918e06ff9ea46e100000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/ThinTranslucentMaterial",
-			"ExportBundleChunkIds": [
-				"976e29a8f9ef0e4700000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/SubsurfaceMaterial",
-			"ExportBundleChunkIds": [
-				"f487fba2cf9e3ed800000001"
 			]
 		},
 		{
@@ -7576,6 +7831,12 @@
 			"Name": "/Interchange/gltf/M_Transmission",
 			"ExportBundleChunkIds": [
 				"5d3da2acdd9b77ab00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/M_Sheen",
+			"ExportBundleChunkIds": [
+				"15ed90c4c41816c900000001"
 			]
 		},
 		{
@@ -8404,6 +8665,144 @@
 			]
 		},
 		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat",
+			"ExportBundleChunkIds": [
+				"a3739079b5cbf53d00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque",
+			"ExportBundleChunkIds": [
+				"9976270f2cfbf30600000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_TS",
+			"ExportBundleChunkIds": [
+				"7d054fc33a3fce1b00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS",
+			"ExportBundleChunkIds": [
+				"3af1a6ee62b1c44f00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat",
+			"ExportBundleChunkIds": [
+				"f649501136fe389200000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS",
+			"ExportBundleChunkIds": [
+				"88ff872ce265b5b800000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/M_Translucent",
+			"ExportBundleChunkIds": [
+				"40a47ef29721ae1400000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/M_Opaque",
+			"ExportBundleChunkIds": [
+				"c256801c9362234700000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS",
+			"ExportBundleChunkIds": [
+				"61d8faa6578ca89b00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Transmission_TS",
+			"ExportBundleChunkIds": [
+				"0d2603f17a607ce600000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Transmission",
+			"ExportBundleChunkIds": [
+				"0ca9e8893c530c0900000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Transmission_TS",
+			"ExportBundleChunkIds": [
+				"a2887f69bec4c1f100000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS",
+			"ExportBundleChunkIds": [
+				"b320bc84dd8973e000000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen",
+			"ExportBundleChunkIds": [
+				"7b77ddbf8026972c00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Translucent_TS",
+			"ExportBundleChunkIds": [
+				"e5924f236675b02c00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS",
+			"ExportBundleChunkIds": [
+				"a9214a0b5395af3100000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat",
+			"ExportBundleChunkIds": [
+				"8929f50cd75d489500000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Translucent",
+			"ExportBundleChunkIds": [
+				"41ec5cd7a203eab500000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Translucent_TS",
+			"ExportBundleChunkIds": [
+				"314ced0d8a0c7f8400000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS",
+			"ExportBundleChunkIds": [
+				"8f8687ee195af63200000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat",
+			"ExportBundleChunkIds": [
+				"f7c2122dfe578d1b00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_TS",
+			"ExportBundleChunkIds": [
+				"f6e893cc0fbfa11700000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS",
+			"ExportBundleChunkIds": [
+				"1c5d8f98c639f24000000001"
+			]
+		},
+		{
 			"Name": "/Game/Assets/Enemies/Zombie/Medical/Scarred_Death",
 			"ExportBundleChunkIds": [
 				"3c5154f304dcfcd000000001"
@@ -8470,150 +8869,6 @@
 			]
 		},
 		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_TS",
-			"ExportBundleChunkIds": [
-				"f6e893cc0fbfa11700000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque",
-			"ExportBundleChunkIds": [
-				"9976270f2cfbf30600000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_TS",
-			"ExportBundleChunkIds": [
-				"7d054fc33a3fce1b00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS",
-			"ExportBundleChunkIds": [
-				"3af1a6ee62b1c44f00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat",
-			"ExportBundleChunkIds": [
-				"f649501136fe389200000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS",
-			"ExportBundleChunkIds": [
-				"1c5d8f98c639f24000000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat",
-			"ExportBundleChunkIds": [
-				"a3739079b5cbf53d00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Transmission_TS",
-			"ExportBundleChunkIds": [
-				"0d2603f17a607ce600000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Transmission",
-			"ExportBundleChunkIds": [
-				"0ca9e8893c530c0900000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Transmission_TS",
-			"ExportBundleChunkIds": [
-				"a2887f69bec4c1f100000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/M_Sheen",
-			"ExportBundleChunkIds": [
-				"15ed90c4c41816c900000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/M_Translucent",
-			"ExportBundleChunkIds": [
-				"40a47ef29721ae1400000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/M_Opaque",
-			"ExportBundleChunkIds": [
-				"c256801c9362234700000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS",
-			"ExportBundleChunkIds": [
-				"61d8faa6578ca89b00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS",
-			"ExportBundleChunkIds": [
-				"b320bc84dd8973e000000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen",
-			"ExportBundleChunkIds": [
-				"7b77ddbf8026972c00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS",
-			"ExportBundleChunkIds": [
-				"88ff872ce265b5b800000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Translucent_TS",
-			"ExportBundleChunkIds": [
-				"e5924f236675b02c00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS",
-			"ExportBundleChunkIds": [
-				"a9214a0b5395af3100000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat",
-			"ExportBundleChunkIds": [
-				"8929f50cd75d489500000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Translucent",
-			"ExportBundleChunkIds": [
-				"41ec5cd7a203eab500000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Translucent_TS",
-			"ExportBundleChunkIds": [
-				"314ced0d8a0c7f8400000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS",
-			"ExportBundleChunkIds": [
-				"8f8687ee195af63200000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat",
-			"ExportBundleChunkIds": [
-				"f7c2122dfe578d1b00000001"
-			]
-		},
-		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterReverbSubmixDefault",
 			"ExportBundleChunkIds": [
 				"cda0bce26734770500000001"
@@ -8629,6 +8884,12 @@
 			"Name": "/Game/Assets/Menus/Credits_Menu/Credits_Menu_Widget",
 			"ExportBundleChunkIds": [
 				"ed51eb834bdfb4b500000001"
+			]
+		},
+		{
+			"Name": "/Game/Levels/Main_Menu",
+			"ExportBundleChunkIds": [
+				"c360e2ee4d6cdda400000001"
 			]
 		},
 		{
@@ -8695,6 +8956,18 @@
 			"Name": "/Game/Inventory/Status_Bar_Widget",
 			"ExportBundleChunkIds": [
 				"f49a1c8f19bb445400000001"
+			]
+		},
+		{
+			"Name": "/Game/Inventory/Switcher_Item_Widget",
+			"ExportBundleChunkIds": [
+				"0e0417a2a2ed333900000001"
+			]
+		},
+		{
+			"Name": "/Game/Inventory/Switcher_Weapon_Widget",
+			"ExportBundleChunkIds": [
+				"404acce6ebb4ee0b00000001"
 			]
 		},
 		{
@@ -8896,12 +9169,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Levels/Main_Menu",
-			"ExportBundleChunkIds": [
-				"c360e2ee4d6cdda400000001"
-			]
-		},
-		{
 			"Name": "/Game/Levels/Test_Level/_Generated_/MainGrid_L0_X-1_Y0_DL0",
 			"ExportBundleChunkIds": [
 				"3b204496cf5034c100000001"
@@ -8980,6 +9247,12 @@
 			]
 		},
 		{
+			"Name": "/Paper2D/TranslucentUnlitSpriteMaterial",
+			"ExportBundleChunkIds": [
+				"ed80e6fdcb7b904c00000001"
+			]
+		},
+		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast",
 			"ExportBundleChunkIds": [
 				"dab3ede8bda8d8ca00000001"
@@ -9004,15 +9277,87 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Idle",
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Idle_Final_Form",
 			"ExportBundleChunkIds": [
-				"bc88a325de8bbff900000001"
+				"923020d2c07af34900000001"
 			]
 		},
 		{
-			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Walk",
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Walk_Final_Form",
 			"ExportBundleChunkIds": [
-				"09fe1c1bbf03821900000001"
+				"0a5889f7e0c5bc3000000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Bite_Final_Form",
+			"ExportBundleChunkIds": [
+				"2e0b405089a8d98300000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Bite_Injured",
+			"ExportBundleChunkIds": [
+				"6dd8cb9aeec816c700000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Bite_Uninjured",
+			"ExportBundleChunkIds": [
+				"668a296d65ee9ddb00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Death",
+			"ExportBundleChunkIds": [
+				"e540a192eff590f800000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Idle_Injured",
+			"ExportBundleChunkIds": [
+				"a556c18a1a21b7f000000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Walk_Injured",
+			"ExportBundleChunkIds": [
+				"34f1d0cbb021124a00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Idle_Uninjured",
+			"ExportBundleChunkIds": [
+				"e3126369b468d91500000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Walk_Uninjured",
+			"ExportBundleChunkIds": [
+				"e1ccb87517c685e700000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Uninjured_To_Injured",
+			"ExportBundleChunkIds": [
+				"03ce45ea99b407e900000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Walk_Up_Final_Form",
+			"ExportBundleChunkIds": [
+				"78f15904434f280500000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Walk_Up_Injured",
+			"ExportBundleChunkIds": [
+				"3430325e1141300500000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Walk_Up_Uninjured",
+			"ExportBundleChunkIds": [
+				"93a99a25e83d3caa00000001"
 			]
 		},
 		{
@@ -9022,15 +9367,87 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Idle",
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Idle_Final_Form",
 			"ExportBundleChunkIds": [
-				"232e9a982f2f2b6500000001"
+				"799828dddb7d8d3400000001"
 			]
 		},
 		{
-			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk",
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Final_Form",
 			"ExportBundleChunkIds": [
-				"6b252f551bcfcad900000001"
+				"85c5ccb8a445baa300000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Bite_Final_Form",
+			"ExportBundleChunkIds": [
+				"5e47a1bed0bd19c900000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Bite_Injured",
+			"ExportBundleChunkIds": [
+				"ef817bffa6ab21bd00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Bite_Uninjured",
+			"ExportBundleChunkIds": [
+				"756ce55dea0a171d00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Death",
+			"ExportBundleChunkIds": [
+				"a0324e602a3335c600000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Idle_Injured",
+			"ExportBundleChunkIds": [
+				"43986c034a032b2a00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Injured",
+			"ExportBundleChunkIds": [
+				"4f538ea23acb7bdf00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Idle_Uninjured",
+			"ExportBundleChunkIds": [
+				"c24eca83559bad5900000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Uninjured",
+			"ExportBundleChunkIds": [
+				"476bb9673f8d2ff200000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Injury",
+			"ExportBundleChunkIds": [
+				"d51ff839b10126fd00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Up_Final_Form",
+			"ExportBundleChunkIds": [
+				"816614ae16391cb000000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Up_Injured",
+			"ExportBundleChunkIds": [
+				"b7a214e1c02999a500000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/Enemy_Zombie_Split_Head_Walk_Up_Uninjured",
+			"ExportBundleChunkIds": [
+				"2d878d2a231f8f1000000001"
 			]
 		},
 		{
@@ -9124,6 +9541,198 @@
 			]
 		},
 		{
+			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Split_Head_Moan_1_Que",
+			"ExportBundleChunkIds": [
+				"8aca2b8bf91f0d7600000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_0",
+			"ExportBundleChunkIds": [
+				"03bbcc6d4c5f6efc00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_2",
+			"ExportBundleChunkIds": [
+				"f28add1b634209a500000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_3",
+			"ExportBundleChunkIds": [
+				"acc7ab635a2bfe0400000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_19",
+			"ExportBundleChunkIds": [
+				"1461f85dfba86db100000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_20",
+			"ExportBundleChunkIds": [
+				"e90f72de6075edb100000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_23",
+			"ExportBundleChunkIds": [
+				"3ac56c77ce74b46a00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_24",
+			"ExportBundleChunkIds": [
+				"2cc6c843f122a0cb00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_5",
+			"ExportBundleChunkIds": [
+				"faba5339f12d871500000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_6",
+			"ExportBundleChunkIds": [
+				"4ed947023d1b2f2a00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_7",
+			"ExportBundleChunkIds": [
+				"da92ae2d557a011400000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_8",
+			"ExportBundleChunkIds": [
+				"7c75a2aebf615b7700000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_9",
+			"ExportBundleChunkIds": [
+				"42cf5b9d8c6a2fc000000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_13",
+			"ExportBundleChunkIds": [
+				"778ef4a1260715fe00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_16",
+			"ExportBundleChunkIds": [
+				"f914b15bd3bb5f2d00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_10",
+			"ExportBundleChunkIds": [
+				"92c4aea6b1723ded00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_11",
+			"ExportBundleChunkIds": [
+				"f420bd29d4809e2000000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_12",
+			"ExportBundleChunkIds": [
+				"62a9f34722b7110900000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_1",
+			"ExportBundleChunkIds": [
+				"aed0ca2caacf865700000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_14",
+			"ExportBundleChunkIds": [
+				"f5eadea747d840be00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_15",
+			"ExportBundleChunkIds": [
+				"9b8976629c7c52a700000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_17",
+			"ExportBundleChunkIds": [
+				"7829bbdf7bf3a14900000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_18",
+			"ExportBundleChunkIds": [
+				"81418353c2e1d34200000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_31",
+			"ExportBundleChunkIds": [
+				"e5ce85a490d6cd4b00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_32",
+			"ExportBundleChunkIds": [
+				"9e8f4c727b20021400000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_33",
+			"ExportBundleChunkIds": [
+				"95249a5df48befdc00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_25",
+			"ExportBundleChunkIds": [
+				"228e5c541926ecda00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_26",
+			"ExportBundleChunkIds": [
+				"d12d4a430933d15700000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_27",
+			"ExportBundleChunkIds": [
+				"0b16d5d558acfebd00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_28",
+			"ExportBundleChunkIds": [
+				"a8bdddd8442c1e9000000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_29",
+			"ExportBundleChunkIds": [
+				"55d993a6fca6bc7d00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_30",
+			"ExportBundleChunkIds": [
+				"d15e5fc325bab4fb00000001"
+			]
+		},
+		{
 			"Name": "/Game/Assets/Items/Sprites/Cafeteria_Items_Diffuse_Sprite_2",
 			"ExportBundleChunkIds": [
 				"0477d592276b64be00000001"
@@ -9145,24 +9754,6 @@
 			"Name": "/Game/Assets/Items/Sprites/Cafeteria_Items_Diffuse_Sprite_1",
 			"ExportBundleChunkIds": [
 				"3dcfd750fc3dcd9200000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_0",
-			"ExportBundleChunkIds": [
-				"03bbcc6d4c5f6efc00000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_1",
-			"ExportBundleChunkIds": [
-				"aed0ca2caacf865700000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Diffuse_Sprite_2",
-			"ExportBundleChunkIds": [
-				"f28add1b634209a500000001"
 			]
 		},
 		{
@@ -9220,27 +9811,9 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Items/RAW/Chair_Normal",
-			"ExportBundleChunkIds": [
-				"fa10c1c355f9670600000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/RAW/Item_Desk",
-			"ExportBundleChunkIds": [
-				"73f38d091e199c2000000001"
-			]
-		},
-		{
 			"Name": "/Game/Assets/Items/Stairs/Stairs_Upper_Lower_Dorms_Diffuse",
 			"ExportBundleChunkIds": [
 				"6c254a045f1d925100000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/RAW/Cafeteria_Items_Diffuse",
-			"ExportBundleChunkIds": [
-				"ad67d0add1bdb87500000001"
 			]
 		},
 		{
@@ -9253,6 +9826,12 @@
 			"Name": "/Game/Assets/Enemies/Zombie/Split_Head/RAW/Enemy_Zombie_Split_Head_Normal",
 			"ExportBundleChunkIds": [
 				"f3a3afd2c597c8f200000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/RAW/Cafeteria_Items_Diffuse",
+			"ExportBundleChunkIds": [
+				"ad67d0add1bdb87500000001"
 			]
 		},
 		{
@@ -9280,84 +9859,12 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Items/RAW/Item_Door",
+			"Name": "/Game/Assets/Audio/Sound_Effects/Zombie_Split_Head_Moan_1",
 			"ExportBundleChunkIds": [
-				"2d453079347b9a8f00000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/RAW/Item_Dresser",
-			"ExportBundleChunkIds": [
-				"84e6a21a4de06a0900000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/EmptyActor",
-			"ExportBundleChunkIds": [
-				"cb90c94586b3228900000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/LightIcons/S_LightError",
-			"ExportBundleChunkIds": [
-				"6ed73496191bba2800000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Background/Hallway_Upper_Lower_Dorms_Side_Wall_Diffuse",
-			"ExportBundleChunkIds": [
-				"92877bf190664f3000000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Floor/Floor_Grey_Diffuse",
-			"ExportBundleChunkIds": [
-				"391dee5499102e2600000001"
-			]
-		},
-		{
-			"Name": "/Paper2D/TranslucentUnlitSpriteMaterial",
-			"ExportBundleChunkIds": [
-				"ed80e6fdcb7b904c00000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Background/Cafeteria_Wall_Diffuse",
-			"ExportBundleChunkIds": [
-				"ead254d8c17139df00000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/RAW/Item_Box_Diffuse",
-			"ExportBundleChunkIds": [
-				"f0eb347755ce541c00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
-			"ExportBundleChunkIds": [
-				"34b40296d0d3844e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BlendFunc_DefBlend",
-			"ExportBundleChunkIds": [
-				"b1dd9666d4d25cf600000001"
-			]
-		},
-		{
-			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A",
-			"ExportBundleChunkIds": [
-				"eb26c788a1a10ea100000001"
+				"7cdfa2ef56aa174600000001"
 			],
 			"BulkDataChunkIds": [
-				"eb26c788a1a10ea100000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Items/Background/Hallways/Space_A_Diffuse",
-			"ExportBundleChunkIds": [
-				"a442011029ac90ae00000001"
+				"7cdfa2ef56aa174600000002"
 			]
 		},
 		{
@@ -9391,6 +9898,69 @@
 			]
 		},
 		{
+			"Name": "/Engine/EditorResources/EmptyActor",
+			"ExportBundleChunkIds": [
+				"cb90c94586b3228900000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/LightIcons/S_LightError",
+			"ExportBundleChunkIds": [
+				"6ed73496191bba2800000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Background/Cafeteria_Wall_Diffuse",
+			"ExportBundleChunkIds": [
+				"ead254d8c17139df00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/RAW/Item_Box_Diffuse",
+			"ExportBundleChunkIds": [
+				"f0eb347755ce541c00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
+			"ExportBundleChunkIds": [
+				"34b40296d0d3844e00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBlend",
+			"ExportBundleChunkIds": [
+				"b1dd9666d4d25cf600000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Background/Hallway_Upper_Lower_Dorms_Side_Wall_Diffuse",
+			"ExportBundleChunkIds": [
+				"92877bf190664f3000000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Floor/Floor_Grey_Diffuse",
+			"ExportBundleChunkIds": [
+				"391dee5499102e2600000001"
+			]
+		},
+		{
+			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A",
+			"ExportBundleChunkIds": [
+				"eb26c788a1a10ea100000001"
+			],
+			"BulkDataChunkIds": [
+				"eb26c788a1a10ea100000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/Background/Hallways/Space_A_Diffuse",
+			"ExportBundleChunkIds": [
+				"a442011029ac90ae00000001"
+			]
+		},
+		{
 			"Name": "/Game/Assets/Items/RAW/Item_Bed",
 			"ExportBundleChunkIds": [
 				"b1f718440f8fc0be00000001"
@@ -9400,6 +9970,18 @@
 			"Name": "/Game/Assets/Items/Background/Bedroom_Protagonist/Protagonist_Bedroom",
 			"ExportBundleChunkIds": [
 				"246cfe123f2613a100000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/RAW/Item_Door",
+			"ExportBundleChunkIds": [
+				"2d453079347b9a8f00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/RAW/Item_Dresser",
+			"ExportBundleChunkIds": [
+				"84e6a21a4de06a0900000001"
 			]
 		},
 		{
@@ -9424,6 +10006,18 @@
 			"Name": "/Game/Assets/Items/RAW/Chair_Diffuse",
 			"ExportBundleChunkIds": [
 				"4573c399b0c233aa00000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/RAW/Chair_Normal",
+			"ExportBundleChunkIds": [
+				"fa10c1c355f9670600000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Items/RAW/Item_Desk",
+			"ExportBundleChunkIds": [
+				"73f38d091e199c2000000001"
 			]
 		}
 	]
