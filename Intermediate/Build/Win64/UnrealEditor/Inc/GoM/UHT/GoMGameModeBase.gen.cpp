@@ -35,9 +35,12 @@ void EmptyLinkFunctionForGeneratedCodeGoMGameModeBase() {}
 		(UObject* (*)())Z_Construct_UClass_AGameModeBase,
 		(UObject* (*)())Z_Construct_UPackage__Script_GoM,
 	};
+	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_AGoMGameModeBase_Statics::DependentSingletons) < 16);
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AGoMGameModeBase_Statics::Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * \n */" },
+#endif
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering HLOD WorldPartition DataLayers Transformation" },
 		{ "IncludePath", "GoMGameModeBase.h" },
 		{ "ModuleRelativePath", "GoMGameModeBase.h" },
@@ -60,7 +63,7 @@ void EmptyLinkFunctionForGeneratedCodeGoMGameModeBase() {}
 		0,
 		0,
 		0x009002ACu,
-		METADATA_PARAMS(Z_Construct_UClass_AGoMGameModeBase_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_AGoMGameModeBase_Statics::Class_MetaDataParams))
+		METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AGoMGameModeBase_Statics::Class_MetaDataParams), Z_Construct_UClass_AGoMGameModeBase_Statics::Class_MetaDataParams)
 	};
 	UClass* Z_Construct_UClass_AGoMGameModeBase()
 	{
@@ -74,17 +77,18 @@ void EmptyLinkFunctionForGeneratedCodeGoMGameModeBase() {}
 	{
 		return AGoMGameModeBase::StaticClass();
 	}
+	AGoMGameModeBase::AGoMGameModeBase(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AGoMGameModeBase);
 	AGoMGameModeBase::~AGoMGameModeBase() {}
-	struct Z_CompiledInDeferFile_FID_OneDrive_Documents_Unreal_Projects_GoM_Source_GoM_GoMGameModeBase_h_Statics
+	struct Z_CompiledInDeferFile_FID_GoM_5_3_Source_GoM_GoMGameModeBase_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_OneDrive_Documents_Unreal_Projects_GoM_Source_GoM_GoMGameModeBase_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AGoMGameModeBase, AGoMGameModeBase::StaticClass, TEXT("AGoMGameModeBase"), &Z_Registration_Info_UClass_AGoMGameModeBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AGoMGameModeBase), 1115101698U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GoM_5_3_Source_GoM_GoMGameModeBase_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_AGoMGameModeBase, AGoMGameModeBase::StaticClass, TEXT("AGoMGameModeBase"), &Z_Registration_Info_UClass_AGoMGameModeBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AGoMGameModeBase), 2206253962U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_OneDrive_Documents_Unreal_Projects_GoM_Source_GoM_GoMGameModeBase_h_186147866(TEXT("/Script/GoM"),
-		Z_CompiledInDeferFile_FID_OneDrive_Documents_Unreal_Projects_GoM_Source_GoM_GoMGameModeBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_OneDrive_Documents_Unreal_Projects_GoM_Source_GoM_GoMGameModeBase_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GoM_5_3_Source_GoM_GoMGameModeBase_h_3158919069(TEXT("/Script/GoM"),
+		Z_CompiledInDeferFile_FID_GoM_5_3_Source_GoM_GoMGameModeBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GoM_5_3_Source_GoM_GoMGameModeBase_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

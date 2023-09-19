@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\OneDrive\\Documents\\Unreal Projects\\GoM\\Source\\GoM\\GoM.Build.cs",
-		"D:\\OneDrive\\Documents\\Unreal Projects\\GoM\\Source\\GoM.Target.cs",
-		"D:\\OneDrive\\Documents\\Unreal Projects\\GoM\\Source\\GoMEditor.Target.cs"
+		"D:\\OneDrive\\Documents\\Unreal Projects\\GoM 5.3\\Source\\GoM\\GoM.Build.cs",
+		"D:\\OneDrive\\Documents\\Unreal Projects\\GoM 5.3\\Source\\GoM.Target.cs",
+		"D:\\OneDrive\\Documents\\Unreal Projects\\GoM 5.3\\Source\\GoMEditor.Target.cs"
 	],
-	"EngineVersion": "5.1.1"
+	"EngineVersion": "5.3.0"
 }
