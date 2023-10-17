@@ -1,0 +1,2 @@
+/Game/Inventory/Switcher_Item_Widget.Default__Switcher_Item_Widget_C
+/Game/Inventory/Switcher_Item_Widget.Switcher_Item_Widget_C
