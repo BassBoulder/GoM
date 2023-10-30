@@ -362,4 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-Binaries/
+Binaries/Win64/GoM-Win64-Shipping.exe
+Saved/StagedBuilds/Windows/
+Binaries/Win64/GoM.exe
+Intermediate/
