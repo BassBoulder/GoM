@@ -7,7 +7,7 @@ v0.1.8.4--Jan24 Changelog: "???"
 **CURRENT**
 
 v0.1.8.3--Jan24 Changelog: "AMMO"
-* #10 Upgrade Weapon & Ammo system to v2
+* #10 Upgrade Weapon & Ammo system to v2 (Weapon, Ammo, Firemode, Change Ammo, Reload functionality)
 * #56 Upgrade shooting animations from v2 > v3
 * #52 Create Weapon Empty "Click" sound effect
 ------------------------------------------------------------------------------------
