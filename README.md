@@ -8,6 +8,8 @@ v0.1.8.4--Jan24 Changelog: "???"
 
 v0.1.8.3--Jan24 Changelog: "AMMO"
 * #10 Upgrade Weapon & Ammo system to v2
+* #56 Upgrade shooting animations from v2 > v3
+* #52 Create Weapon Empty "Click" sound effect
 ------------------------------------------------------------------------------------
 v0.1.8.2--Jan24 Changelog: "AIM & SAVE"
 * SORTED - #40 Work on Service Pistol Just Holstered & Just Unholstered transition animations
