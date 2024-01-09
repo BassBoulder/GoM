@@ -7,7 +7,7 @@ v0.1.8.3--Jan24 Changelog: "AMMO"
 **CURRENT**
 
 v0.1.8.2--Jan24 Changelog: "AIM, SHOOT, & SAVE"
-* #40 Work on Service Pistol Just Holstered & Just Unholstered transition animations
+* SORTED - #40 Work on Service Pistol Just Holstered & Just Unholstered transition animations
 * #11 Get Line Trace working
 * SORTED - #46 Credits persistent
 * SORTED - #45 Auto Save Ability
