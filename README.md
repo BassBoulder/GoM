@@ -8,8 +8,11 @@ v0.1.8.4--Jan24 Changelog: "???"
 
 v0.1.8.3--Jan24 Changelog: "AMMO"
 * #10 Upgrade Weapon & Ammo system to v2 (Weapon, Ammo, Firemode, Change Ammo, Reload functionality)
-* #56 Upgrade shooting animations from v2 > v3
 * #52 Create Weapon Empty "Click" sound effect
+* #56 Upgrade shooting animations from v2 > v3
+* #59 Unequip weapon needs to reset Holster Event to start (for new weapon etc.)
+* #60 Between Weapon + Ammo Swaps, ammo can occasionally pour into wrong pool
+* #61 Fix bug with Line Trace post new branch iteration
 ------------------------------------------------------------------------------------
 v0.1.8.2--Jan24 Changelog: "AIM & SAVE"
 * SORTED - #40 Work on Service Pistol Just Holstered & Just Unholstered transition animations
