@@ -1,11 +1,14 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.1.8.4--Jan24 Changelog: "???"
+v0.1.8.5--Jan24 Changelog: "???"
 ------------------------------------------------------------------------------------
 
 **CURRENT**
 
+v0.1.8.4--Jan24 Changelog: "???"
+* 
+------------------------------------------------------------------------------------
 v0.1.8.3--Jan24 Changelog: "AMMO"
 * SORTED - #10 Upgrade Weapon & Ammo system to v2 (Weapon, Ammo, Firemode, Change Ammo, Reload)
 * SORTED - #60 Between Weapon + Ammo Swaps, ammo can occasionally pour into wrong pool
