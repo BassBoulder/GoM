@@ -6,8 +6,8 @@ v0.1.8.5--Jan24 Changelog: "???"
 
 **CURRENT**
 
-v0.1.8.4--Jan24 Changelog: "ITEMS & EQUIPMENT"
-* **Thinking**
+v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
+* SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
 ------------------------------------------------------------------------------------
 v0.1.8.3--Jan24 Changelog: "WEAPONS & AMMO"
 * SORTED - #10 Upgrade Weapon & Ammo system to v2 (Weapon, Ammo, Firemode, Change Ammo, Reload)
