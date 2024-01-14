@@ -18,7 +18,6 @@ v0.1.8.3--Jan24 Changelog: "WEAPONS & AMMO"
 * SORTED - #63 Ammo going into the wrong Ammo Pool occasionally
 * SORTED - #56 Upgrade reload & shooting animations from v2 > v3
 * TEMP WORKAROUND - #61 Fix bug with Line Trace post new branch iteration
-* SORTED - #59 Unequip weapon needs to reset Holster Event to start (for new weapon etc.)
 * SORTED - #67 Make weapon & ammo persist between levels
 * SORTED - #71 - Save & Load Inventory
 * SORTED - #69 - Holster v3
