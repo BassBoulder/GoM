@@ -11,6 +11,8 @@ v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #79 Items Equipped & collected in game are persistent wrongly after death
 * SORTED - #76 Items now match the load / save slot as expected
 * SORTED - #78 Crafting Menu lacking recipes fixed
+* SORTED - #67 Make equipped weapon & ammo persist between levels
+* SORTED - #72 Make sure Equipment Widget is persistent between Save/Load 
 ------------------------------------------------------------------------------------
 v0.1.8.3--Jan24 Changelog: "WEAPONS & AMMO"
 * SORTED - #10 Upgrade Weapon & Ammo system to v2 (Weapon, Ammo, Firemode, Change Ammo, Reload)
