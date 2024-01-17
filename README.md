@@ -1,18 +1,25 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.1.8.5--Jan24 Changelog: "???"
+v0.1.8.6--Jan24 Changelog: "???"
 ------------------------------------------------------------------------------------
-
 **CURRENT**
 
+v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
+* SORTED - #82 Fix Stamina Item usage bug
+* #70 Barrel of PDW changes between "Holstered" & "Unholstering"
+* #83 Fix Storage item movement bug
+
+------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
 * SORTED - #79 Items Equipped & collected in game are persistent wrongly after death
 * SORTED - #76 Items now match the load / save slot as expected
 * SORTED - #78 Crafting Menu lacking recipes fixed
 * SORTED - #67 Make equipped weapon & ammo persist between levels
-* SORTED - #72 Make sure Equipment Widget is persistent between Save/Load 
+* SORTED - #72 Make sure Equipment Widget is persistent between Save/Load
+* SORTED - #84 Projectiles need to follow the line trace again
+* SORTED - #61 Fix bug with Line Trace post new branch iteration
 ------------------------------------------------------------------------------------
 v0.1.8.3--Jan24 Changelog: "WEAPONS & AMMO"
 * SORTED - #10 Upgrade Weapon & Ammo system to v2 (Weapon, Ammo, Firemode, Change Ammo, Reload)
