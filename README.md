@@ -7,8 +7,8 @@ v0.1.8.6--Jan24 Changelog: "???"
 
 v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #82 Fix Stamina Item usage bug
-* #70 Barrel of PDW changes between "Holstered" & "Unholstering"
-* SORTED #83 Fix Storage item movement bug
+* SORTED - #70 Barrel of PDW changes between "Holstered" & "Unholstering"
+* SORTED - #83 Fix Storage item movement bug
 
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
