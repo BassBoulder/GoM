@@ -9,6 +9,8 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #82 Fix Stamina Item usage bug
 * SORTED - #70 Barrel of PDW changes between "Holstered" & "Unholstering"
 * SORTED - #83 Fix Storage item movement bug
+* SORTED - #89 Added Mouse Sway / Shake on shooting
+* SORTED - #90 Added Aiming Crosshair Cursor
 
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
