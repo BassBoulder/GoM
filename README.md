@@ -12,6 +12,7 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #89 Added Mouse Sway / Shake on shooting
 * SORTED - #90 Added Aiming Crosshair Cursor
 * SORTED - #73 Persist Ammo Widget between levels
+* SORTED - #96 Create 'Resume' open on Main Menu for Autosave save slot
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
