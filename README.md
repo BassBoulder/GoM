@@ -14,6 +14,8 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #96 Create 'Resume' open on Main Menu for Autosave save slot
 * SORTED - #97 Clicking Main Menu in Save Slot does not trigger Main Menu
 * SORTED - #100 Migrate Widgets to single location
+* SORTED - #101 Migrate Blueprints to single location
+* SORTED - #102 Migrate Assets to single location
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
