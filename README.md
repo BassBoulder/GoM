@@ -11,7 +11,7 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #89 Added Mouse Sway / Shake on shooting
 * SORTED - #90 Added Aiming Crosshair Cursor
 * SORTED - #73 Persist Ammo Widget between levels
-* SORTED - #96 Create 'Resume' open on Main Menu for Autosave save slot
+* <strike> SORTED - #96 Create 'Resume' open on Main Menu for Autosave save slot*** </strike>
 * SORTED - #97 Clicking Main Menu in Save Slot does not trigger Main Menu
 * SORTED - #100 Migrate Widgets to single location
 * SORTED - #101 Migrate Blueprints to single location
@@ -20,6 +20,7 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #108 Holster while aiming bug
 * SORTED - #109 Stuck on shooting animation if moving instantly afterwards
 * SORTED - #104 Pressing Play needs restart blank-slate
+* SORTED - #113 Tidied up Redirectors, Remade some assets, changed some asset locations
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
