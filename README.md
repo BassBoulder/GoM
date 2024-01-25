@@ -18,6 +18,7 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #102 Migrate Assets to single location
 * SORTED - #87 Belt lowers on PDW aiming (makes torso too long)
 * SORTED - #108 Holster while aiming bug
+* SORTED - #109 Stuck on shooting animation if moving instantly afterwards
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
