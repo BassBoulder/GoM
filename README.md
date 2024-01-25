@@ -11,7 +11,7 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #89 Added Mouse Sway / Shake on shooting
 * SORTED - #90 Added Aiming Crosshair Cursor
 * SORTED - #73 Persist Ammo Widget between levels
-* SORTED - #96 Create 'Resume' open on Main Menu for Autosave save slot
+* <strike> SORTED - #96 Create 'Resume' open on Main Menu for Autosave save slot*** </strike>
 * SORTED - #97 Clicking Main Menu in Save Slot does not trigger Main Menu
 * SORTED - #100 Migrate Widgets to single location
 * SORTED - #101 Migrate Blueprints to single location
