@@ -22,7 +22,6 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #104 Pressing Play needs restart blank-slate
 * SORTED - #113 Tidied up Redirectors, Remade some assets, changed some asset locations
 * SORTED - #115 Turned the Protagonist Container into a Parent, and created a child
-* SORTED - #116 Need to persist Auto-Generated Storage items (Do Once & Remember)
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
