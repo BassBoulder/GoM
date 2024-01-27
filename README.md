@@ -21,6 +21,7 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #109 Stuck on shooting animation if moving instantly afterwards
 * SORTED - #104 Pressing Play needs restart blank-slate
 * SORTED - #113 Tidied up Redirectors, Remade some assets, changed some asset locations
+* SORTED - #115 Turned the Protagonist Container into a Parent, and created a child
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
