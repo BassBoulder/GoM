@@ -23,6 +23,7 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #113 Tidied up Redirectors, Remade some assets, changed some asset locations
 * SORTED - #115 Turned the Protagonist Container into a Parent, and created a child
 * SORTED - #118 Create Level Log system (Track Level & Frequency of entering)
+* SORTED - #116 Need to persist Auto-Generated Storage items (Do Once & Remember)
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
