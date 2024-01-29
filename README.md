@@ -25,6 +25,7 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #118 Create Level Log system (Track Level & Frequency of entering)
 * SORTED - #116 Need to persist Auto-Generated Storage items (Do Once & Remember)
 * SORTED - #119 Right-Click (Storage > Inventory) doesn't use correctly indexed item
+* SORTED - #98 Need to persist manually added Storage items
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
