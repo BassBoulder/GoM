@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.1.8.6--Jan24 Changelog: "???"
+v0.1.8.6--Feb24 Changelog: "???"
 ------------------------------------------------------------------------------------
 **CURRENT**
 
@@ -26,6 +26,11 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #116 Need to persist Auto-Generated Storage items (Do Once & Remember)
 * SORTED - #119 Right-Click (Storage > Inventory) doesn't use correctly indexed item
 * SORTED - #98 Need to persist manually added Storage items
+* SORTED - #106 Create Walk + Holster animations (Sprites, Flipbooks, ABPs)
+* SORTED - #124 Jump Holstered - Pistol variants do not go up & down with movement
+* SORTED - #126 Jump holstered PDW jumps with the PDW in his hands
+* SORTED - #127 Jump with pistol out jumps with no weapon
+* SORTED - #93 Still issue with pdw barrel changes sprite-wise
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
