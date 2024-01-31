@@ -1,7 +1,8 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.1.8.6--Feb24 Changelog: "???"
+v0.1.8.6--Feb24 Changelog: "SELL & TRADE"
+*
 ------------------------------------------------------------------------------------
 **CURRENT**
 
@@ -31,6 +32,7 @@ v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #126 Jump holstered PDW jumps with the PDW in his hands
 * SORTED - #127 Jump with pistol out jumps with no weapon
 * SORTED - #93 Still issue with pdw barrel changes sprite-wise
+* SORTED - #94 Update v2 > v3 run & other current Protagonist animations
 ------------------------------------------------------------------------------------
 v0.1.8.4--Jan24 Changelog: "SIMPLIFY"
 * SORTED - #80 Updated the Save & Autosave Location logic (no need for manual input on Door BP)
