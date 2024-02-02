@@ -1,10 +1,12 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.1.8.7--Feb24 Changelog: "ZOMBIES & DOORS"
+v0.1.8.8--Feb24 Changelog: "HOTKEYS"
 ------------------------------------------------------------------------------------
 **CURRENT**
-
+v0.1.8.7--Feb24 Changelog: "ZOMBIES & DOORS"
+* SORTED - #138 Idle & Walk Reload Pistol animations needed reconnecting in the ABP
+------------------------------------------------------------------------------------
 v0.1.8.6--Feb24 Changelog: "SELL & TRADE"
 * SORTED - #109 PDW holster walking not v3
 * SORTED - #110 Issue with not being able to click on the Throw & Sell Widgets
