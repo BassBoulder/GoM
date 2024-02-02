@@ -9,6 +9,8 @@ v0.1.8.6--Feb24 Changelog: "SELL & TRADE"
 * SORTED - #109 PDW holster walking not v3
 * SORTED - #110 Issue with not being able to click on the Throw & Sell Widgets
 * SORTED - #128 Bug with not being able to pull information for Offered Items Widget
+* SORTED - #111 Issue with the Sell Widget not working right with the Trade Widget
+* SORTED - #136 Issue with not showing sell value on creation of sell widget
 ------------------------------------------------------------------------------------
 v0.1.8.5--Jan24 Changelog: "STORAGE & ART"
 * SORTED - #82 Fix Stamina Item usage bug
