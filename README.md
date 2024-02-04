@@ -6,7 +6,7 @@ v0.1.8.8--Feb24 Changelog: "HOTKEYS"
 ------------------------------------------------------------------------------------
 **CURRENT**
 
-v0.1.8.7--Feb24 Changelog: "ZOMBIES & DOORS"
+v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #138 Idle & Walk Reload Pistol animations needed reconnecting in the ABP
 * SORTED - #140 Finish Door Transition v1 process
 * SORTED - #141 Rework doors to use Name/String instead of World Variable (Unreal Bug)
