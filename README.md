@@ -21,8 +21,8 @@ v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #185 Created Infection (Large) item
 * SORTED - #187 Create thumbnails & item in-game sprites for Medkit variants
 * SORTED - #189 Create thumbnails & item in-game sprites for Infkit variants
-* SORTED - #193 Create thumbnails & item in-game sprites for Metal Sheet
 * SORTED - #192 Create thumbnails & item in-game sprites for Wire
+* SORTED - #193 Create thumbnails & item in-game sprites for Metal Sheet
 * SORTED - #194 Create thumbnails & item in-game sprites for Frag Grenade
 * SORTED - #195 Create thumbnails & item in-game sprites for Gunpowder
 * SORTED - #196 Create thumbnails & item in-game sprites for Tape
