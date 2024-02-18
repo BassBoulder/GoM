@@ -19,6 +19,15 @@ v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #183 Created Infection (Small) item
 * SORTED - #184 Created Infection (Medium) item
 * SORTED - #185 Created Infection (Large) item
+* SORTED - #187 Create thumbnails & item in-game sprites for Medkit variants
+* SORTED - #189 Create thumbnails & item in-game sprites for Infkit variants
+* SORTED - #193 Create thumbnails & item in-game sprites for Metal Sheet
+* SORTED - #192 Create thumbnails & item in-game sprites for Wire
+* SORTED - #194 Create thumbnails & item in-game sprites for Frag Grenade
+* SORTED - #195 Create thumbnails & item in-game sprites for Gunpowder
+* SORTED - #196 Create thumbnails & item in-game sprites for Tape
+* SORTED - #197 v2 to v3 PDW visuals
+* SORTED - #198 v2 to v3 Service Pistol visuals
 ------------------------------------------------------------------------------------
 v0.1.8.6--Feb24 Changelog: "SELL & TRADE"
 * SORTED - #109 PDW holster walking not v3
