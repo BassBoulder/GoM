@@ -35,6 +35,7 @@ v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #203 Upgrade flipbooks to v3 for Zombie Split Head
 * SORTED - #206 Better OOP for variable inheritance between Master_Enemy_BP & Children
 * SORTED - #164 Idle animation for Zombie Skull Face
+* SORTED - #209 Reworked entire thumbnail process from Set Brush from Texture > Atlas Interface
 ------------------------------------------------------------------------------------
 v0.1.8.6--Feb24 Changelog: "SELL & TRADE"
 * SORTED - #109 PDW holster walking not v3
