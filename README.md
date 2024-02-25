@@ -32,6 +32,7 @@ v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #196 Create thumbnails & item in-game sprites for Tape
 * SORTED - #197 v2 to v3 PDW visuals
 * SORTED - #198 v2 to v3 Service Pistol visuals
+* SORTED - #130 Create Idle Sprites for all Enemies (v3 quality / 140x140 pixels)
 * SORTED - #165 Idle animation for Zombie Split Head
 * SORTED - #171 Idle animation for Zombie Scientific
 * SORTED - #202 Fixed NPC speed going rogue
