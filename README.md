@@ -17,7 +17,7 @@ v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #166 Create Door Transition v2 (Feed Door Sprite in as dynamic door variable)
 * SORTED - #186 Code OOP Heal system for Health, Stamina, Stress, & Infection
 * SORTED - #179 Tweaking Infection Kit sprites
-* SORTED - #180 Created Medkit (Large) item
+* SORTED - #180 Created Medkit (Small) item
 * SORTED - #181 Created Medkit (Medium) item
 * SORTED - #182 Created Medkit (Large) item
 * SORTED - #183 Created Infection (Small) item
