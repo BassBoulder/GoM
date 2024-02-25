@@ -41,6 +41,7 @@ v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #206 Better OOP for variable inheritance between Master_Enemy_BP & Children
 * SORTED - #164 Idle animation for Zombie Skull Face
 * SORTED - #209 Reworked entire thumbnail process from Set Brush from Texture > Atlas Interface
+* SORTED - #210 Firemode isn't passed-through on level movement
 * SORTED - #211 Add-in Right-Click aim functionality
 ------------------------------------------------------------------------------------
 v0.1.8.6--Feb24 Changelog: "SELL & TRADE"
