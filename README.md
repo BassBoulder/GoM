@@ -10,6 +10,10 @@ v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 ------------------------------------------------------------------------------------
 **CURRENT**
 
+v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
+*
+
+------------------------------------------------------------------------------------
 v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #138 Idle & Walk Reload Pistol animations needed reconnecting in the ABP
 * SORTED - #140 Finish Door Transition v1 process
