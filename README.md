@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.1.8.9--Mar24 Changelog: "NPCS
+v0.1.8.9--Mar24 Changelog: "NPCS"
 
 ------------------------------------------------------------------------------------
 **CURRENT**
@@ -59,7 +59,7 @@ v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #156 Idle animation for Zombie Constant Horror
 * SORTED - #157 Idle animation for Zombie Crippled Arm
 * SORTED - #158 Idle animation for Zombie Crippled Legs
-* SORTED - #159 Idle animation for Zombie Human Husk
+* SORTED - #159 Idle animation for Zombie Face Peeling Off
 * SORTED - #161 Idle animation for Zombie Human Husk
 * SORTED - #162 Idle animation for Zombie Infusion Pump
 * SORTED - #163 Idle animation for Zombie Restrained
