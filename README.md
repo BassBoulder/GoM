@@ -48,6 +48,18 @@ v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #214 Create Hybrid Style Randomiser + Unjured/Injured ABP
 * SORTED - #170 Idle animation for Zombie Research
 * SORTED - #131 Create Idle Sprites for all NPCs
+* SORTED - #144 Idle animation for Screacher
+* SORTED - #147 Idle animation for Mass Rage
+* SORTED - #148 Idle animation for Infection Pool
+* SORTED - #149 Idle animation for Medusa Stage 1 & Stage 2
+* SORTED - #150 Idle animation for Parasitical Worm
+* SORTED - #151 Idle animation for Rat Human
+* SORTED - #152 Idle animation for Toad Human
+* SORTED - #153 Idle animation for Viper Eel
+* SORTED - #156 Idle animation for Zombie Constant Horror
+* SORTED - #157 Idle animation for Zombie Crippled Arm
+* SORTED - #162 Idle animation for Zombie Infusion Pump
+* SORTED - #169 Idle animation for Zombie Engineer
 ------------------------------------------------------------------------------------
 v0.1.8.6--Feb24 Changelog: "SELL & TRADE"
 * SORTED - #109 PDW holster walking not v3
