@@ -56,9 +56,14 @@ v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #151 Idle animation for Rat Human
 * SORTED - #152 Idle animation for Toad Human
 * SORTED - #153 Idle animation for Viper Eel
+* SORTED - #154 Idle animation for Zombie Deaf
 * SORTED - #156 Idle animation for Zombie Constant Horror
 * SORTED - #157 Idle animation for Zombie Crippled Arm
+* SORTED - #158 Idle animation for Zombie Crippled Legs
+* SORTED - #159 Idle animation for Zombie Human Husk
+* SORTED - #161 Idle animation for Zombie Human Husk
 * SORTED - #162 Idle animation for Zombie Infusion Pump
+* SORTED - #163 Idle animation for Zombie Restrained
 * SORTED - #169 Idle animation for Zombie Engineer
 ------------------------------------------------------------------------------------
 v0.1.8.6--Feb24 Changelog: "SELL & TRADE"
