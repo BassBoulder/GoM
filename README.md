@@ -46,7 +46,6 @@ v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #172 Idle animation for Zombie Security
 * SORTED - #214 Create Hybrid Style Randomiser + Unjured/Injured ABP
 * SORTED - #170 Idle animation for Zombie Research
-* SORTED - #131 Create Idle Sprites for all NPCs
 * SORTED - #144 Idle animation for Screacher
 * SORTED - #147 Idle animation for Mass Rage
 * SORTED - #148 Idle animation for Infection Pool
