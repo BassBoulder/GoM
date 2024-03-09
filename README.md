@@ -7,7 +7,7 @@ v0.1.8.9--Mar24 Changelog: "NPCS"
 **CURRENT**
 
 v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
-* SORTED - Converts Item Sprites to come from Thumbnails with no background & no name
+* SORTED - #228 Converts Item Sprites to come from Thumbnails with no background & no name
 ------------------------------------------------------------------------------------
 v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #138 Idle & Walk Reload Pistol animations needed reconnecting in the ABP
