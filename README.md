@@ -7,9 +7,14 @@ v0.1.8.9--Mar24 Changelog: "NPCS"
 **CURRENT**
 
 v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
+* SORTED - #216 Update or Add-in NavMeshes for all current rooms
 * SORTED - #228 Converts Item Sprites to come from Thumbnails with no background & no name
 * SORTED - #236 Added missing Idle Crouch Animations
 * SORTED - #227 Item to Increase Infection Reduction
+* SORTED - #220 Item to Increase Max Health
+* SORTED - #221 Item to Increase Max Stamina 
+* SORTED - #222 Item to Increase Max Stress
+* SORTED - #223 Item to Increase Max Infection
 ------------------------------------------------------------------------------------
 v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #138 Idle & Walk Reload Pistol animations needed reconnecting in the ABP
