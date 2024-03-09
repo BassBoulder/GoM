@@ -16,6 +16,10 @@ v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #222 Item to Increase Max Stress
 * SORTED - #223 Item to Increase Max Infection
 * SORTED - #235 Infection does not regeneration (continue to lower) after changing level
+* SORTED - #224 Item to Increase Health Regeneration
+* SORTED - #225 Item to Increase Stamina Regeneration
+* SORTED - #226 Item to Increase Stress Regeneration
+* SORTED - #227 Item to Increase Infection Reduction
 ------------------------------------------------------------------------------------
 v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #138 Idle & Walk Reload Pistol animations needed reconnecting in the ABP
