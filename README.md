@@ -8,6 +8,7 @@ v0.1.8.9--Mar24 Changelog: "NPCS"
 
 v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #228 Converts Item Sprites to come from Thumbnails with no background & no name
+* SORTED - #236 Added missing Idle Crouch Animations
 ------------------------------------------------------------------------------------
 v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #138 Idle & Walk Reload Pistol animations needed reconnecting in the ABP
