@@ -21,6 +21,10 @@ v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #226 Item to Increase Stress Regeneration
 * SORTED - #227 Item to Increase Infection Reduction
 * SORTED - #75 Dragging & removing items from the Hotbar Slot doesn't go back to default colour
+* SORTED - #239 Removed Hotbar Slot Amount Count
+* SORTED - #240 Added animation for Hotbar slot interaction
+* SORTED - #241 Adjusted Action Menu location
+* SORTED - #233 Re-size items
 ------------------------------------------------------------------------------------
 v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #138 Idle & Walk Reload Pistol animations needed reconnecting in the ABP
