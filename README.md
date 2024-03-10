@@ -20,6 +20,7 @@ v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #225 Item to Increase Stamina Regeneration
 * SORTED - #226 Item to Increase Stress Regeneration
 * SORTED - #227 Item to Increase Infection Reduction
+* SORTED - #75 Dragging & removing items from the Hotbar Slot doesn't go back to default colour
 ------------------------------------------------------------------------------------
 v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #138 Idle & Walk Reload Pistol animations needed reconnecting in the ABP
