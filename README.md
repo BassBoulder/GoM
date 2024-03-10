@@ -25,6 +25,7 @@ v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #240 Added animation for Hotbar slot interaction
 * SORTED - #241 Adjusted Action Menu location
 * SORTED - #233 Re-size items
+* SORTED - #243 Create Left Click use Hotkey functionality
 ------------------------------------------------------------------------------------
 v0.1.8.7--Feb24 Changelog: "ENEMIES & DOORS"
 * SORTED - #138 Idle & Walk Reload Pistol animations needed reconnecting in the ABP
