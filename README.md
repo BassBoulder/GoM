@@ -1,16 +1,19 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.1.8.9--Mar24 Changelog: "NPCS"
+v0.1.9.0--Apr24 Changelog: "Cafeteria"
 
 ------------------------------------------------------------------------------------
 **CURRENT**
 
+v0.1.8.9--Mar24 Changelog: "NPCS"
+
+
+------------------------------------------------------------------------------------
 v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #216 Update or Add-in NavMeshes for all current rooms
 * SORTED - #228 Converts Item Sprites to come from Thumbnails with no background & no name
 * SORTED - #236 Added missing Idle Crouch Animations
-* SORTED - #227 Item to Increase Infection Reduction
 * SORTED - #220 Item to Increase Max Health
 * SORTED - #221 Item to Increase Max Stamina 
 * SORTED - #222 Item to Increase Max Stress
@@ -19,7 +22,7 @@ v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #224 Item to Increase Health Regeneration
 * SORTED - #225 Item to Increase Stamina Regeneration
 * SORTED - #226 Item to Increase Stress Regeneration
-* SORTED - #227 Item to Increase Infection Reduction
+* SORTED - #227 Item to Increase Infection Regeneration
 * SORTED - #75 Dragging & removing items from the Hotbar Slot doesn't go back to default colour
 * SORTED - #239 Removed Hotbar Slot Amount Count
 * SORTED - #240 Added animation for Hotbar slot interaction
