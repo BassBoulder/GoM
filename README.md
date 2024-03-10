@@ -1,11 +1,15 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.1.8.9--Mar24 Changelog: "NPCS"
+v0.1.9.0--Apr24 Changelog: "Cafeteria"
 
 ------------------------------------------------------------------------------------
 **CURRENT**
 
+v0.1.8.9--Mar24 Changelog: "NPCS"
+
+
+------------------------------------------------------------------------------------
 v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #216 Update or Add-in NavMeshes for all current rooms
 * SORTED - #228 Converts Item Sprites to come from Thumbnails with no background & no name
