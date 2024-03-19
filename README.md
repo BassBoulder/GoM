@@ -13,6 +13,9 @@ v0.1.8.9--Mar24 Changelog: "NPCS & UX/UI"
 * SORTED - #248 Added animations for fade-in & fade-out of the Interaction Widget
 * SORTED - #249 Create Idle sprites for Infected Jackie
 * SORTED - #250 Fixed mismatch in flipbooks for Zombie Scientific (Unjured Idle)
+* SORTED - #251 Create Idle sprites for NPC David
+* SORTED - #252 Create Idle sprites for Infected David S1
+* SORTED - #253 Create Idle sprites for Infected David S2
 ------------------------------------------------------------------------------------
 v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #216 Update or Add-in NavMeshes for all current rooms
