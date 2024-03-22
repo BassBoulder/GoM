@@ -16,6 +16,8 @@ v0.1.8.9--Mar24 Changelog: "NPCS & UX/UI"
 * SORTED - #251 Create Idle sprites for NPC David
 * SORTED - #252 Create Idle sprites for Infected David S1
 * SORTED - #253 Create Idle sprites for Infected David S2
+* SORTED - #254 Create Idle sprites for NPC Jock
+* SORTED - #255 Create Idle sprites for Infected Jock
 ------------------------------------------------------------------------------------
 v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #216 Update or Add-in NavMeshes for all current rooms
