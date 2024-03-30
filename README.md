@@ -7,7 +7,7 @@ v0.1.9.1--Apr24 Changelog: "SARAH BEDROOM"
 **CURRENT**
 
 v0.1.9.0--Apr24 Changelog: "CAFETERIA"
-* 
+* SORTED - #282 Added Health Watch Thumbnail & Sprite 
 *
 ------------------------------------------------------------------------------------
 v0.1.8.9--Mar24 Changelog: "NPCS & UX/UI"
@@ -45,7 +45,6 @@ v0.1.8.9--Mar24 Changelog: "NPCS & UX/UI"
 * SORTED - #278 Create Idle sprites for NPC Subject Charlie 
 * SORTED - #279 Create Idle sprites for NPC Dr. Tang 
 * SORTED - #131 Create Idle Sprites for all NPCs
-* SORTED - #282 Added Health Watch Thumbnail & Sprite 
 ------------------------------------------------------------------------------------
 v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #216 Update or Add-in NavMeshes for all current rooms
