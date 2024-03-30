@@ -1,11 +1,13 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.1.9.0--Apr24 Changelog: "CAFETERIA"
+v0.1.9.1--Apr24 Changelog: "SARAH BEDROOM"
 
 ------------------------------------------------------------------------------------
 **CURRENT**
-
+v0.1.9.0--Apr24 Changelog: "CAFETERIA"
+*
+------------------------------------------------------------------------------------
 v0.1.8.9--Mar24 Changelog: "NPCS & UX/UI"
 * SORTED - #245 Create Idle sprites for NPC Sarah
 * SORTED - #246 Added animations for fade-in & fade-out of the Message Widget
