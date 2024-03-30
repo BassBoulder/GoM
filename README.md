@@ -18,6 +18,30 @@ v0.1.8.9--Mar24 Changelog: "NPCS & UX/UI"
 * SORTED - #253 Create Idle sprites for Infected David S2
 * SORTED - #254 Create Idle sprites for NPC Jock
 * SORTED - #255 Create Idle sprites for Infected Jock
+* SORTED - #257 Create Idle sprites for NPC Jeremy
+* SORTED - #258 Create Idle sprites for NPC Craig
+* SORTED - #259 Create Idle sprites for NPC Johnny 
+* SORTED - #260 Create Idle sprites for NPC Pete
+* SORTED - #261 Create Idle sprites for NPC Derek
+* SORTED - #262 Create Idle sprites for NPC Paul
+* SORTED - #263 Create Idle sprites for NPC Michael Yuma 
+* SORTED - #264 Create Idle sprites for NPC Dylan enhancement
+* SORTED - #265 Create Idle sprites for Infected Gerald the Engineer
+* SORTED - #266 Create Idle sprites for NPC Jackson 
+* SORTED - #267 Create Idle sprites for NPC Richard
+* SORTED - #268 Create Idle sprites for NPC Newton
+* SORTED - #269 Create Idle sprites for NPC Newton B
+* SORTED - #270 Create Idle sprites for NPC Dr. Christian
+* SORTED - #272 Create Idle sprites for NPC Recon Lead
+* SORTED - #273 Create Idle sprites for NPC Recon Team #1
+* SORTED - #274 Create Idle sprites for NPC Recon Team #2
+* SORTED - #275 Create Idle sprites for NPC Mick
+* SORTED - #276 Create Idle sprites for NPC Subject Alpha 
+* SORTED - #277 Create Idle sprites for NPC Subject Beta
+* SORTED - #278 Create Idle sprites for NPC Subject Charlie 
+* SORTED - #279 Create Idle sprites for NPC Dr. Tang 
+* SORTED - #131 Create Idle Sprites for all NPCs
+* SORTED - #282 Added Health Watch Thumbnail & Sprite 
 ------------------------------------------------------------------------------------
 v0.1.8.8--Mar24 Changelog: "HOTKEYS & ITEMS"
 * SORTED - #216 Update or Add-in NavMeshes for all current rooms
