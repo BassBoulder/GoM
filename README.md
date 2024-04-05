@@ -9,6 +9,8 @@ v0.1.9.1--Apr24 Changelog: "SARAH BEDROOM"
 v0.1.9.0--Apr24 Changelog: "CAFETERIA"
 * SORTED - #282 Added Health Watch Thumbnail & Sprite
 * SORTED - #283 Create Cafeteria Level
+* SORTED - #303 Reworked Crafting Code to Append from GI to Inventory
+* SORTED - #305 Tweaked Crafting Menu UI/UX
 ------------------------------------------------------------------------------------
 v0.1.8.9--Mar24 Changelog: "NPCS & UX/UI"
 * SORTED - #245 Create Idle sprites for NPC Sarah
