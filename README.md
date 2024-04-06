@@ -11,6 +11,26 @@ v0.1.9.0--Apr24 Changelog: "CAFETERIA"
 * SORTED - #283 Create Cafeteria Level
 * SORTED - #303 Reworked Crafting Code to Append from GI to Inventory
 * SORTED - #305 Tweaked Crafting Menu UI/UX
+* SORTED - #307 Create recipe for Supreme Hotdog
+* SORTED - #285 Create recipe for Grande Tasty
+* SORTED - #286 Create recipe for Hamburger
+* SORTED - #287 Create recipe for Cheeseburger
+* SORTED - #289 Create item Grande Tasty
+* SORTED - #290 Create item Hamburger
+* SORTED - #291 Create item Cheeseburger
+* SORTED - #292 Create item Hotdog
+* SORTED - #293 Create item Hotdog Bun
+* SORTED - #294 Create item Supreme Hotdog
+* SORTED - #295 Create item Bottled Water
+* SORTED - #296 Create item Dragon's Brew
+* SORTED - #297 Create item Crisps
+* SORTED - #298 Create item Chips
+* SORTED - #299 Create Item Tomato Sauce
+* SORTED - #300 Create item mustard
+* SORTED - #301 Create item Cheesy Single
+* SORTED - #302 Create item Beef Burger
+* SORTED - #304 Crafting items only removes the first item
+* SORTED - #284 Create Cafeteria Door
 ------------------------------------------------------------------------------------
 v0.1.8.9--Mar24 Changelog: "NPCS & UX/UI"
 * SORTED - #245 Create Idle sprites for NPC Sarah
