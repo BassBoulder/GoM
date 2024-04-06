@@ -34,6 +34,8 @@ v0.1.9.0--Apr24 Changelog: "CAFETERIA"
 * SORTED - #302 Create item Beef Burger
 * SORTED - #304 Crafting items only removes the first item
 * SORTED - #284 Create Cafeteria Door
+* SORTED - #308 Created Kitchen Door
+* SORTED - #309 Created Level Connection between Hallway & Cafeteria
 ------------------------------------------------------------------------------------
 v0.1.8.9--Mar24 Changelog: "NPCS & UX/UI"
 * SORTED - #245 Create Idle sprites for NPC Sarah
