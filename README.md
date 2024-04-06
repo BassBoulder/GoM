@@ -30,6 +30,7 @@ v0.1.9.0--Apr24 Changelog: "CAFETERIA"
 * SORTED - #301 Create item Cheesy Single
 * SORTED - #302 Create item Beef Burger
 * SORTED - #304 Crafting items only removes the first item
+* SORTED - #284 Create Cafeteria Door
 ------------------------------------------------------------------------------------
 v0.1.8.9--Mar24 Changelog: "NPCS & UX/UI"
 * SORTED - #245 Create Idle sprites for NPC Sarah
