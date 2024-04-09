@@ -8,6 +8,11 @@ v0.1.9.2--Apr24 Changelog: "KITCHEN"
 
 v0.1.9.1--Apr24 Changelog: "SARAH BEDROOM"
 * SORTED - #310 Create Sarah's Bedroom Level
+* SORTED - #311 Create Light Type Agnostic Light Switch
+* SORTED - #316 Add Is_Valid logic to Light Switch
+* SORTED - #315 Add Is_Valid logic to Desk Lamp
+* SORTED - #318 Create Door Alt 2
+* SORTED - #319 Create Door Alt 3
 ------------------------------------------------------------------------------------
 v0.1.9.0--Apr24 Changelog: "CAFETERIA"
 * SORTED - #282 Added Health Watch Thumbnail & Sprite
