@@ -16,6 +16,9 @@ v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
 v0.1.9.6--May24 Changelog: "UPPER DORMS LEFT"
 * SORTED - #
 
+v0.1.9.5--May24 Changelog: "LIGHTING v2"
+* SORTED - #
+
 v0.1.9.4--May24 Changelog: "GUARD POST"
 * SORTED - #
 
