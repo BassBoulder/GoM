@@ -13,6 +13,7 @@ v0.1.9.1--Apr24 Changelog: "SARAH BEDROOM"
 * SORTED - #315 Add Is_Valid logic to Desk Lamp
 * SORTED - #318 Create Door Alt 2
 * SORTED - #319 Create Door Alt 3
+* SORTED - #310 Create Sarah Bedroom assets
 ------------------------------------------------------------------------------------
 v0.1.9.0--Apr24 Changelog: "CAFETERIA"
 * SORTED - #282 Added Health Watch Thumbnail & Sprite
