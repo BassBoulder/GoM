@@ -2,25 +2,25 @@
 **PLANNED**
 
 v0.2.0.0--Jun24 Changelog: "HALLWAY v2"
-*
+* SORTED - #
 
 v0.1.9.9--Jun24 Changelog: "RECREATION ROOM"
-*
+* SORTED - #
 
 v0.1.9.8--Jun24 Changelog: "LOWER DORMS"
-*
+* SORTED - #
 
 v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
-*
+* SORTED - #
 
 v0.1.9.6--May24 Changelog: "UPPER DORMS LEFT"
-*
+* SORTED - #
 
 v0.1.9.4--May24 Changelog: "GUARD POST"
-*
+* SORTED - #
 
 v0.1.9.3--Apr24 Changelog: "STOREROOM"
-*
+* SORTED - # 
 ------------------------------------------------------------------------------------
 **CURRENT**
 v0.1.9.2--Apr24 Changelog: "KITCHEN"
