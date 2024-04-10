@@ -1,11 +1,32 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.1.9.2--Apr24 Changelog: "KITCHEN"
+v0.2.0.0--Jun24 Changelog: "HALLWAY v2"
+*
+
+v0.1.9.9--Jun24 Changelog: "RECREATION ROOM"
+*
+
+v0.1.9.8--Jun24 Changelog: "LOWER DORMS"
+*
+
+v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
+*
+
+v0.1.9.6--May24 Changelog: "UPPER DORMS LEFT"
+*
+
+v0.1.9.4--May24 Changelog: "GUARD POST"
+*
+
+v0.1.9.3--Apr24 Changelog: "STOREROOM"
 *
 ------------------------------------------------------------------------------------
 **CURRENT**
+v0.1.9.2--Apr24 Changelog: "KITCHEN"
+* SORTED - #
 
+------------------------------------------------------------------------------------
 v0.1.9.1--Apr24 Changelog: "SARAH BEDROOM"
 * SORTED - #310 Create Sarah's Bedroom Level
 * SORTED - #311 Create Light Type Agnostic Light Switch
