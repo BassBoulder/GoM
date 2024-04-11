@@ -16,14 +16,17 @@ v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
 v0.1.9.6--May24 Changelog: "UPPER DORMS LEFT"
 * SORTED - #
 
+v0.1.9.5--May24 Changelog: "LIGHTING v2"
+* SORTED - #
+
 v0.1.9.4--May24 Changelog: "GUARD POST"
 * SORTED - #
 
-v0.1.9.3--Apr24 Changelog: "STOREROOM"
+v0.1.9.3--Apr24 Changelog: "KITCHEN"
 * SORTED - # 
 ------------------------------------------------------------------------------------
 **CURRENT**
-v0.1.9.2--Apr24 Changelog: "KITCHEN"
+v0.1.9.2--Apr24 Changelog: "STOREROOM"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
