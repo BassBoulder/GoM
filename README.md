@@ -34,7 +34,17 @@ v0.1.9.2--Apr24 Changelog: "STOREROOM"
 * SORTED - #344 Create Storeroom Door
 * SORTED - #345 Update Door BP to v2
 * SORTED - #346 Update Door Transition Level to v2
-
+* SORTED - #352 Create Glass Item
+* SORTED - #339 Create Frag Grenade Item
+* SORTED - #340 Create Trip Grenade Item
+* SORTED - #341 Create Scatterbang Item
+* SORTED - #322 Create Tape Item
+* SORTED - #323 Create Fire Extinguisher A
+* SORTED - #324 Create Fire Extinguisher Item
+* SORTED - #325 Create Fire Extinguisher (Empty) Item
+* SORTED - #326 Create Plasma Item
+* SORTED - #327 Create Gunpowder Item
+* SORTED - #330 Create Pager Item
 ------------------------------------------------------------------------------------
 v0.1.9.1--Apr24 Changelog: "SARAH BEDROOM"
 * SORTED - #310 Create Sarah's Bedroom Level
