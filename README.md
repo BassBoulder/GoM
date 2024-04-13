@@ -27,7 +27,13 @@ v0.1.9.3--Apr24 Changelog: "KITCHEN"
 ------------------------------------------------------------------------------------
 **CURRENT**
 v0.1.9.2--Apr24 Changelog: "STOREROOM"
-* SORTED - #
+* SORTED - #321 Create Storeroom Level
+* SORTED - #329 Create Note Item
+* SORTED - #342 Tidied Folder System & Redirectors
+* SORTED - #343 Reverse Door Transition Logic
+* SORTED - #344 Create Storeroom Door
+* SORTED - #345 Update Door BP to v2
+* SORTED - #346 Update Door Transition Level to v2
 
 ------------------------------------------------------------------------------------
 v0.1.9.1--Apr24 Changelog: "SARAH BEDROOM"
