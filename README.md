@@ -22,10 +22,11 @@ v0.1.9.5--May24 Changelog: "LIGHTING v2"
 v0.1.9.4--May24 Changelog: "GUARD POST"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+**CURRENT**
 v0.1.9.3--Apr24 Changelog: "KITCHEN"
 * SORTED - # 
 ------------------------------------------------------------------------------------
-**CURRENT**
 v0.1.9.2--Apr24 Changelog: "STOREROOM"
 * SORTED - #321 Create Storeroom Level
 * SORTED - #329 Create Note Item
