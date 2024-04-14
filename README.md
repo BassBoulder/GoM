@@ -25,7 +25,17 @@ v0.1.9.4--May24 Changelog: "GUARD POST"
 ------------------------------------------------------------------------------------
 **CURRENT**
 v0.1.9.3--Apr24 Changelog: "KITCHEN"
-* SORTED - # 
+* SORTED - #357 Create Kitchen Level
+* SORTED - #355 Added Double_Door? & Sliding_Door? variables to Door BP 
+* SORTED - #356 Added logic for different door transitions
+* SORTED - #334 Create Map Item
+* SORTED - #335 Updated Book Widget 
+* SORTED - #336 Updated Map Widget
+* SORTED - #347 Create Document Widget
+* SORTED - #348 Create Note Widget
+* SORTED - #349 Create Pager Widget
+* SORTED - #350 Create Radio Widget
+* SORTED - #351 Create Photo Widget
 ------------------------------------------------------------------------------------
 v0.1.9.2--Apr24 Changelog: "STOREROOM"
 * SORTED - #321 Create Storeroom Level
