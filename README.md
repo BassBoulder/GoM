@@ -36,6 +36,9 @@ v0.1.9.3--Apr24 Changelog: "KITCHEN"
 * SORTED - #349 Create Pager Widget
 * SORTED - #350 Create Radio Widget
 * SORTED - #351 Create Photo Widget
+* SORTED - #358 Create Kitchen Assets
+* SORTED - #359 Create functionality to Open & Close Fridge
+* SORTED - #361 Functionality to Open & Close Freezer
 ------------------------------------------------------------------------------------
 v0.1.9.2--Apr24 Changelog: "STOREROOM"
 * SORTED - #321 Create Storeroom Level
