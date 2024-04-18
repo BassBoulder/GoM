@@ -43,6 +43,7 @@ v0.1.9.3--Apr24 Changelog: "KITCHEN"
 * SORTED - #365 Create Shelf Red v2
 * SORTED - #366 Create Shelf Blue v2
 * SORTED - #367 Create Shelf Purple v2
+* SORTED - #360 Create functionality to Turn Off & On Stove
 ------------------------------------------------------------------------------------
 v0.1.9.2--Apr24 Changelog: "STOREROOM"
 * SORTED - #321 Create Storeroom Level
