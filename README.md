@@ -19,11 +19,11 @@ v0.1.9.6--May24 Changelog: "UPPER DORMS LEFT"
 v0.1.9.5--May24 Changelog: "LIGHTING v2"
 * SORTED - #
 
-v0.1.9.4--May24 Changelog: "GUARD POST"
-* SORTED - #
-
 ------------------------------------------------------------------------------------
 **CURRENT**
+v0.1.9.4--May24 Changelog: "GUARD POST"
+* SORTED - #
+------------------------------------------------------------------------------------
 v0.1.9.3--Apr24 Changelog: "KITCHEN"
 * SORTED - #357 Create Kitchen Level
 * SORTED - #355 Added Double_Door? & Sliding_Door? variables to Door BP 
