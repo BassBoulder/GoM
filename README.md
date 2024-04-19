@@ -25,7 +25,8 @@ v0.1.9.5--May24 Changelog: "LIGHTING v2"
 ------------------------------------------------------------------------------------
 **CURRENT**
 v0.1.9.4--May24 Changelog: "GUARD POST"
-* SORTED - #
+* SORTED - #370 Create Guard Post Level
+* SORTED - #368 Create Guard Post Door
 ------------------------------------------------------------------------------------
 v0.1.9.3--Apr24 Changelog: "KITCHEN"
 * SORTED - #357 Create Kitchen Level
