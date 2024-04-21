@@ -18,13 +18,13 @@ v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
 
 v0.1.9.6--May24 Changelog: "UPPER DORMS LEFT"
 * SORTED - #
-
-v0.1.9.5--May24 Changelog: "LIGHTING v2"
+------------------------------------------------------------------------------------
+**CURRENT**
+v0.1.9.5--Apr24 Changelog: "LIGHTING v2"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-**CURRENT**
-v0.1.9.4--May24 Changelog: "GUARD POST"
+v0.1.9.4--Apr24 Changelog: "GUARD POST"
 * SORTED - #370 Create Guard Post Level
 * SORTED - #368 Create Guard Post Door
 * SORTED - #369 Create Guard Post Assets
