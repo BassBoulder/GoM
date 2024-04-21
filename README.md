@@ -27,6 +27,9 @@ v0.1.9.5--May24 Changelog: "LIGHTING v2"
 v0.1.9.4--May24 Changelog: "GUARD POST"
 * SORTED - #370 Create Guard Post Level
 * SORTED - #368 Create Guard Post Door
+* SORTED - #369 Create Guard Post Assets
+* SORTED - #372 Create Guard Post Computer / Keyboard Interaction
+* SORTED - #374 Colour-code Walls to match background
 ------------------------------------------------------------------------------------
 v0.1.9.3--Apr24 Changelog: "KITCHEN"
 * SORTED - #357 Create Kitchen Level
