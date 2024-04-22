@@ -21,8 +21,11 @@ v0.1.9.6--May24 Changelog: "UPPER DORMS LEFT"
 ------------------------------------------------------------------------------------
 **CURRENT**
 v0.1.9.5--Apr24 Changelog: "LIGHTING v2"
-* SORTED - #
-
+* SORTED - #376 Lighting v2 + Light Switch Update for Cafeteria
+* SORTED - #378 Lighting v2 + Light Switch Update for Kitchen
+* SORTED - #380 Lighting v2 + Light Switch Update for Barry Bedroom
+* SORTED - #386 Lighting v2 + Light Switch Update for Jackie Bathroom
+* 
 ------------------------------------------------------------------------------------
 v0.1.9.4--Apr24 Changelog: "GUARD POST"
 * SORTED - #370 Create Guard Post Level
