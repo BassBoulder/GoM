@@ -16,10 +16,11 @@ v0.1.9.8--Jun24 Changelog: "LOWER DORMS"
 v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+**CURRENT**
 v0.1.9.6--May24 Changelog: "UPPER DORMS LEFT"
 * SORTED - #
 ------------------------------------------------------------------------------------
-**CURRENT**
 v0.1.9.5--Apr24 Changelog: "LIGHTING v2"
 * SORTED - #376 Lighting v2 + Light Switch Update for Cafeteria
 * SORTED - #377 Lighting v2 + Light Switch Update for Storeroom
