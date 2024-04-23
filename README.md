@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.0.2--Jul24 Changelog: "HALLWAY REARRANGE"
+* SORTED - #
+
 v0.2.0.1--Jul24 Changelog: "CAMERA PROJECTION TYPE"
 * SORTED - #
   
