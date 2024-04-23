@@ -24,8 +24,10 @@ v0.1.9.5--Apr24 Changelog: "LIGHTING v2"
 * SORTED - #376 Lighting v2 + Light Switch Update for Cafeteria
 * SORTED - #378 Lighting v2 + Light Switch Update for Kitchen
 * SORTED - #380 Lighting v2 + Light Switch Update for Barry Bedroom
+* SORTED - #382 Lighting v2 + Light Switch Update for John Bedroom
+* SORTED - #383 Lighting v2 + Light Switch Update for John Bathroom
 * SORTED - #386 Lighting v2 + Light Switch Update for Jackie Bathroom
-* 
+* SORTED - #387 Lighting v2 + Light Switch Update for Guard Post
 ------------------------------------------------------------------------------------
 v0.1.9.4--Apr24 Changelog: "GUARD POST"
 * SORTED - #370 Create Guard Post Level
