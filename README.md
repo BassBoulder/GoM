@@ -22,10 +22,14 @@ v0.1.9.6--May24 Changelog: "UPPER DORMS LEFT"
 **CURRENT**
 v0.1.9.5--Apr24 Changelog: "LIGHTING v2"
 * SORTED - #376 Lighting v2 + Light Switch Update for Cafeteria
+* SORTED - #377 Lighting v2 + Light Switch Update for Storeroom
 * SORTED - #378 Lighting v2 + Light Switch Update for Kitchen
+* SORTED - #379 Lighting v2 + Light Switch Update for Hallway
 * SORTED - #380 Lighting v2 + Light Switch Update for Barry Bedroom
 * SORTED - #382 Lighting v2 + Light Switch Update for John Bedroom
 * SORTED - #383 Lighting v2 + Light Switch Update for John Bathroom
+* SORTED - #384 Lighting v2 + Light Switch Update for Sarah Bedroom
+* SORTED - #385 Lighting v2 + Light Switch Update for Jackie Bedroom 
 * SORTED - #386 Lighting v2 + Light Switch Update for Jackie Bathroom
 * SORTED - #387 Lighting v2 + Light Switch Update for Guard Post
 ------------------------------------------------------------------------------------
