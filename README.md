@@ -23,7 +23,7 @@ v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
 **CURRENT**
 
 v0.1.9.6--Apr24 Changelog: "UPPER DORMS LEFT"
-* SORTED - #
+* SORTED - #389 Create Upper Dorms Left Level 
 ------------------------------------------------------------------------------------
 v0.1.9.5--Apr24 Changelog: "LIGHTING v2"
 * SORTED - #376 Lighting v2 + Light Switch Update for Cafeteria
