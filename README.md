@@ -24,6 +24,8 @@ v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
 
 v0.1.9.6--Apr24 Changelog: "UPPER DORMS LEFT"
 * SORTED - #389 Create Upper Dorms Left Level
+* SORTED - #390 Create Upper Dorms Assets 
+* SORTED - #393 Create Upper Dorms Left Door
 * SORTED - #396 Create Dorm Bed Functionality
 ------------------------------------------------------------------------------------
 v0.1.9.5--Apr24 Changelog: "LIGHTING v2"
