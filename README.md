@@ -27,6 +27,9 @@ v0.1.9.6--Apr24 Changelog: "UPPER DORMS LEFT"
 * SORTED - #390 Create Upper Dorms Assets 
 * SORTED - #393 Create Upper Dorms Left Door
 * SORTED - #396 Create Dorm Bed Functionality
+* SORTED - #394 Create Upper Dorms Right Door
+* SORTED - #395 Create Lower Dorms Door
+* SORTED - #399 Create Dresser Tall BP
 ------------------------------------------------------------------------------------
 v0.1.9.5--Apr24 Changelog: "LIGHTING v2"
 * SORTED - #376 Lighting v2 + Light Switch Update for Cafeteria
