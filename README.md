@@ -16,12 +16,13 @@ v0.1.9.9--Jun24 Changelog: "RECREATION ROOM"
 v0.1.9.8--Jun24 Changelog: "LOWER DORMS"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+**CURRENT**
+
 v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-**CURRENT**
-
 v0.1.9.6--Apr24 Changelog: "UPPER DORMS LEFT"
 * SORTED - #389 Create Upper Dorms Left Level
 * SORTED - #390 Create Upper Dorms Assets 
