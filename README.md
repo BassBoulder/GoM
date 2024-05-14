@@ -20,7 +20,7 @@ v0.1.9.8--Jun24 Changelog: "LOWER DORMS"
 **CURRENT**
 
 v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
-* SORTED - #
+* SORTED - #400 Create Upper Dorms Right Level
 
 ------------------------------------------------------------------------------------
 v0.1.9.6--Apr24 Changelog: "UPPER DORMS LEFT"
