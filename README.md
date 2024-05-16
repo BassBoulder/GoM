@@ -22,6 +22,8 @@ v0.1.9.8--Jun24 Changelog: "LOWER DORMS"
 v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
 * SORTED - #400 Create Upper Dorms Right Level
 * SORTED - #398 Upgrade Dresser Small to v2
+* SORTED - #404 Tweak John's Interaction Range
+* SORTED - #407 On Off sprites for Light Switch
 ------------------------------------------------------------------------------------
 v0.1.9.6--Apr24 Changelog: "UPPER DORMS LEFT"
 * SORTED - #389 Create Upper Dorms Left Level
