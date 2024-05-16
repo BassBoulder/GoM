@@ -13,12 +13,12 @@ v0.2.0.0--Jun24 Changelog: "HALLWAY v2"
 v0.1.9.9--Jun24 Changelog: "RECREATION ROOM"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+**CURRENT**
 v0.1.9.8--Jun24 Changelog: "LOWER DORMS"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-**CURRENT**
-
 v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
 * SORTED - #400 Create Upper Dorms Right Level
 * SORTED - #398 Upgrade Dresser Small to v2
