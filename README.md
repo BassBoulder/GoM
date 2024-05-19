@@ -1,23 +1,26 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.2.0.2--Jul24 Changelog: "HALLWAY REARRANGE"
+v0.2.0.3--Jun24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #
 
-v0.2.0.1--Jul24 Changelog: "CAMERA PROJECTION TYPE"
+v0.2.0.2--Jun24 Changelog: "HALLWAY REARRANGE"
+* SORTED - #
+
+v0.2.0.1--Jun24 Changelog: "CAMERA PROJECTION TYPE"
 * SORTED - #
   
 v0.2.0.0--Jun24 Changelog: "HALLWAY v2"
 * SORTED - #
 
-v0.1.9.9--Jun24 Changelog: "RECREATION ROOM"
+v0.1.9.9--May24 Changelog: "RECREATION ROOM"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
 **CURRENT**
 
 v0.1.9.8--May24 Changelog: "LOWER DORMS"
-* SORTED - #
+* SORTED - #401 Create Lower Dorms Level
 
 ------------------------------------------------------------------------------------
 v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
