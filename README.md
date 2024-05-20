@@ -19,8 +19,13 @@ v0.1.9.9--May24 Changelog: "RECREATION ROOM"
 ------------------------------------------------------------------------------------
 **CURRENT**
 
+v0.1.9.9--May24 Changelog: "RECREATION ROOM"
+* SORTED - #
+
+------------------------------------------------------------------------------------
 v0.1.9.8--May24 Changelog: "LOWER DORMS"
 * SORTED - #401 Create Lower Dorms Level
+* SORTED - #403 Create Lower Dorms Level Assets
 
 ------------------------------------------------------------------------------------
 v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
