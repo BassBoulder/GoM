@@ -13,9 +13,6 @@ v0.2.0.1--Jun24 Changelog: "CAMERA PROJECTION TYPE"
 v0.2.0.0--Jun24 Changelog: "HALLWAY v2"
 * SORTED - #
 
-v0.1.9.9--May24 Changelog: "RECREATION ROOM"
-* SORTED - #
-
 ------------------------------------------------------------------------------------
 **CURRENT**
 
