@@ -26,6 +26,10 @@ v0.1.9.9--May24 Changelog: "RECREATION ROOM"
 v0.1.9.8--May24 Changelog: "LOWER DORMS"
 * SORTED - #401 Create Lower Dorms Level
 * SORTED - #403 Create Lower Dorms Level Assets
+* SORTED - #412 Tweaked Step-On for Storage & Chairs
+* SORTED - #413 Tweaked Upper Dorms L & R 
+* SORTED - #414 Added shelves sprites (no functionality yet)
+* SORTED - #415 Tweaked book / diary sprites
 
 ------------------------------------------------------------------------------------
 v0.1.9.7--May24 Changelog: "UPPER DORMS RIGHT"
