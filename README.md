@@ -17,7 +17,8 @@ v0.2.0.0--Jun24 Changelog: "HALLWAY v2"
 **CURRENT**
 
 v0.1.9.9--May24 Changelog: "RECREATION ROOM"
-* SORTED - #
+* SORTED - #416 Create Recreation Room Level
+* SORTED - #421 Create Recreation Room Level Door
 
 ------------------------------------------------------------------------------------
 v0.1.9.8--May24 Changelog: "LOWER DORMS"
