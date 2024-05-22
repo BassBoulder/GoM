@@ -19,6 +19,8 @@ v0.2.0.0--Jun24 Changelog: "HALLWAY v2"
 v0.1.9.9--May24 Changelog: "RECREATION ROOM"
 * SORTED - #416 Create Recreation Room Level
 * SORTED - #421 Create Recreation Room Level Door
+* SORTED - #419 Create Sofa sprites (forward & backward facing)
+* SORTED - #424 Create Stool sprites
 
 ------------------------------------------------------------------------------------
 v0.1.9.8--May24 Changelog: "LOWER DORMS"
