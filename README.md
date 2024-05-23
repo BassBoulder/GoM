@@ -10,12 +10,13 @@ v0.2.0.2--Jun24 Changelog: "HALLWAY REARRANGE"
 v0.2.0.1--Jun24 Changelog: "CAMERA PROJECTION TYPE"
 * SORTED - #
   
+------------------------------------------------------------------------------------
+**CURRENT**
+
 v0.2.0.0--Jun24 Changelog: "HALLWAY v2"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-**CURRENT**
-
 v0.1.9.9--May24 Changelog: "RECREATION ROOM"
 * SORTED - #416 Create Recreation Room Level
 * SORTED - #421 Create Recreation Room Level Door
