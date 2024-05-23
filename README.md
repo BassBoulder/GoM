@@ -21,6 +21,9 @@ v0.1.9.9--May24 Changelog: "RECREATION ROOM"
 * SORTED - #421 Create Recreation Room Level Door
 * SORTED - #419 Create Sofa sprites (forward & backward facing)
 * SORTED - #424 Create Stool sprites
+* SORTED - #426 Create Power Rack sprites
+* SORTED - #418 Create Intensity Switch
+* SORTED - #417 Create Recreation Room Assets
 
 ------------------------------------------------------------------------------------
 v0.1.9.8--May24 Changelog: "LOWER DORMS"
