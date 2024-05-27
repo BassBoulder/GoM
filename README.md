@@ -1,13 +1,22 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.2.0.3--Jun24 Changelog: "LIGHTING BP EXPANSION"
+v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
 * SORTED - #
 
-v0.2.0.2--Jun24 Changelog: "HALLWAY REARRANGE"
+v0.2.0.5--Jun24 Changelog: "SARAH BATHROOM"
 * SORTED - #
 
-v0.2.0.1--Jun24 Changelog: "CAMERA PROJECTION TYPE"
+v0.2.0.4--Jun24 Changelog: "ARMOUR"
+* SORTED - #
+
+v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
+* SORTED - #
+
+v0.2.0.2--Jun24 Changelog: "LIGHTING BP EXPANSION"
+* SORTED - #
+
+v0.2.0.1--May24 Changelog: "CAMERA PROJECTION TYPE"
 * SORTED - #
   
 ------------------------------------------------------------------------------------
