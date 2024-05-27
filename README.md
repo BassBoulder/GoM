@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.0.7--Jun24 Changelog: "NORMAL MAPS"
+* SORTED - #
+
 v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
 * SORTED - #
 
@@ -13,22 +16,21 @@ v0.2.0.4--Jun24 Changelog: "ARMOUR"
 v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
 * SORTED - #
 
-v0.2.0.2--Jun24 Changelog: "LIGHTING BP EXPANSION"
-* SORTED - #
-
-v0.2.0.1--May24 Changelog: "CAMERA PROJECTION TYPE"
-* SORTED - #
-  
 ------------------------------------------------------------------------------------
 
 **CURRENT**
 
-v0.2.0.1--May24 Changelog: "CAMERA PROJECTION TYPE"
+v0.2.0.2--Jun24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #
+
+------------------------------------------------------------------------------------
+
+v0.2.0.1--May24 Changelog: "CAMERA PROJECTION TYPE"
+* SORTED - #448 Camera Projection Type Toggle Functionality 
   
 ------------------------------------------------------------------------------------
 v0.2.0.0--May24 Changelog: "HALLWAY v2"
-* SORTED - #441 Rearrange Leves to Match Game Map
+* SORTED - #441 Rearrange Levels to Match Game Map
 * SORTED - #446 Updated Most Storage Instances with Names
 * SORTED - #442 Upgrade Door BP v3 & Stair BP v2 (Origin & Destination Toggle Level)
 * SORTED - #440 Create Additional Hallway Background Sprites
