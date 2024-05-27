@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.0.7--Jun24 Changelog: "NORMAL MAPS"
+* SORTED - #
+
 v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
 * SORTED - #
 
@@ -13,15 +16,17 @@ v0.2.0.4--Jun24 Changelog: "ARMOUR"
 v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+
+**CURRENT**
+
 v0.2.0.2--Jun24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
 
-**CURRENT**
-
 v0.2.0.1--May24 Changelog: "CAMERA PROJECTION TYPE"
-* SORTED - #
+* SORTED - #448 Camera Projection Type Toggle Functionality 
   
 ------------------------------------------------------------------------------------
 v0.2.0.0--May24 Changelog: "HALLWAY v2"
