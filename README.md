@@ -20,7 +20,7 @@ v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
 
 **CURRENT**
 
-v0.2.0.2--Jun24 Changelog: "LIGHTING BP EXPANSION"
+v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
