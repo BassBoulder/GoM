@@ -20,8 +20,12 @@ v0.2.0.1--May24 Changelog: "CAMERA PROJECTION TYPE"
 * SORTED - #
   
 ------------------------------------------------------------------------------------
-**CURRENT**
 
+**CURRENT**
+v0.2.0.1--May24 Changelog: "CAMERA PROJECTION TYPE"
+* SORTED - #
+  
+------------------------------------------------------------------------------------
 v0.2.0.0--May24 Changelog: "HALLWAY v2"
 * SORTED - #441 Rearrange Leves to Match Game Map
 * SORTED - #446 Updated Most Storage Instances with Names
