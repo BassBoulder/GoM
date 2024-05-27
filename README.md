@@ -16,9 +16,6 @@ v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
 v0.2.0.2--Jun24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #
 
-v0.2.0.1--May24 Changelog: "CAMERA PROJECTION TYPE"
-* SORTED - #
-  
 ------------------------------------------------------------------------------------
 
 **CURRENT**
