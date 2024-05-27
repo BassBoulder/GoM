@@ -14,7 +14,21 @@ v0.2.0.1--Jun24 Changelog: "CAMERA PROJECTION TYPE"
 **CURRENT**
 
 v0.2.0.0--May24 Changelog: "HALLWAY v2"
-* SORTED - #
+* SORTED - #441 Rearrange Leves to Match Game Map
+* SORTED - #446 Updated Most Storage Instances with Names
+* SORTED - #442 Upgrade Door BP v3 & Stair BP v2 (Origin & Destination Toggle Level)
+* SORTED - #440 Create Additional Hallway Background Sprites
+* SORTED - #439 Create Hallway Lower Level Assets
+* SORTED - #438 Create Hallway Upper Level Assets 
+* SORTED - #436 Create Stairs v2 sprites 
+* SORTED - #435 Create Stairs "Door" BPs
+* SORTED - #432 Update Player Starts & Door BPs Affected by Hallway Segmentation
+* SORTED - #431 Create Stairs Descend Level Transition
+* SORTED - #430 Create Stairs Ascend Level Transition
+* SORTED - #429 Segment Hallway Level
+* SORTED - #428 Create Hallway Lower Level
+* SORTED - #427 Create Hallway Upper Level
+* SORTED - #423 Adjust Roof Sprite on all rooms
 
 ------------------------------------------------------------------------------------
 v0.1.9.9--May24 Changelog: "RECREATION ROOM"
