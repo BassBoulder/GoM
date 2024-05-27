@@ -28,7 +28,7 @@ v0.2.0.1--May24 Changelog: "CAMERA PROJECTION TYPE"
   
 ------------------------------------------------------------------------------------
 v0.2.0.0--May24 Changelog: "HALLWAY v2"
-* SORTED - #441 Rearrange Leves to Match Game Map
+* SORTED - #441 Rearrange Levels to Match Game Map
 * SORTED - #446 Updated Most Storage Instances with Names
 * SORTED - #442 Upgrade Door BP v3 & Stair BP v2 (Origin & Destination Toggle Level)
 * SORTED - #440 Create Additional Hallway Background Sprites
