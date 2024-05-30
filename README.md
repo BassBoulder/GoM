@@ -21,7 +21,9 @@ v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
 **CURRENT**
 
 v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
-* SORTED - #
+* SORTED - #449 Upgrade Desk Light BP to be Child of Master Spot Light BP
+* SORTED - #450 Create Master Spot Light BP
+* SORTED - #451 Create Master Point Light BP
 
 ------------------------------------------------------------------------------------
 
