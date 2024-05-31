@@ -24,6 +24,8 @@ v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #449 Upgrade Desk Light BP to be Child of Master Spot Light BP
 * SORTED - #450 Create Master Spot Light BP
 * SORTED - #451 Create Master Point Light BP
+* SORTED - #457 Wrong Sequence on Door Exit
+* SORTED - #452 Create Wall Light Type A BP
 
 ------------------------------------------------------------------------------------
 
