@@ -27,7 +27,8 @@ v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #457 Wrong Sequence on Door Exit
 * SORTED - #452 Create Wall Light Type A BP
 * SORTED - #459 Upgrading Light & Switch system for Protagonist Bedroom
-* SORTED - #469 Upgrade Light Switch to v2 (BP to BP)
+* SORTED - #456 Upgrade Light Switch to v2 (BP to BP)
+* SORTED - #460 Create FOFO functionality for Light Switch BP
 
 ------------------------------------------------------------------------------------
 
