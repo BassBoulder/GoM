@@ -30,6 +30,7 @@ v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #456 Upgrade Light Switch to v2 (BP to BP)
 * SORTED - #460 Create FOFO functionality for Light Switch BP
 * SORTED - #422 Create functionality to maintain Rect Shadows
+* SORTED - #474 Create Flicker Effect for Lighting
 
 ------------------------------------------------------------------------------------
 
