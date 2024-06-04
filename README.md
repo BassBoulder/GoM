@@ -41,6 +41,11 @@ v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #486 Create Master Rect Light BP
 * SORTED - #481 Upgrading Light & Switch system for Guard Post
 * SORTED - #455 Functionality to turn off wall lights manually - hide in dark etc
+* SORTED - #410 Create suite of Lighting BP
+* SORTED - #487 Create Functionality if light turned off manually, exclude from Light Switch Array
+* SORTED - #483 Upgrading Light & Switch system for Kitchen
+* SORTED - #464 Upgrading Light & Switch system for Jackie Bedroom
+* SORTED - #486 Update level sprites to not include lights natively  
 
 ------------------------------------------------------------------------------------
 
