@@ -31,6 +31,15 @@ v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #460 Create FOFO functionality for Light Switch BP
 * SORTED - #422 Create functionality to maintain Rect Shadows
 * SORTED - #474 Create Flicker Effect for Lighting
+* SORTED - #478 Upgrading Light system for Hallway
+* SORTED - #479 Upgrading Light system for Hallway Lower
+* SORTED - #480 Upgrading Light system for Hallway Upper
+* SORTED - #462 Upgrading Light & Switch system for Barry Bedroom
+* SORTED - #453 Create Wall Light Type B BP
+* SORTED - #485 Create Ambient Light BP
+* SORTED - #486 Create Master Rect Light BP
+* SORTED - #481 Upgrading Light & Switch system for Guard Post
+* SORTED - #455 Functionality to turn off wall lights manually - hide in dark etc
 
 ------------------------------------------------------------------------------------
 
