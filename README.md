@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.2.0.7--Jun24 Changelog: "NORMAL MAPS"
+v0.2.0.7--Jul24 Changelog: "NORMAL MAPS"
 * SORTED - #
 
 v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
