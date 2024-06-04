@@ -31,6 +31,7 @@ v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #460 Create FOFO functionality for Light Switch BP
 * SORTED - #422 Create functionality to maintain Rect Shadows
 * SORTED - #474 Create Flicker Effect for Lighting
+* SORTED - #320 Create Light Flicker Logic
 * SORTED - #478 Upgrading Light system for Hallway
 * SORTED - #479 Upgrading Light system for Hallway Lower
 * SORTED - #480 Upgrading Light system for Hallway Upper
