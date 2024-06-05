@@ -37,13 +37,13 @@ v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #422 Create functionality to maintain Rect Shadows
 * SORTED - #474 Create Flicker Effect for Lighting
 * SORTED - #320 Create Light Flicker Logic
+* SORTED - #455 Functionality to turn off wall lights manually - hide in dark etc
 * SORTED - #459 Upgrading Light & Switch system for Protagonist Bedroom
 * SORTED - #478 Upgrading Light system for Hallway
 * SORTED - #479 Upgrading Light system for Hallway Lower
 * SORTED - #480 Upgrading Light system for Hallway Upper
 * SORTED - #462 Upgrading Light & Switch system for Barry Bedroom
 * SORTED - #481 Upgrading Light & Switch system for Guard Post
-* SORTED - #455 Functionality to turn off wall lights manually - hide in dark etc
 * SORTED - #483 Upgrading Light & Switch system for Kitchen
 * SORTED - #464 Upgrading Light & Switch system for Jackie Bedroom
 * SORTED - #476 Upgrading Light & Switch system for Jackie Bathroom
