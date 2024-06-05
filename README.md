@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
+* SORTED - #
+
 v0.2.0.7--Jul24 Changelog: "NORMAL MAPS"
 * SORTED - #
 
