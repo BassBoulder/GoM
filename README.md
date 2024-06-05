@@ -13,12 +13,14 @@ v0.2.0.5--Jun24 Changelog: "SARAH BATHROOM"
 v0.2.0.4--Jun24 Changelog: "ARMOUR"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+
+**CURRENT**
+
 v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-
-**CURRENT**
 
 v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
 * SORTED - #451 Create Master Point Light BP
