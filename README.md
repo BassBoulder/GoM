@@ -21,31 +21,41 @@ v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
 **CURRENT**
 
 v0.2.0.2--May24 Changelog: "LIGHTING BP EXPANSION"
-* SORTED - #449 Upgrade Desk Light BP to be Child of Master Spot Light BP
-* SORTED - #450 Create Master Spot Light BP
 * SORTED - #451 Create Master Point Light BP
-* SORTED - #457 Wrong Sequence on Door Exit
+* SORTED - #450 Create Master Spot Light BP
+* SORTED - #486 Create Master Rect Light BP
+* SORTED - #485 Create Ambient Light BP
+* SORTED - #491 Create Exterior Light BP
 * SORTED - #452 Create Wall Light Type A BP
-* SORTED - #459 Upgrading Light & Switch system for Protagonist Bedroom
+* SORTED - #453 Create Wall Light Type B BP
+* SORTED - #454 Create Wall Light Type C BP
+* SORTED - #449 Upgrade Desk Light BP to be Child of Master Spot Light BP
 * SORTED - #456 Upgrade Light Switch to v2 (BP to BP)
+* SORTED - #490 Upgrade Intensity Switch to v2
+* SORTED - #487 Create Functionality if light turned off manually, exclude from Light Switch Array
 * SORTED - #460 Create FOFO functionality for Light Switch BP
 * SORTED - #422 Create functionality to maintain Rect Shadows
 * SORTED - #474 Create Flicker Effect for Lighting
 * SORTED - #320 Create Light Flicker Logic
+* SORTED - #459 Upgrading Light & Switch system for Protagonist Bedroom
 * SORTED - #478 Upgrading Light system for Hallway
 * SORTED - #479 Upgrading Light system for Hallway Lower
 * SORTED - #480 Upgrading Light system for Hallway Upper
 * SORTED - #462 Upgrading Light & Switch system for Barry Bedroom
-* SORTED - #453 Create Wall Light Type B BP
-* SORTED - #485 Create Ambient Light BP
-* SORTED - #486 Create Master Rect Light BP
 * SORTED - #481 Upgrading Light & Switch system for Guard Post
 * SORTED - #455 Functionality to turn off wall lights manually - hide in dark etc
-* SORTED - #410 Create suite of Lighting BP
-* SORTED - #487 Create Functionality if light turned off manually, exclude from Light Switch Array
 * SORTED - #483 Upgrading Light & Switch system for Kitchen
 * SORTED - #464 Upgrading Light & Switch system for Jackie Bedroom
-* SORTED - #486 Update level sprites to not include lights natively  
+* SORTED - #476 Upgrading Light & Switch system for Jackie Bathroom
+* SORTED - #477 Upgrading Light & Switch system for Protagonist Bathroom
+* SORTED - #482 Upgrading Light & Switch system for Storeroom
+* SORTED - #463 Upgrading Light & Switch system for Sarah Bedroom
+* SORTED - #465 Upgrading Light & Switch system for Lower Dorms
+* SORTED - #466 Upgrading Light & Switch system for Upper Dorms Left
+* SORTED - #467 Upgrading Light & Switch system for Upper Dorms Right
+* SORTED - #486 Update level sprites to not include lights natively
+* SORTED - #410 Create suite of Lighting BP
+* SORTED - #457 Wrong Sequence on Door Exit
 
 ------------------------------------------------------------------------------------
 
