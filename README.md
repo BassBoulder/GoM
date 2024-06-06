@@ -21,7 +21,8 @@ v0.2.0.4--Jun24 Changelog: "ARMOUR"
 **CURRENT**
 
 v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
-* SORTED - #
+* SORTED - #496 Bug with Desk Light not turning-on
+* SORTED - #497 Tweaking to Wall Light Type A
 
 ------------------------------------------------------------------------------------
 
