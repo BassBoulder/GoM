@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
+* SORTED - #
+
 v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
 * SORTED - #
 
