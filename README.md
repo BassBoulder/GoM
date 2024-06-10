@@ -28,6 +28,11 @@ v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
 * SORTED - #497 Tweaking to Wall Light Type A
 * SORTED - #500 Tweaked Collision height on Master Enemy BP
 * SORTED - #501 Upgraded NavMesh v2 for Protagonist Bedroom
+* SORTED - #499 Realign Floor Mesh(s) (Source Dimensions)
+* SORTED - #492 Create Source Length for Wall Light Type A (Tube Light)
+* SORTED - #510 Create NavMesh Bounds Modifiers where needed
+* SORTED - #509 Rework Invisible Wall "Visible" Method
+* SORTED - #505 Adjust Bathroom Floor Textures & Sprites
 
 ------------------------------------------------------------------------------------
 
