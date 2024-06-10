@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.1.0--Aug24 Changelog: Levels v3 (3D Backgrounds)
+* SORTED - #
+
 v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
 * SORTED - #
 
@@ -16,12 +19,14 @@ v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
 v0.2.0.5--Jun24 Changelog: "SARAH BATHROOM"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+
+**CURRENT**
+
 v0.2.0.4--Jun24 Changelog: "ARMOUR"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-
-**CURRENT**
 
 v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
 * SORTED - #496 Bug with Desk Light not turning-on
