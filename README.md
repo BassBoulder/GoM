@@ -1,7 +1,10 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.2.1.0--Aug24 Changelog: Levels v3 (3D Backgrounds)
+v0.2.1.1--Sep24 Changelog: "AMBIENT MUSIC"
+* SORTED - #
+
+v0.2.1.0--Aug24 Changelog: "LEVELS v3 (3D BACKGROUNDS)"
 * SORTED - #
 
 v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
