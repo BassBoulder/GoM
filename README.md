@@ -36,6 +36,21 @@ v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
 * SORTED - #497 Tweaking to Wall Light Type A
 * SORTED - #500 Tweaked Collision height on Master Enemy BP
 * SORTED - #501 Upgraded NavMesh v2 for Protagonist Bedroom
+* SORTED - #515 Upgraded NavMesh v2 for Barry Bedroom
+* SORTED - #516 Upgraded NavMesh v2 for Jackie Bedroom
+* SORTED - #517 Upgraded NavMesh v2 for Sarah Bedroom
+* SORTED - #518 Upgraded NavMesh v2 for Protagonist Bathroom
+* SORTED - #519 Upgraded NavMesh v2 for Jackie Bathroom
+* SORTED - #520 Upgraded NavMesh v2 for Hallway
+* SORTED - #521 Upgraded NavMesh v2 for Hallway Lower
+* SORTED - #522 Upgraded NavMesh v2 for Hallway Higher
+* SORTED - #523 Upgraded NavMesh v2 for Storeroom
+* SORTED - #524 Upgraded NavMesh v2 for Guard Post
+* SORTED - #525 Upgraded NavMesh v2 for Upper Dorms Left
+* SORTED - #526 Upgraded NavMesh v2 for Upper Dorms Right
+* SORTED - #527 Upgraded NavMesh v2 for Lower Dorms
+* SORTED - #528 Upgraded NavMesh v2 for Kitchen
+* SORTED - #529 Upgraded NavMesh v2 for Cafeteria
 * SORTED - #499 Realign Floor Mesh(s) (Source Dimensions)
 * SORTED - #492 Create Source Length for Wall Light Type A (Tube Light)
 * SORTED - #510 Create NavMesh Bounds Modifiers where needed
@@ -147,8 +162,8 @@ v0.1.9.5--Apr24 Changelog: "LIGHTING v2"
 * SORTED - #378 Lighting v2 + Light Switch Update for Kitchen
 * SORTED - #379 Lighting v2 + Light Switch Update for Hallway
 * SORTED - #380 Lighting v2 + Light Switch Update for Barry Bedroom
-* SORTED - #382 Lighting v2 + Light Switch Update for John Bedroom
-* SORTED - #383 Lighting v2 + Light Switch Update for John Bathroom
+* SORTED - #382 Lighting v2 + Light Switch Update for Protagonist Bedroom
+* SORTED - #383 Lighting v2 + Light Switch Update for Protagonist Bathroom
 * SORTED - #384 Lighting v2 + Light Switch Update for Sarah Bedroom
 * SORTED - #385 Lighting v2 + Light Switch Update for Jackie Bedroom 
 * SORTED - #386 Lighting v2 + Light Switch Update for Jackie Bathroom
