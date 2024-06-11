@@ -32,7 +32,8 @@ v0.2.0.4--Jun24 Changelog: "ARMOUR"
 ------------------------------------------------------------------------------------
 
 v0.2.0.3--Jun24 Changelog: "NAVMESH v2"
-* SORTED - #496 Bug with Desk Light not turning-on
+* SORTED - #496 Bug - Desk Light not turning-on
+* SORTED - #531 Bug - Movement Issue on Play
 * SORTED - #497 Tweaking to Wall Light Type A
 * SORTED - #500 Tweaked Collision height on Master Enemy BP
 * SORTED - #501 Upgraded NavMesh v2 for Protagonist Bedroom
