@@ -27,7 +27,10 @@ v0.2.0.5--Jun24 Changelog: "SARAH BATHROOM"
 **CURRENT**
 
 v0.2.0.4--Jun24 Changelog: "ARMOUR"
-* SORTED - #
+* SORTED - #331 Create Bulletproof Vest Item
+* SORTED - #447 Create Armour Bar
+* SORTED - #508 (Bug) - Pause Game Until "Play" is Pressed
+* SORTED - #530 (Bug) - Backwall adjustments
 
 ------------------------------------------------------------------------------------
 
