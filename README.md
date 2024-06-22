@@ -33,6 +33,7 @@ v0.2.0.4--Jun24 Changelog: "ARMOUR"
 * SORTED - #447 Create Armour Bar
 * SORTED - #508 (Bug) - Pause Game Until "Play" is Pressed
 * SORTED - #530 (Bug) - Backwall adjustments
+* SORTED - #537 Create Armour Functionality
 
 ------------------------------------------------------------------------------------
 
