@@ -22,6 +22,7 @@ v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
 ------------------------------------------------------------------------------------
 
 **CURRENT**
+
 v0.2.0.5--Jun24 Changelog: "SARAH BATHROOM"
 * SORTED - #538 Create Health Status Functionality
 * SORTED - #539 (BUG) - 0% Armour not being 0 Armour Sprite
