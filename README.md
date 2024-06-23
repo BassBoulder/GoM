@@ -29,6 +29,13 @@ v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
 v0.2.0.5--Jun24 Changelog: "SARAH BATHROOM"
 * SORTED - #538 Create Health Status Functionality
 * SORTED - #539 (BUG) - 0% Armour not being 0 Armour Sprite
+* SORTED - #548 Added Shutter functionality to Sarah Bedroom
+* SORTED - #541 Create Shutter Switch (Five Stage) 
+* SORTED - #542 Create Shutter Switch (Four Stage)
+* SORTED - #544 Create Shutter Switch v2
+* SORTED - #545 Upgrade Upper Dorms Right to Shutter Switch v2
+* SORTED - #546 Upgrade Upper Dorms Right to Shutter Switch v2
+* SORTED - #547 Upgrade Upper Dorms Left to Shutter Switch v2
 
 ------------------------------------------------------------------------------------
 
