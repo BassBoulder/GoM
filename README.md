@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.1.2--Sep24 Changelog: "EQUIPMENT SLOT V2 (HEAD | BODY | WEAPON | ACCESSORY 1+2)"
+* SORTED - #
+
 v0.2.1.1--Sep24 Changelog: "AMBIENT MUSIC"
 * SORTED - #
 
