@@ -36,6 +36,7 @@ v0.2.0.5--Jun24 Changelog: "SARAH BATHROOM"
 * SORTED - #545 Upgrade Upper Dorms Right to Shutter Switch v2
 * SORTED - #546 Upgrade Upper Dorms Right to Shutter Switch v2
 * SORTED - #547 Upgrade Upper Dorms Left to Shutter Switch v2
+* SORTED - #469 Added Shutter functionality to Protagonist Bathroom
 
 ------------------------------------------------------------------------------------
 
