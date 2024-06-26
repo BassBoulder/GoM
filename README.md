@@ -19,12 +19,14 @@ v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
 v0.2.0.7--Jul24 Changelog: "NORMAL MAPS"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+
+**CURRENT**
+
 v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-
-**CURRENT**
 
 v0.2.0.5--Jun24 Changelog: "SARAH BATHROOM"
 * SORTED - #538 Create Health Status Functionality
