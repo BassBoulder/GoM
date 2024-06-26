@@ -1,6 +1,12 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.1.4--Oct24 Changelog: "INTRO"
+* SORTED - #
+
+v0.2.1.3--Sep24 Changelog: "TRAITS"
+* SORTED - #
+
 v0.2.1.2--Sep24 Changelog: "EQUIPMENT SLOT V2 (HEAD | BODY | WEAPON | ACCESSORY 1+2)"
 * SORTED - #
 
