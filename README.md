@@ -35,6 +35,7 @@ v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
 * SORTED - #392 Create Lower Dorms Communal Bathroom Level
 * SORTED - #554 Create Communal Bathroom Floor
 * SORTED - #561 Tweaked Pivot Point on Mop Item
+* SORTED - #562 Frosted Glass Communal Bathrooms (v1)
 
 ------------------------------------------------------------------------------------
 
