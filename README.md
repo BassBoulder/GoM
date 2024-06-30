@@ -30,7 +30,11 @@ v0.2.0.7--Jul24 Changelog: "NORMAL MAPS"
 **CURRENT**
 
 v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
-* SORTED - #
+* SORTED - #535 (BUG) - Health Does Not Reset on Death Then Restart
+* SORTED - #391 Create Upper Dorms Communal Bathroom Level
+* SORTED - #392 Create Lower Dorms Communal Bathroom Level
+* SORTED - #554 Create Communal Bathroom Floor
+* SORTED - #561 Tweaked Pivot Point on Mop Item
 
 ------------------------------------------------------------------------------------
 
