@@ -22,12 +22,14 @@ v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
 v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+
+**CURRENT**
+
 v0.2.0.7--Jul24 Changelog: "NORMAL MAPS"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-
-**CURRENT**
 
 v0.2.0.6--Jun24 Changelog: "COMMUNAL BATHROOM"
 * SORTED - #535 (BUG) - Health Does Not Reset on Death Then Restart
