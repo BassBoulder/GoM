@@ -14,9 +14,11 @@
     <None Include="..\..\.gitattributes" />
     <None Include="..\..\.gitignore" />
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\GoM Changelog.xlsx" />
     <None Include="..\..\GoM No Text.ico" />
     <None Include="..\..\GoM.ico" />
     <None Include="..\..\GoM.png" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
