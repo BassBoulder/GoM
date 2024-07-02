@@ -1,2 +1,0 @@
-/Game/Blueprints/ZBP_Player.Default__ZBP_Player_C
-/Game/Blueprints/ZBP_Player.ZBP_Player_C
