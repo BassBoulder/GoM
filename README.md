@@ -29,7 +29,7 @@ v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
 
 **CURRENT**
 
-v0.2.0.7--Jul24 Changelog: "NORMAL MAPS"
+v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #563 (BUG) - Communal Stall Initialising Empty
 * SORTED - #564 (BUG) - Communal Bathroom Room says CR instead of CB
 * SORTED - #574 (BUG) - Invert Normal Maps 
