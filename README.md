@@ -32,7 +32,8 @@ v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
 v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #563 (BUG) - Communal Stall Initialising Empty
 * SORTED - #564 (BUG) - Communal Bathroom Room says CR instead of CB
-* SORTED - #574 (BUG) - Invert Normal Maps 
+* SORTED - #574 (BUG) - Invert Normal Maps
+* SORTEd - #576 (BUG) - Double Keyboard in Guard Post Level
 * SORTED - #570 Migrate from U5.3.2 To U5.4.2
 * SORTED - #572 Normal Maps need to use Texture Group: "2D Pixels (unfiltered)"
 * SORTED - #573 Removing Normal Map Sprites (Redundant)
