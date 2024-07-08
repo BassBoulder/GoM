@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.1.6--Nov24 Changlog: "140x140 PIXEL UNIFORMITY"
+* SORTED - #
+
 v0.2.1.5--Oct24 Changlog: "BUG BUSTER #1
 * SORTED - #
 
