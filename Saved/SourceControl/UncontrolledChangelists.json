@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Items/Sprites/Item_Light_Switch_Diffuse_Sprite.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Items/Sprites/Item_Light_Switch_Diffuse_Sprite_0.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/__ExternalActors__/Levels/Recreation_Room_Level/A/ML/UXH42D3YDVO2S87A4PJG62.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Blueprints/Item/Interact_No_Collect/Switches/Light_Switch_v2_BP.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/GoM/Content/Assets/Items/Sprites/Item_Light_Switch_Diffuse_Sprite_1.uasset"
+			]
+		}
+	]
+}
