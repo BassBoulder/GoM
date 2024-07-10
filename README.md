@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.1.7--Nov24 Changlog: "LEVEL TRANSITIONS v3"
+* SORTED - #
+
 v0.2.1.6--Nov24 Changlog: "140x140 PIXEL UNIFORMITY"
 * SORTED - #
 
