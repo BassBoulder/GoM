@@ -43,6 +43,7 @@ v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #570 Migrate from U5.3.2 To U5.4.2
 * SORTED - #572 Normal Maps need to use Texture Group: "2D Pixels (unfiltered)"
 * SORTED - #573 Removing Normal Map Sprites (Redundant)
+* SORTED - #232 New Item Folders (Interact_Collect | Interact_No_Collect | Scenery)
 
 ------------------------------------------------------------------------------------
 
