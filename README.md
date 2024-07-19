@@ -41,9 +41,10 @@ v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #574 (BUG) - Invert Normal Maps
 * SORTEd - #576 (BUG) - Double Keyboard in Guard Post Level
 * SORTED - #570 Migrate from U5.3.2 To U5.4.2
-* SORTED - #572 Normal Maps need to use Texture Group: "2D Pixels (unfiltered)"
+* SORTED - #572 Normal Maps need to use Texture Group: "2D Pixels (unfiltered) (Potentially)"
 * SORTED - #573 Removing Normal Map Sprites (Redundant)
 * SORTED - #232 New Item Folders (Interact_Collect | Interact_No_Collect | Scenery)
+* SORTED - #568 Create Normal Map v2 for All Backgrounds 
 
 ------------------------------------------------------------------------------------
 
