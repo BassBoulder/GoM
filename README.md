@@ -46,6 +46,8 @@ v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #232 New Item Folders (Interact_Collect | Interact_No_Collect | Scenery)
 * SORTED - #568 Create Normal Map v2 for All Backgrounds
 * SORTED - #569 Create Normal Map v2 for All Floors
+* SORTED - #585 Tweaks to Ceiling Light Flipbook & Sprites
+* SORTED - #586 Tweaks to Desk Fan Flipbook & Sprites
 
 ------------------------------------------------------------------------------------
 
