@@ -40,14 +40,16 @@ v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #564 (BUG) - Communal Bathroom Room says CR instead of CB
 * SORTED - #574 (BUG) - Invert Normal Maps
 * SORTEd - #576 (BUG) - Double Keyboard in Guard Post Level
+* SORTED - #232 New Item Folders (Interact_Collect | Interact_No_Collect | Scenery)
+* SORTED - #567 Create Normal Map v2 for All Items
+* SORTED - #568 Create Normal Map v2 for All Backgrounds
+* SORTED - #569 Create Normal Map v2 for All Floors
 * SORTED - #570 Migrate from U5.3.2 To U5.4.2
 * SORTED - #572 Normal Maps need to use Texture Group: "2D Pixels (unfiltered) (Potentially)"
 * SORTED - #573 Removing Normal Map Sprites (Redundant)
-* SORTED - #232 New Item Folders (Interact_Collect | Interact_No_Collect | Scenery)
-* SORTED - #568 Create Normal Map v2 for All Backgrounds
-* SORTED - #569 Create Normal Map v2 for All Floors
 * SORTED - #585 Tweaks to Ceiling Light Flipbook & Sprites
 * SORTED - #586 Tweaks to Desk Fan Flipbook & Sprites
+* SORTED - #587 "Zero" Z-Axis All Floor Levels
 
 ------------------------------------------------------------------------------------
 
