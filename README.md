@@ -48,6 +48,7 @@ v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #570 Migrate from U5.3.2 To U5.4.2
 * SORTED - #572 Normal Maps need to use Texture Group: "2D Pixels (unfiltered) (Potentially)"
 * SORTED - #573 Removing Normal Map Sprites (Redundant)
+* SORTED - #575 Amalgamate Sprite Sheets where needed
 * SORTED - #585 Tweaks to Ceiling Light Flipbook & Sprites
 * SORTED - #586 Tweaks to Desk Fan Flipbook & Sprites
 * SORTED - #587 "Zero" Z-Axis All Floor Levels
