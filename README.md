@@ -40,6 +40,7 @@ v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #564 (BUG) - Communal Bathroom Room says CR instead of CB
 * SORTED - #574 (BUG) - Invert Normal Maps
 * SORTEd - #576 (BUG) - Double Keyboard in Guard Post Level
+* SORTED - #585 (BUG) - Wrong Player Start for Kitchen to Hallway 
 * SORTED - #232 New Item Folders (Interact_Collect | Interact_No_Collect | Scenery)
 * SORTED - #567 Create Normal Map v2 for All Items
 * SORTED - #568 Create Normal Map v2 for All Backgrounds
