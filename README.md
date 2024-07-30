@@ -43,6 +43,7 @@ v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #585 (BUG) - Wrong Player Start for Kitchen to Hallway
 * SORTED - #592 (BUG) - Stray old assets within Protagonist Bathroom Level
 * SORTED - #232 New Item Folders (Interact_Collect | Interact_No_Collect | Scenery)
+* SORTED - #458 Removing duplication & redundancy in files & folders
 * SORTED - #567 Create Normal Map v2 for All Items
 * SORTED - #568 Create Normal Map v2 for All Backgrounds
 * SORTED - #569 Create Normal Map v2 for All Floors
@@ -53,6 +54,9 @@ v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #585 Tweaks to Ceiling Light Flipbook & Sprites
 * SORTED - #586 Tweaks to Desk Fan Flipbook & Sprites
 * SORTED - #587 "Zero" Z-Axis All Floor Levels
+* SORTED - #590 Create Bucket with Water Item (v2)
+* SORTED - #591 Upgrade Flipbooks & Sprites from v1 / old folder v2 to new v2
+* SORTED - #593 Upgrade BP Projectile from v1 to v2 sprites (Bullet & Casing)
 
 ------------------------------------------------------------------------------------
 
