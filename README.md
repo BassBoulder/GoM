@@ -27,13 +27,14 @@ v0.2.1.0--Aug24 Changelog: "LEVELS v3 (3D BACKGROUNDS)"
 
 v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
 * SORTED - #
+  
+------------------------------------------------------------------------------------
 
+**CURRENT**
 v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-
-**CURRENT**
 
 v0.2.0.7--Jul24 Changelog: "NORMAL MAPS v2"
 * SORTED - #563 (BUG) - Communal Stall Initialising Empty
