@@ -41,6 +41,7 @@ v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
 * SORTED - #597 Create Bullet Projectile Asset (Firing Weapon = Projectile + Casing)
 * SORTED - #602 Upgrade Projectile Bullet BP from v1 > v2
 * SORTED - #605 Tweaked Idle Animation No Weapon for Protagonist
+* SORTED - #606 Create Locked Flag for Locked Storage 
 
 ------------------------------------------------------------------------------------
 
