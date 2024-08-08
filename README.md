@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.1.8--Decv24 Changlog: "MIGRATION TO ENHANCED INPUT (INPUT V2)"
+* SORTED - #
+
 v0.2.1.7--Nov24 Changlog: "TRANSITION LEVELS (DOOR v3 | STAIR v2)"
 * SORTED - #
 
