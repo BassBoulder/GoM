@@ -36,6 +36,7 @@ v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
 **CURRENT**
 v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
 * SORTED - #597 Create Bullet Projectile Asset (Firing Weapon = Projectile + Casing)
+* SORTED - #602 Upgrade Projectile Bullet BP from v1 > v2 
 
 ------------------------------------------------------------------------------------
 
