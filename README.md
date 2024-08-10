@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.1.9--Decv24 Changlog: "PAPER ZD ANIMATION BP v2"
+* SORTED - #
+
 v0.2.1.8--Decv24 Changlog: "MIGRATION TO ENHANCED INPUT (INPUT V2)"
 * SORTED - #
 
@@ -39,9 +42,11 @@ v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
 * SORTED - #596 (BUG) - Kitchen Assets appearing in some levels randomly
 * SORTED - #604 (BUG) - Can still interact with Items outside of Interaction Range
 * SORTED - #597 Create Bullet Projectile Asset (Firing Weapon = Projectile + Casing)
+* SORTED - #600 Create Interaction Widget (v2)
+* SORTED - #601 Upgrade Main Widget BP to incorporate Interaction Widget (v2)
 * SORTED - #602 Upgrade Projectile Bullet BP from v1 > v2
 * SORTED - #605 Tweaked Idle Animation No Weapon for Protagonist
-* SORTED - #606 Create Locked Flag for Locked Storage 
+* SORTED - #606 Create Locked Flag for Locked Storage
 
 ------------------------------------------------------------------------------------
 
