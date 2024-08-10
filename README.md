@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.1.9--Decv24 Changlog: "PAPER ZD ANIMATION BP v2"
+* SORTED - #
+
 v0.2.1.8--Decv24 Changlog: "MIGRATION TO ENHANCED INPUT (INPUT V2)"
 * SORTED - #
 
