@@ -31,12 +31,15 @@ v0.2.1.1--Sep24 Changelog: "AMBIENT MUSIC"
 v0.2.1.0--Aug24 Changelog: "LEVELS v3 (3D BACKGROUNDS)"
 * SORTED - #
 
+
+------------------------------------------------------------------------------------
+
+**CURRENT**
 v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
 * SORTED - #
   
 ------------------------------------------------------------------------------------
 
-**CURRENT**
 v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION v2"
 * SORTED - #15 (BUG) - Check why RNG item search bugged suddenly
 * SORTED - #596 (BUG) - Kitchen Assets appearing in some levels randomly
