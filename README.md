@@ -1,10 +1,13 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
-v0.2.1.9--Decv24 Changlog: "PAPER ZD ANIMATION BP v2"
+v0.2.2.0--Jan24 Changlog: "MIGRRATION TO DATA ASSETS (FROM DATA TABLE)"
 * SORTED - #
 
-v0.2.1.8--Decv24 Changlog: "MIGRATION TO ENHANCED INPUT (INPUT V2)"
+v0.2.1.9--Dec24 Changlog: "PAPER ZD ANIMATION BP v2"
+* SORTED - #
+
+v0.2.1.8--Dec24 Changlog: "MIGRATION TO ENHANCED INPUT (INPUT V2)"
 * SORTED - #
 
 v0.2.1.7--Nov24 Changlog: "TRANSITION LEVELS (DOOR v3 | STAIR v2)"
