@@ -37,7 +37,7 @@ v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
 ------------------------------------------------------------------------------------
 
 **CURRENT**
-v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION"
+v0.2.0.8--Jul24 Changelog: "COMMUNICATION INTERACTION v2"
 * SORTED - #15 (BUG) - Check why RNG item search bugged suddenly
 * SORTED - #596 (BUG) - Kitchen Assets appearing in some levels randomly
 * SORTED - #604 (BUG) - Can still interact with Items outside of Interaction Range
