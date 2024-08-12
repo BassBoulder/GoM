@@ -42,6 +42,9 @@ v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
 * SORTED - #2 (BUG) - Save file saves 'Hallway_Level' location as still 'Protagonist_Bedroom_Level'
 * SORTED - #613 (BUG) - Auto Save uses last level instead of current level
 * SORTED - #614 (BUG) - Saves Do Not Store Load Player Start Information
+* SORTED - #617 (BUG) - Decrease Credits not decreasing
+* SORTED - #615 Deactivate Interaction Widget v1
+* SORTED - #616 Add Rotation Variable into Event Dispatcher 
   
 ------------------------------------------------------------------------------------
 
