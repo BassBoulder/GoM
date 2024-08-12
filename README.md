@@ -40,6 +40,7 @@ v0.2.1.0--Aug24 Changelog: "LEVELS v3 (3D BACKGROUNDS)"
 **CURRENT**
 v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
 * SORTED - #2 (BUG) - Save file saves 'Hallway_Level' location as still 'Protagonist_Bedroom_Level'
+* SORTEd - #595 (BUG) - Interaction range on Door BP too big 
 * SORTED - #613 (BUG) - Auto Save uses last level instead of current level
 * SORTED - #614 (BUG) - Saves Do Not Store Load Player Start Information
 * SORTED - #617 (BUG) - Decrease Credits not decreasing
