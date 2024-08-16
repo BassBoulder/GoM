@@ -40,16 +40,16 @@ v0.2.1.0--Aug24 Changelog: "LEVELS v3 (3D BACKGROUNDS)"
 v0.2.0.9--Aug24 Changelog: "GAME INSTANCE v2"
 * SORTED - #2 (BUG) - Save file saves 'Hallway_Level' location as still 'Protagonist_Bedroom_Level'
 * SORTED - #137 (BUG) - Generate Starting Items replicating it's items
-* SORTED - #502 (BUG) - Generate Starting Items replicating it's items
+* SORTED - #502 (BUG) - Can't move on new level load 
 * SORTED - #536 (BUG) - Does not Remember Equipment Slots between Levels
 * SORTED - #595 (BUG) - Interaction range on Door BP too big 
 * SORTED - #613 (BUG) - Auto Save uses last level instead of current level
 * SORTED - #614 (BUG) - Saves Do Not Store Load Player Start Information
 * SORTED - #617 (BUG) - Decrease Credits not decreasing
 * SORTED - #503 Change GI Load & Save Variables process to Level Blueprints
+* SORTED - #611 Upgrade & Simplify Whole GI Process
 * SORTED - #615 Deactivate Interaction Widget v1
 * SORTED - #616 Add Rotation Variable into Event Dispatcher
-* SORTED - #611 Upgrade & Simplify Whole GI Process
 * SORTED - #623 Migrate Save Load & Game Instance Process to use Structs
 * SORTED - #626 Refactor Inventory BP (Overloaded Functions & Event Begin Play) 
   
