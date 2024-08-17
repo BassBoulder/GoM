@@ -1,6 +1,12 @@
 ------------------------------------------------------------------------------------
 **PLANNED**
 
+v0.2.2.2--Jan24 Changlog: "PERSISTENT LEVELS"
+* SORTED - #
+
+v0.2.2.1--Jan24 Changlog: "PERSISTENT NPCS & ENEMIES"
+* SORTED - #
+
 v0.2.2.0--Jan24 Changlog: "MIGRRATION TO DATA ASSETS (FROM DATA TABLE)"
 * SORTED - #
 
