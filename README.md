@@ -42,6 +42,7 @@ v0.2.1.1--Sep24 Changelog: "AMBIENT MUSIC"
 
 v0.2.1.0--Aug24 Changelog: "LEVELS v3 (3D BACKGROUNDS)"
 * SORTED - #652 (BUG) - Stairs Transition Level On Exit not working
+* SORTED - #654 (BUG) - Door Range Not Going Out of Range 
 * SORTED - #507 Upgrade Level Backgrounds to 3D (v3) 
 * SORTED - #637 Create Standard Room Template in Blender (3D)
 * SORTED - #638 Create Small Room Template in Blender (3D)
@@ -49,6 +50,7 @@ v0.2.1.0--Aug24 Changelog: "LEVELS v3 (3D BACKGROUNDS)"
 * SORTED - #641 Create Room + Stairs Template in Blender (3D)
 * SORTED - #642 Create Large Room Template in Blender (3D)
 * SORTED - #645 Create Small Stairs Template in Blender (3D)
+* SORTED - #649 Upgrade Shutter Switch to v3 (3D)
 * SORTED - #653 Create Large Stairs Template in Blender (3D)
 
 ------------------------------------------------------------------------------------
