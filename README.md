@@ -49,6 +49,7 @@ v0.2.1.0--Aug24 Changelog: "LEVELS v3 (3D BACKGROUNDS)"
 * SORTED - #639 Create Small Bathroom Template in Blender (3D)
 * SORTED - #641 Create Room + Stairs Template in Blender (3D)
 * SORTED - #642 Create Large Room Template in Blender (3D)
+* SORTED - #644 Upgrade Stairs to v2 (3D) 
 * SORTED - #645 Create Small Stairs Template in Blender (3D)
 * SORTED - #649 Upgrade Shutter Switch to v3 (3D)
 * SORTED - #653 Create Large Stairs Template in Blender (3D)
