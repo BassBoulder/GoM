@@ -41,7 +41,7 @@ v0.2.1.1--Sep24 Changelog: "AMBIENT MUSIC"
 **CURRENT**
 
 v0.2.1.0--Aug24 Changelog: "LEVELS v3 (3D BACKGROUNDS)"
-* SPRTED - #631 (BUG) - Light Switch v2 interaction range not disconnecting
+* SORTED - #631 (BUG) - Light Switch v2 interaction range not disconnecting
 * SORTED - #652 (BUG) - Stairs Transition Level On Exit not working
 * SORTED - #654 (BUG) - Door Range Not Going Out of Range 
 * SORTED - #507 Upgrade Level Backgrounds to 3D (v3) 
