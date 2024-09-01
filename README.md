@@ -38,7 +38,7 @@ v0.2.1.2--Sep24 Changelog: "EQUIPMENT SLOT V2 (HEAD | BODY | WEAPON | ACCESSORY 
 **CURRENT**
 
 v0.2.1.1--Sep24 Changelog: "AMBIENT MUSIC"
-* SORTED - #
+* SORTED - #659 (BUG) - Ammo Widget Showing On Load
 
 ------------------------------------------------------------------------------------
 
