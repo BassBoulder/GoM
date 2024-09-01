@@ -34,11 +34,13 @@ v0.2.1.3--Sep24 Changelog: "TRAITS"
 v0.2.1.2--Sep24 Changelog: "EQUIPMENT SLOT V2 (HEAD | BODY | WEAPON | ACCESSORY 1+2)"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+**CURRENT**
+
 v0.2.1.1--Sep24 Changelog: "AMBIENT MUSIC"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-**CURRENT**
 
 v0.2.1.0--Aug24 Changelog: "LEVELS v3 (3D BACKGROUNDS)"
 * SORTED - #631 (BUG) - Light Switch v2 interaction range not disconnecting
