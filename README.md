@@ -39,6 +39,9 @@ v0.2.1.2--Sep24 Changelog: "EQUIPMENT SLOT V2 (HEAD | BODY | WEAPON | ACCESSORY 
 
 v0.2.1.1--Sep24 Changelog: "AMBIENT MUSIC"
 * SORTED - #659 (BUG) - Ammo Widget Showing On Load
+* SORTED - #58 Create Ambient Music
+* SORTED - #661 Create Game Instance for Music
+* SORTED - #662 Create Music Persistence between Levels
 
 ------------------------------------------------------------------------------------
 
