@@ -42,6 +42,7 @@ v0.2.1.1--Sep24 Changelog: "AMBIENT MUSIC"
 * SORTED - #58 Create Ambient Music
 * SORTED - #661 Create Game Instance for Music
 * SORTED - #662 Create Music Persistence between Levels
+* SORTED - #664 Trigger Ambient Music Change on Injury
 
 ------------------------------------------------------------------------------------
 
