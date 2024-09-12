@@ -35,7 +35,7 @@ v0.2.1.3--Sep24 Changelog: "TRAITS"
 **CURRENT**
 
 v0.2.1.2--Sep24 Changelog: "EQUIPMENT SLOT V2 (HEAD | BODY | WEAPON | ACCESSORY 1+2)"
-* SORTED - #
+* SORTED - #665 (BUG) - Adding Experience Created Infinite Loop
 
 ------------------------------------------------------------------------------------
 
