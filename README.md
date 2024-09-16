@@ -28,11 +28,13 @@ v0.2.1.5--Oct24 Changlog: "BUG BUSTER #1
 v0.2.1.4--Oct24 Changelog: "INTRO"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+**CURRENT**
+
 v0.2.1.3--Sep24 Changelog: "TRAITS"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-**CURRENT**
 
 v0.2.1.2--Sep24 Changelog: "EQUIPMENT SLOT v2 (HEAD | BODY | WEAPON MAIN / SIDE | ACCESSORY 1+2)"
 * SORTED - #665 (BUG) - Adding Experience Created Infinite Loop
