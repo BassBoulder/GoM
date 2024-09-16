@@ -37,7 +37,9 @@ v0.2.1.3--Sep24 Changelog: "TRAITS"
 v0.2.1.2--Sep24 Changelog: "EQUIPMENT SLOT v2 (HEAD | BODY | WEAPON MAIN / SIDE | ACCESSORY 1+2)"
 * SORTED - #665 (BUG) - Adding Experience Created Infinite Loop
 * SORTED - #666 (BUG) - All Items & Equipment defaulted to BP Master
+* SORTED - #22 Create Equipment System v2 (Head, Chest, Accessory #1 & #2, Side & Main Weapon slots)
 * SORTED - #669 Updated Redirectors
+* SORTED - #670 Updated SaveLoad Logic For Additional Equipment Slots
 
 ------------------------------------------------------------------------------------
 
