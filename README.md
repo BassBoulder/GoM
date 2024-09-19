@@ -32,7 +32,12 @@ v0.2.1.4--Oct24 Changelog: "INTRO"
 **CURRENT**
 
 v0.2.1.3--Sep24 Changelog: "TRAITS"
+* SORTED - #679 (BUG) - (BUG) - Main Menu Button On Pause Menu Was Not Resetting Game
 * SORTED - #677 Add Numerical Values to Status Bar
+* SORTED - #680 Upgrade SaveLoad to Include Traits
+* SORTED - #612 Create Widget for selecting Traits
+* SORTED - #673 Create Traits v1
+* SORTED - #678 Add Trait Menu into Main Menu
 
 ------------------------------------------------------------------------------------
 
