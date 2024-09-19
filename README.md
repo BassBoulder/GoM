@@ -25,11 +25,13 @@ v0.2.1.6--Nov24 Changlog: "140x140 PIXEL UNIFORMITY"
 v0.2.1.5--Oct24 Changlog: "BUG BUSTER #1
 * SORTED - #
 
-v0.2.1.4--Oct24 Changelog: "INTRO"
+------------------------------------------------------------------------------------
+**CURRENT**
+
+v0.2.1.4--Sep24 Changelog: "INTRO"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-**CURRENT**
 
 v0.2.1.3--Sep24 Changelog: "TRAITS"
 * SORTED - #679 (BUG) - (BUG) - Main Menu Button On Pause Menu Was Not Resetting Game
