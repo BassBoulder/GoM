@@ -32,7 +32,7 @@ v0.2.1.4--Oct24 Changelog: "INTRO"
 **CURRENT**
 
 v0.2.1.3--Sep24 Changelog: "TRAITS"
-* SORTED - #
+* SORTED - #677 Add Numerical Values to Status Bar
 
 ------------------------------------------------------------------------------------
 
