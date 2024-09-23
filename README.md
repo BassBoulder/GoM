@@ -29,7 +29,7 @@ v0.2.1.5--Oct24 Changlog: "BUG BUSTER #1
 **CURRENT**
 
 v0.2.1.4--Sep24 Changelog: "INTRO"
-* SORTED - #
+* SORTED - #551 (BUG) - Lockdown functionality on death + animation
 
 ------------------------------------------------------------------------------------
 
