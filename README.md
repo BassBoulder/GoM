@@ -22,11 +22,13 @@ v0.2.1.7--Nov24 Changlog: "TRANSITION LEVELS (DOOR v3 | STAIR v2)"
 v0.2.1.6--Nov24 Changlog: "140x140 PIXEL UNIFORMITY"
 * SORTED - #
 
+------------------------------------------------------------------------------------
+**CURRENT**
+
 v0.2.1.5--Oct24 Changlog: "BUG BUSTER #1
 * SORTED - #
 
 ------------------------------------------------------------------------------------
-**CURRENT**
 
 v0.2.1.4--Sep24 Changelog: "INTRO"
 * SORTED - #551 (BUG) - Lockdown functionality on death + animation
