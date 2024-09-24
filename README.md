@@ -30,6 +30,10 @@ v0.2.1.5--Oct24 Changlog: "BUG BUSTER #1
 
 v0.2.1.4--Sep24 Changelog: "INTRO"
 * SORTED - #551 (BUG) - Lockdown functionality on death + animation
+* SORTED - #682 Create Medical Room Music
+* SORTED - #683 Create Menu Music
+* SORTED - #684 Create Intro Music
+* SORTED - #686 Create John Audio Logs (v1)
 
 ------------------------------------------------------------------------------------
 
