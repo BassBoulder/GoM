@@ -19,13 +19,13 @@ v0.2.1.8--Dec24 Changlog: "MIGRATION TO ENHANCED INPUT (INPUT V2)"
 v0.2.1.7--Nov24 Changlog: "TRANSITION LEVELS (DOOR v3 | STAIR v2)"
 * SORTED - #
 
-v0.2.1.6--Nov24 Changlog: "140x140 PIXEL UNIFORMITY"
+v0.2.1.6--Oct24 Changlog: "140x140 PIXEL UNIFORMITY"
 * SORTED - #
 
 ------------------------------------------------------------------------------------
 **CURRENT**
 
-v0.2.1.5--Oct24 Changlog: "BUG BUSTER #1
+v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #
 
 ------------------------------------------------------------------------------------
