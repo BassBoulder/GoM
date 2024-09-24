@@ -30,10 +30,14 @@ v0.2.1.5--Oct24 Changlog: "BUG BUSTER #1
 
 v0.2.1.4--Sep24 Changelog: "INTRO"
 * SORTED - #551 (BUG) - Lockdown functionality on death + animation
+* SORTED - #689 (BUG) - Warning around Mouse Aim Cursor Not Available
+* SORTED - #690 (BUG) - Door BP Mobility Inconsistency 
 * SORTED - #682 Create Medical Room Music
 * SORTED - #683 Create Menu Music
 * SORTED - #684 Create Intro Music
 * SORTED - #686 Create John Audio Logs (v1)
+* SORTED - #687 Add Fade-In Animation to Main Menu
+* SORTED - #688 Add Fade-In Animation to Intro Cutscene
 
 ------------------------------------------------------------------------------------
 
