@@ -26,14 +26,14 @@ v0.2.1.6--Oct24 Changlog: "140x140 PIXEL UNIFORMITY"
 **CURRENT**
 
 v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
-* SORTED - #
+* SORTED - #691 (BUG) - Music Needs to Stop on Death 
 
 ------------------------------------------------------------------------------------
 
 v0.2.1.4--Sep24 Changelog: "INTRO"
 * SORTED - #551 (BUG) - Lockdown functionality on death + animation
 * SORTED - #689 (BUG) - Warning around Mouse Aim Cursor Not Available
-* SORTED - #690 (BUG) - Door BP Mobility Inconsistency 
+* SORTED - #690 (BUG) - Door BP Mobility Inconsistency
 * SORTED - #682 Create Medical Room Music
 * SORTED - #683 Create Menu Music
 * SORTED - #684 Create Intro Music
