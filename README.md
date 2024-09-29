@@ -26,6 +26,7 @@ v0.2.1.6--Oct24 Changlog: "140x140 PIXEL UNIFORMITY"
 **CURRENT**
 
 v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
+* SORTED - #624 (BUG) Light turned on with L, but was far out of range on Level Re-Entry
 * SORTED - #657 (BUG) - Protagonist Bathroom Seam Visible
 * SORTED - #691 (BUG) - Music Needs to Stop on Death
 * SORTED - #692 Create Intro Toggle
