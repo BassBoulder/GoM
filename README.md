@@ -30,6 +30,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #594 (BUG) - Barry Dresser does not interact 
 * SORTED - #624 (BUG) Light turned on with L, but was far out of range on Level Re-Entry
 * SORTED - #657 (BUG) - Protagonist Bathroom Seam Visible
+* SORTED - #668 (BUG) - Other Weapon Is Not Put Back In Inventory On Equip
 * SORTED - #691 (BUG) - Music Needs to Stop on Death
 * SORTED - #692 Create Intro Toggle
 * SORTED - #697 Tweak Door Collison to Reduce Interact Footprint
