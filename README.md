@@ -27,15 +27,23 @@ v0.2.1.6--Oct24 Changlog: "140x140 PIXEL UNIFORMITY"
 
 v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #95 (BUG) - Bug where between level loads & ammo swaps, somehow firemodes go to all 3
-* SORTED - #594 (BUG) - Barry Dresser does not interact 
+* SORTED - #589 (BUG) - Lost Door Transition Animation for Door Sprite
+* SORTED - #594 (BUG) - Barry Dresser does not interact
 * SORTED - #624 (BUG) - Light turned on with L, but was far out of range on Level Re-Entry
+* SORTED - #655 (BUG) - Door Sprite Not Changing Dynamically Any Longer
 * SORTED - #657 (BUG) - Protagonist Bathroom Seam Visible
 * SORTED - #668 (BUG) - Other Weapon Is Not Put Back In Inventory On Equip
 * SORTED - #671 (BUG) - Lose Item If Miss Equipment Slot on Left-Click Drag
 * SORTED - #691 (BUG) - Music Needs to Stop on Death
+* SORTED - #700 (BUG) - Storage & Light BP down as Moveable instead of Static
+* SORTED - #701 (BUG) - White Blank Item Info on Drag from Equipment Slot
+* SORTED - #702 (BUG) - Storage Containers Appear Bugged (Won't Open)
+* SORTED - #705 (BUG) - Storage Container BP reading None on Game Instance
+* SORTED - #706 (BUG) - Dialogue Protagonist Casting Issue
 * SORTED - #692 Create Intro Toggle
 * SORTED - #697 Tweak Door Collison to Reduce Interact Footprint
 * SORTED - #698 Removed Redundant Dresser Sprite Setting
+* SORTED - #709 Create Pre-Main Menu Intro Sequence
 
 ------------------------------------------------------------------------------------
 
