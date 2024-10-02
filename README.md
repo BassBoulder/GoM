@@ -44,6 +44,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #697 Tweak Door Collison to Reduce Interact Footprint
 * SORTED - #698 Removed Redundant Dresser Sprite Setting
 * SORTED - #709 Create Pre-Main Menu Intro Sequence
+* SORTED - #710 Upgrade Door_Exit Sequence to v2
 
 ------------------------------------------------------------------------------------
 
