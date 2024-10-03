@@ -33,6 +33,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #624 (BUG) - Light turned on with L, but was far out of range on Level Re-Entry
 * SORTED - #655 (BUG) - Door Sprite Not Changing Dynamically Any Longer
 * SORTED - #657 (BUG) - Protagonist Bathroom Seam Visible
+* SORTED - #660 (BUG) - LOD Needs To Always Be High Detail 
 * SORTED - #668 (BUG) - Other Weapon Is Not Put Back In Inventory On Equip
 * SORTED - #671 (BUG) - Lose Item If Miss Equipment Slot on Left-Click Drag
 * SORTED - #691 (BUG) - Music Needs to Stop on Death
