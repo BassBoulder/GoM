@@ -27,6 +27,7 @@ v0.2.1.6--Oct24 Changlog: "140x140 PIXEL UNIFORMITY"
 
 v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #95 (BUG) - Bug where between level loads & ammo swaps, somehow firemodes go to all 3
+* SORTED - #114 (BUG) - Storage slot where I put the same item on top (Inventory > Storage)
 * SORTED - #589 (BUG) - Lost Door Transition Animation for Door Sprite
 * SORTED - #594 (BUG) - Barry Dresser does not interact
 * SORTED - #624 (BUG) - Light turned on with L, but was far out of range on Level Re-Entry
@@ -44,6 +45,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #697 Tweak Door Collison to Reduce Interact Footprint
 * SORTED - #698 Removed Redundant Dresser Sprite Setting
 * SORTED - #709 Create Pre-Main Menu Intro Sequence
+* SORTED - #710 Upgrade Door_Exit Sequence to v2
 
 ------------------------------------------------------------------------------------
 
