@@ -36,6 +36,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #660 (BUG) - LOD Needs To Always Be High Detail 
 * SORTED - #668 (BUG) - Other Weapon Is Not Put Back In Inventory On Equip
 * SORTED - #671 (BUG) - Lose Item If Miss Equipment Slot on Left-Click Drag
+* SORTED - #681 (BUG) - Recent Regular Crash on Initial Level Play After Opening Unreal
 * SORTED - #691 (BUG) - Music Needs to Stop on Death
 * SORTED - #700 (BUG) - Storage & Light BP down as Moveable instead of Static
 * SORTED - #701 (BUG) - White Blank Item Info on Drag from Equipment Slot
