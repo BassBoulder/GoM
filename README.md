@@ -44,8 +44,10 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #692 Create Intro Toggle
 * SORTED - #697 Tweak Door Collison to Reduce Interact Footprint
 * SORTED - #698 Removed Redundant Dresser Sprite Setting
+* SORTEd - #707 Created Room Music (Peace A, B, C) 
 * SORTED - #709 Create Pre-Main Menu Intro Sequence
 * SORTED - #710 Upgrade Door_Exit Sequence to v2
+* SORTED - #711 Create Fighting Music
 
 ------------------------------------------------------------------------------------
 
