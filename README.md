@@ -31,6 +31,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #540 (BUG) - Removing Weapon no longer triggers Weapon Drop
 * SORTED - #589 (BUG) - Lost Door Transition Animation for Door Sprite
 * SORTED - #594 (BUG) - Barry Dresser does not interact
+* SORTED - #598 (BUG) - Can walk through Stove
 * SORTED - #624 (BUG) - Light turned on with L, but was far out of range on Level Re-Entry
 * SORTED - #655 (BUG) - Door Sprite Not Changing Dynamically Any Longer
 * SORTED - #656 (BUG) - Shutter Switch v3 (3D) Not Changing Sprite Before Load
@@ -48,6 +49,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #706 (BUG) - Dialogue Protagonist Casting Issue
 * SORTED - #708 (BUG) - Storage & Item Name_Text Flickers On & Off 1x
 * SORTED - #712 (BUG) - Holster Only if Active Weapon
+* SORTED - #713 (BUG) - Can not Open Fridge or Freezer
 * SORTED - #692 Create Intro Toggle
 * SORTED - #697 Tweak Door Collison to Reduce Interact Footprint
 * SORTED - #698 Removed Redundant Dresser Sprite Setting
