@@ -34,6 +34,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #624 (BUG) - Light turned on with L, but was far out of range on Level Re-Entry
 * SORTED - #655 (BUG) - Door Sprite Not Changing Dynamically Any Longer
 * SORTED - #656 (BUG) - Shutter Switch v3 (3D) Not Changing Sprite Before Load
+* SORTED - #658 (BUG) - Light Behaviour on Detaching Light
 * SORTED - #657 (BUG) - Protagonist Bathroom Seam Visible
 * SORTED - #660 (BUG) - LOD Needs To Always Be High Detail 
 * SORTED - #668 (BUG) - Other Weapon Is Not Put Back In Inventory On Equip
