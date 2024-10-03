@@ -41,6 +41,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #702 (BUG) - Storage Containers Appear Bugged (Won't Open)
 * SORTED - #705 (BUG) - Storage Container BP reading None on Game Instance
 * SORTED - #706 (BUG) - Dialogue Protagonist Casting Issue
+* SORTED - #708 (BUG) - Storage & Item Name_Text Flickers On & Off 1x 
 * SORTED - #692 Create Intro Toggle
 * SORTED - #697 Tweak Door Collison to Reduce Interact Footprint
 * SORTED - #698 Removed Redundant Dresser Sprite Setting
