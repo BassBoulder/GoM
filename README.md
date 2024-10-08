@@ -37,7 +37,8 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #656 (BUG) - Shutter Switch v3 (3D) Not Changing Sprite Before Load
 * SORTED - #658 (BUG) - Light Behaviour on Detaching Light
 * SORTED - #657 (BUG) - Protagonist Bathroom Seam Visible
-* SORTED - #660 (BUG) - LOD Needs To Always Be High Detail 
+* SORTED - #660 (BUG) - LOD Needs To Always Be High Detail
+* SORTEd - #667 (BUG) - Projectiles Fall Through Floor 
 * SORTED - #668 (BUG) - Other Weapon Is Not Put Back In Inventory On Equip
 * SORTED - #671 (BUG) - Lose Item If Miss Equipment Slot on Left-Click Drag
 * SORTED - #681 (BUG) - Recent Regular Crash on Initial Level Play After Opening Unreal
