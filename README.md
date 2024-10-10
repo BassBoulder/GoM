@@ -51,6 +51,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #708 (BUG) - Storage & Item Name_Text Flickers On & Off 1x
 * SORTED - #712 (BUG) - Holster Only if Active Weapon
 * SORTED - #713 (BUG) - Can not Open Fridge or Freezer
+* SORTED - #716 (BUG) - Stuck Still Occasionally when using PDP
 * SORTED - #692 Create Intro Toggle
 * SORTED - #697 Tweak Door Collison to Reduce Interact Footprint
 * SORTED - #698 Removed Redundant Dresser Sprite Setting
