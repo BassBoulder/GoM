@@ -27,7 +27,7 @@ v0.2.1.6--Oct24 Changlog: "140x140 PIXEL UNIFORMITY"
 
 ------------------------------------------------------------------------------------
 
-v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
+v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1"
 * SORTED - #95 (BUG) - Bug where between level loads & ammo swaps, somehow firemodes go to all 3
 * SORTED - #114 (BUG) - Storage slot where I put the same item on top (Inventory > Storage)
 * SORTED - #540 (BUG) - Removing Weapon no longer triggers Weapon Drop
