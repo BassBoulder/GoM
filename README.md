@@ -27,7 +27,7 @@ v0.2.1.6--Oct24 Changlog: "140x140 PIXEL UNIFORMITY"
 
 ------------------------------------------------------------------------------------
 
-v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
+v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1"
 * SORTED - #95 (BUG) - Bug where between level loads & ammo swaps, somehow firemodes go to all 3
 * SORTED - #114 (BUG) - Storage slot where I put the same item on top (Inventory > Storage)
 * SORTED - #540 (BUG) - Removing Weapon no longer triggers Weapon Drop
@@ -40,7 +40,7 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #658 (BUG) - Light Behaviour on Detaching Light
 * SORTED - #657 (BUG) - Protagonist Bathroom Seam Visible
 * SORTED - #660 (BUG) - LOD Needs To Always Be High Detail
-* SORTEd - #667 (BUG) - Projectiles Fall Through Floor 
+* SORTED - #667 (BUG) - Projectiles Fall Through Floor 
 * SORTED - #668 (BUG) - Other Weapon Is Not Put Back In Inventory On Equip
 * SORTED - #671 (BUG) - Lose Item If Miss Equipment Slot on Left-Click Drag
 * SORTED - #681 (BUG) - Recent Regular Crash on Initial Level Play After Opening Unreal
@@ -54,11 +54,11 @@ v0.2.1.5--Sep24 Changlog: "BUG BUSTER #1
 * SORTED - #712 (BUG) - Holster Only if Active Weapon
 * SORTED - #713 (BUG) - Can not Open Fridge or Freezer
 * SORTED - #716 (BUG) - Stuck Still Occasionally when using PDP
-* SORTEd - #717 (BUG) - Aim Sprite Does not drop off intermittently
+* SORTED - #717 (BUG) - Aim Sprite Does not drop off intermittently
 * SORTED - #692 Create Intro Toggle
 * SORTED - #697 Tweak Door Collison to Reduce Interact Footprint
 * SORTED - #698 Removed Redundant Dresser Sprite Setting
-* SORTEd - #707 Created Room Music (Peace A, B, C) 
+* SORTED - #707 Created Room Music (Peace A, B, C) 
 * SORTED - #709 Create Pre-Main Menu Intro Sequence
 * SORTED - #710 Upgrade Door_Exit Sequence to v2
 * SORTED - #711 Create Fighting Music
