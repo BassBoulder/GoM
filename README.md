@@ -23,7 +23,7 @@ v0.2.1.7--Nov24 Changlog: "TRANSITION LEVELS (DOOR v3 | STAIR v2)"
 **CURRENT**
 
 v0.2.1.6--Oct24 Changlog: "140x140 PIXEL UNIFORMITY"
-* SORTED - #
+* SORTED - #730 Upgrade All 3D Levels & Stairs to x2 Scale
 
 ------------------------------------------------------------------------------------
 
